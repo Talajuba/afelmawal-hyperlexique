@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>AFELMAWAL – Amawal ameqran Tafransist >< Tamaziɣt</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            box-sizing: border-box;
+            transition: background-color 0.3s ease, color 0.2s ease, border-color 0.2s ease;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f3ef;
+            margin: 0;
+            padding: 20px;
+            color: #2c2b28;
+        }
+        body.light-mode {
+            background: #f5f3ef;
+            color: #2c2b28;
+        }
+        body.light-mode .container {
+            background: white;
+        }
+        body.light-mode .search-section {
+            background: #fffaf2;
+            border-color: #ffe0b5;
+        }
+        body.light-mode .search-box input {
+            background: white;
+            border-color: #ddd0bc;
+            color: #2c2b28;
+        }
+        body.light-mode .suggestions {
+            background: white;
+            border-color: #ddd0bc;
+        }
+        body.light-mode .sugg-item {
+            border-bottom-color: #f0e8dc;
+        }
+        body.light-mode .source-group {
+            background: #fffef8;
+            border-color: #e0d6c8;
+        }
+        body.light-mode .source-header {
+            background: #f0ede8;
+        }
+        body.light-mode .entry-item {
+            border-bottom-color: #f0e8dc;
+        }
+        body.light-mode .variants {
+            background: #f0ede8;
+        }
+        body.light-mode footer {
+            background: #f0ede8;
+            border-top-color: #e0d6c8;
+        }
+        body.light-mode .stats {
+            color: #7b6b58;
+        }
+        body.light-mode .no-results {
+            color: #888;
+        }
+        body.dark-mode {
+            background: #1a1a1a;
+            color: #e0e0e0;
+        }
+        body.dark-mode .container {
+            background: #2d2d2d;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        body.dark-mode .search-section {
+            background: #383838;
+            border-color: #5a5a5a;
+        }
+        body.dark-mode .search-box input {
+            background: #2d2d2d;
+            border-color: #5a5a5a;
+            color: #e0e0e0;
+        }
+        body.dark-mode .suggestions {
+            background: #2d2d2d;
+            border-color: #5a5a5a;
+        }
+        body.dark-mode .sugg-item {
+            border-bottom-color: #4a4a4a;
+        }
+        body.dark-mode .sugg-item:hover {
+            background: #404040;
+        }
+        body.dark-mode .source-group {
+            background: #353535;
+            border-color: #5a5a5a;
+        }
+        body.dark-mode .source-header {
+            background: #404040;
+        }
+        body.dark-mode .entry-item {
+            border-bottom-color: #4a4a4a;
+        }
+        body.dark-mode .variants {
+            background: #404040;
+        }
+        body.dark-mode footer {
+            background: #252525;
+            border-top-color: #4a4a4a;
+        }
+        body.dark-mode .stats {
+            color: #b0b0b0;
+        }
+        body.dark-mode .no-results {
+            color: #aaa;
+        }
+        body.dark-mode mark {
+            background: #ffd966;
+            color: #2c2b28;
+        }
+        body.dark-mode .btn-pdf-source {
+            background: #b55b1c;
+        }
+        body.dark-mode .btn-pdf-source:hover {
+            background: #8e4513;
+        }
+        /* Amélioration de la lisibilité des filtres en mode sombre */
+        body.dark-mode .filter-group label {
+            color: #f0c674;  /* jaune doux */
+        }
+        body.dark-mode .filter-group select {
+            background: #3a3a3a;
+            border-color: #777;
+            color: #f0f0f0;
+        }
+        body.dark-mode .filter-group select option {
+            background: #3a3a3a;
+            color: #f0f0f0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        /* Barre supérieure avec icône de langue au centre */
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 20px;
+            background: #2c5a2e;
+            color: white;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        body.dark-mode .top-bar {
+            background: #1e4a2a;
+        }
+        .logo-area {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .logo-area img {
+            height: 32px;
+            width: auto;
+        }
+        .logo-area a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        .logo-area a:hover {
+            opacity: 0.8;
+            text-decoration: underline;
+        }
+        .lang-center {
+            flex: 1;
+            text-align: center;
+        }
+        .icons-area {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+            gap: 15px;
+            align-items: center;
+        }
+        .icons-area a, .theme-toggle {
+            color: white;
+            font-size: 1.3rem;
+            transition: transform 0.2s, opacity 0.2s;
+            cursor: pointer;
+            background: none;
+            border: none;
+            padding: 0;
+        }
+        .icons-area a:hover, .theme-toggle:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+        .lang-toggle {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.3rem;
+            cursor: pointer;
+            transition: transform 0.2s, opacity 0.2s;
+        }
+        .lang-toggle:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+        /* Header : fond vert par défaut (tamazight) */
+        header {
+            background: linear-gradient(135deg, #2c5a2e 0%, #1e6f5c 100%);
+            color: white;
+            padding: 20px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: background 0.3s ease;
+        }
+        /* Header en mode français (nuances de bleu) */
+        header.fr-mode {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.3rem;
+            letter-spacing: 1px;
+            position: relative;
+            z-index: 2;
+        }
+        header h1 i {
+            margin-right: 10px;
+        }
+        header p {
+            margin: 10px 0 0;
+            opacity: 0.9;
+            font-size: 0.9rem;
+            position: relative;
+            z-index: 2;
+        }
+        /* Filigrane plus discret */
+        .tifinagh-watermark {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+            font-size: 1.8rem;
+            font-family: serif;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+            opacity: 0.12;
+        }
+        .tifinagh-watermark span {
+            display: inline-block;
+        }
+        @media (max-width: 600px) {
+            .tifinagh-watermark {
+                font-size: 1rem;
+                padding: 0 10px;
+            }
+            header h1 {
+                font-size: 1.6rem;
+            }
+            .top-bar {
+                flex-direction: column;
+            }
+            .logo-area, .lang-center, .icons-area {
+                flex: auto;
+                width: 100%;
+                justify-content: center;
+            }
+            .icons-area {
+                justify-content: center;
+            }
+        }
+        .dictionary {
+            padding: 20px 25px 25px;
+        }
+        .search-section {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 20px;
+            background: #fffaf2;
+            padding: 15px 20px;
+            border-radius: 24px;
+            border: 1px solid #ffe0b5;
+        }
+        .search-box {
+            flex: 3;
+            min-width: 200px;
+            position: relative;
+        }
+        .search-box label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 4px;
+            font-size: 0.9rem;
+            color: #a55d2a;
+        }
+        body.dark-mode .search-box label {
+            color: #f0c674;
+        }
+        .search-box input {
+            width: 100%;
+            padding: 8px 14px;
+            font-size: 0.95rem;
+            border-radius: 40px;
+        }
+        .suggestions {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: white;
+            border: 1px solid #ddd0bc;
+            border-radius: 16px;
+            max-height: 200px;
+            overflow-y: auto;
+            z-index: 1000;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            display: none;
+        }
+        .sugg-item {
+            padding: 6px 12px;
+            cursor: pointer;
+            border-bottom: 1px solid #f0e8dc;
+            font-size: 0.85rem;
+        }
+        .sugg-item:last-child {
+            border-bottom: none;
+        }
+        .sugg-item:hover {
+            background: #f0ede8;
+        }
+        .filters-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 15px;
+            align-items: center;
+            background: #fffaf2;
+            padding: 10px 20px;
+            border-radius: 30px;
+            border: 1px solid #ffe0b5;
+        }
+        .filter-group {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+        }
+        .filter-group label {
+            font-weight: bold;
+            font-size: 0.85rem;
+            color: #2c2b28;
+        }
+        .filter-group select {
+            background: white;
+            border: 1px solid #ddd0bc;
+            border-radius: 30px;
+            padding: 5px 10px;
+            font-size: 0.85rem;
+        }
+        button {
+            background: #b55b1c;
+            color: white;
+            border: none;
+            padding: 8px 24px;
+            border-radius: 40px;
+            font-size: 0.95rem;
+            font-weight: bold;
+            cursor: pointer;
+            align-self: flex-end;
+        }
+        button:hover {
+            background: #8e4513;
+            transform: scale(1.01);
+        }
+        .stats {
+            font-size: 0.75rem;
+            margin: 10px 0 15px;
+            text-align: center;
+        }
+        .source-group {
+            margin-bottom: 20px;
+            border: 1px solid #e0d6c8;
+            border-radius: 16px;
+            overflow: hidden;
+        }
+        .source-header {
+            background: #f0ede8;
+            padding: 8px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+            border-bottom: 1px solid #e0d6c8;
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+        .source-name {
+            font-size: 0.9rem;
+            color: #2c5a2e;
+        }
+        body.dark-mode .source-name {
+            color: #7bc47f;
+        }
+        .btn-pdf-source {
+            background: #d9534f;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-size: 0.7rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .btn-pdf-source:hover {
+            background: #c9302c;
+        }
+        .entries-list {
+            padding: 8px 15px;
+        }
+        .entry-item {
+            border-bottom: 1px solid #f0e8dc;
+            padding: 8px 0;
+        }
+        .entry-item:last-child {
+            border-bottom: none;
+        }
+        .french-word {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: #2c5a2e;
+        }
+        body.dark-mode .french-word {
+            color: #7bc47f;
+        }
+        .tamazight-word {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #1e6f5c;
+            margin-top: 3px;
+        }
+        body.dark-mode .tamazight-word {
+            color: #4fb3a0;
+        }
+        .variants {
+            margin-top: 4px;
+            font-size: 0.7rem;
+            background: #f0ede8;
+            padding: 2px 8px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+        .no-results {
+            text-align: center;
+            padding: 30px;
+            font-style: italic;
+            font-size: 0.9rem;
+        }
+        footer {
+            background: #f0ede8;
+            text-align: center;
+            font-size: 0.65rem;
+            color: #7a6a54;
+            padding: 8px;
+            border-top: 1px solid #e0d6c8;
+        }
+        @media (max-width: 700px) {
+            .search-section {
+                flex-direction: column;
+            }
+            button {
+                align-self: stretch;
+            }
+            .source-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .filters-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="top-bar">
+        <div class="logo-area">
+            <img src="logo.png" alt="Logo">
+            <a href="https://adrar-inu.blogspot.com/" target="_blank" rel="noopener noreferrer">Tala uMaziɣ</a>
+        </div>
+        <div class="lang-center">
+            <button id="langToggle" class="lang-toggle" title="Changer de langue"><i class="fas fa-globe"></i></button>
+        </div>
+        <div class="icons-area">
+            <a href="#" id="fullscreenBtn" title="Plein écran"><i class="fas fa-expand"></i></a>
+            <a href="https://www.youtube.com/@Juba-zt2fs" target="_blank" rel="noopener noreferrer" title="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=61559574241996" target="_blank" rel="noopener noreferrer" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <button id="darkModeToggle" class="theme-toggle" title="Mode sombre/clair"><i class="fas fa-moon"></i></button>
+        </div>
+    </div>
+
+    <header id="mainHeader">
+        <h1>
+            <i class="fas fa-book-open"></i> AFELMAWAL
+        </h1>
+        <p id="subtitle" title="Grand Lexique Français >< Tamazight">Amawal ameqran Tafransist >< Tamaziɣt</p>
+        <div class="tifinagh-watermark">
+            <span>ⴰⴼⴻⵍⵎⴰⵡⴰⵍ</span>
+            <span id="watermarkRight">HYPERLEXIQUE</span>
+        </div>
+    </header>
+
+    <div class="dictionary">
+        <div class="search-section">
+            <div class="search-box">
+                <label id="searchLabel" for="searchInput">Ssekcem awal s tefransist neɣ s tmaziɣt</label>
+                <input type="text" id="searchInput" 
+                       placeholder="Amedya : tagrawla, anmezruy, amgaru..."
+                       autocomplete="off">
+                <div id="suggestions" class="suggestions"></div>
+            </div>
+            <button id="searchBtn">🔎 Nadi</button>
+        </div>
+
+        <div class="filters-bar">
+            <div class="filter-group">
+                <label id="modeLabel">Askar :</label>
+                <select id="searchMode">
+                    <option value="contains" id="modeContains">Deg-s</option>
+                    <option value="startsWith" id="modeStartsWith">Ibeddu s</option>
+                    <option value="exact" id="modeExact">Ufrin</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label id="langLabel">Tutlayt :</label>
+                <select id="langFilter">
+                    <option value="both" id="langBoth">Deg snat</option>
+                    <option value="french" id="langFrench">Tafransist</option>   <!-- modifié -->
+                    <option value="tamazight" id="langTamazight">Tamaziɣt</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label id="sourceLabel">Amawal :</label>
+                <select id="sourceSelect">
+                    <option value="all" id="sourceAll">Merra</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="stats" id="stats"></div>
+        <div id="results"></div>
+    </div>
+
+    <footer>
+        <span id="footerText">Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H.</span>
+    </footer>
+</div>
+
+<script>
+    // ======================= SOURCES =======================
+    const SOURCES = [
+        { id: "histoire", nom_tm: "Asnirem n umezruy – H.A.M.", nom_fr: "Terminologie de l'histoire – H.A.M.", urlJson: "data/terminologie_histoire.json", pdfUrl: "https://talajuba.github.io/terminologie-histoire" },
+        { id: "inventaire", nom_tm: "Asuṭṭen n yiwalnuten – H.A.M.", nom_fr: "Inventaire des néologismes – H.A.M.", urlJson: "data/inventaire.json", pdfUrl: "https://talajuba.github.io/inventaire-neologismes" },
+        { id: "informatique", nom_tm: "Amawal n tsenselkimt – S.S.B.", nom_fr: "Lexique d'informatique – S.S.B.", urlJson: "data/informatique.json", pdfUrl: "https://talajuba.github.io/lexique-informatique" },
+        { id: "doctorat", nom_tm: "Tazrawt n Doctorat – B.H.", nom_fr: "Étude de doctorat – B.H.", urlJson: "data/doctorathb.json", pdfUrl: "https://talajuba.github.io/doctorat-bhamek" }
+    ];
+
+    let masterDictionary = [];
+    let currentLang = "tm"; // "tm" ou "fr"
+    let currentResults = [];
+    let currentSearchTerm = "";
+
+    // ======================= CHARGEMENT JSON =======================
+    async function loadSource(source) {
+        try {
+            const response = await fetch(source.urlJson);
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const data = await response.json();
+            if (!Array.isArray(data)) throw new Error("Le JSON n'est pas un tableau");
+            const entries = data.map(item => {
+                let tamList = [];
+                if (Array.isArray(item.tamazight)) tamList = item.tamazight;
+                else if (typeof item.tamazight === 'string') tamList = [item.tamazight];
+                else tamList = [];
+                tamList = tamList.map(t => t.replace(/\.$/, '').trim());
+                return {
+                    french: (item.french || "").trim(),
+                    tamazight: tamList,
+                    sourceId: source.id,
+                    sourceName_tm: source.nom_tm,
+                    sourceName_fr: source.nom_fr,
+                    pdfUrl: source.pdfUrl
+                };
+            }).filter(entry => entry.french !== "" || entry.tamazight.length > 0);
+            console.log(`✅ ${source.nom_tm} : ${entries.length} entrées`);
+            return entries;
+        } catch (err) {
+            console.error(`❌ Erreur ${source.nom_tm}:`, err);
+            alert(`⚠️ Ulac isefka. Ssenqed ifuyla JSON.`);
+            return [];
+        }
+    }
+
+    async function loadAllSources() {
+        const results = await Promise.all(SOURCES.map(src => loadSource(src)));
+        masterDictionary = results.flat();
+        const total = masterDictionary.length;
+        updateStatsText(total, 0, "");
+        document.getElementById('results').innerHTML = '<div class="no-results" id="welcomeMsg">✨ Anadi ilelli – ssekcem awal ✨</div>';
+        populateSourceSelect();
+    }
+
+    function populateSourceSelect() {
+        const select = document.getElementById('sourceSelect');
+        if (!select) return;
+        const allOption = document.createElement('option');
+        allOption.value = "all";
+        allOption.id = "sourceAll";
+        allOption.textContent = currentLang === "tm" ? "Merra" : "Tous";
+        select.innerHTML = '';
+        select.appendChild(allOption);
+        SOURCES.forEach(src => {
+            const option = document.createElement('option');
+            option.value = src.id;
+            option.textContent = currentLang === "tm" ? src.nom_tm : src.nom_fr;
+            select.appendChild(option);
+        });
+    }
+
+    function getSelectedSourceId() {
+        return document.getElementById('sourceSelect').value;
+    }
+
+    // ======================= RECHERCHE =======================
+    function matches(entry, lowerTerm, mode, lang) {
+        if (mode === 'exact') {
+            if (lang === 'french') return entry.french.toLowerCase() === lowerTerm;
+            if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase() === lowerTerm);
+            return entry.french.toLowerCase() === lowerTerm || entry.tamazight.some(tz => tz.toLowerCase() === lowerTerm);
+        }
+        if (mode === 'startsWith') {
+            if (lang === 'french') return entry.french.toLowerCase().startsWith(lowerTerm);
+            if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase().startsWith(lowerTerm));
+            return entry.french.toLowerCase().startsWith(lowerTerm) || entry.tamazight.some(tz => tz.toLowerCase().startsWith(lowerTerm));
+        }
+        if (lang === 'french') return entry.french.toLowerCase().includes(lowerTerm);
+        if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase().includes(lowerTerm));
+        return entry.french.toLowerCase().includes(lowerTerm) || entry.tamazight.some(tz => tz.toLowerCase().includes(lowerTerm));
+    }
+
+    function searchFiltered(term) {
+        if (!term || term.trim() === "") return [];
+        const lowerTerm = term.trim().toLowerCase();
+        const mode = document.getElementById('searchMode').value;
+        const lang = document.getElementById('langFilter').value;
+        const selectedSource = getSelectedSourceId();
+        return masterDictionary.filter(entry => {
+            if (selectedSource !== 'all' && entry.sourceId !== selectedSource) return false;
+            return matches(entry, lowerTerm, mode, lang);
+        });
+    }
+
+    // ======================= SUGGESTIONS =======================
+    function updateSuggestions() {
+        const term = document.getElementById('searchInput').value;
+        const suggDiv = document.getElementById('suggestions');
+        if (!term || term.trim().length < 2) {
+            suggDiv.style.display = 'none';
+            return;
+        }
+        const lowerTerm = term.trim().toLowerCase();
+        const lang = document.getElementById('langFilter').value;
+        const selectedSource = getSelectedSourceId();
+        const matchesSet = new Set();
+        for (let entry of masterDictionary) {
+            if (selectedSource !== 'all' && entry.sourceId !== selectedSource) continue;
+            if (lang === 'french' || lang === 'both') {
+                if (entry.french.toLowerCase().startsWith(lowerTerm)) matchesSet.add(entry.french);
+            }
+            if (lang === 'tamazight' || lang === 'both') {
+                for (let tz of entry.tamazight) {
+                    if (tz.toLowerCase().startsWith(lowerTerm)) matchesSet.add(tz);
+                }
+            }
+        }
+        const suggestions = Array.from(matchesSet).slice(0, 10);
+        if (suggestions.length === 0) {
+            suggDiv.style.display = 'none';
+            return;
+        }
+        suggDiv.innerHTML = suggestions.map(s => `<div class="sugg-item">${escapeHtml(s)}</div>`).join('');
+        suggDiv.style.display = 'block';
+        document.querySelectorAll('.sugg-item').forEach(item => {
+            item.addEventListener('click', () => {
+                document.getElementById('searchInput').value = item.innerText;
+                suggDiv.style.display = 'none';
+                performSearch();
+            });
+        });
+    }
+
+    // ======================= AFFICHAGE DES RÉSULTATS =======================
+    function displayResults(results, searchTerm) {
+        currentResults = results;
+        currentSearchTerm = searchTerm;
+        const resultsDiv = document.getElementById('results');
+        if (results.length === 0) {
+            resultsDiv.innerHTML = `<div class="no-results">${currentLang === "tm" ? `😞 Ulac agmuḍ i « ${escapeHtml(searchTerm)} »` : `😞 Aucun résultat pour « ${escapeHtml(searchTerm)} »`}</div>`;
+            updateStatsText(masterDictionary.length, 0, searchTerm);
+            return;
+        }
+        const grouped = new Map();
+        for (const entry of results) {
+            if (!grouped.has(entry.sourceId)) {
+                grouped.set(entry.sourceId, {
+                    sourceName: currentLang === "tm" ? entry.sourceName_tm : entry.sourceName_fr,
+                    pdfUrl: entry.pdfUrl,
+                    entries: []
+                });
+            }
+            grouped.get(entry.sourceId).entries.push(entry);
+        }
+        let html = '';
+        for (const group of grouped.values()) {
+            const resultCount = group.entries.length;
+            const headerText = currentLang === "tm" 
+                ? `📌 ${group.sourceName} (${resultCount} ${resultCount === 1 ? "n ugmuḍ" : "n yigmaḍ"})`
+                : `📌 ${group.sourceName} (${resultCount} résultat${resultCount > 1 ? "s" : ""})`;
+            html += `
+                <div class="source-group">
+                    <div class="source-header">
+                        <span class="source-name">${headerText}</span>
+                        <a href="${group.pdfUrl}" target="_blank" rel="noopener noreferrer" class="btn-pdf-source" title="${currentLang === "tm" ? "Ldi afaylu-ines PDF" : "Ouvrir le PDF"}">
+                            📄 ${currentLang === "tm" ? "Ldi afaylu PDF" : "Ouvrir le PDF"}
+                        </a>
+                    </div>
+                    <div class="entries-list">
+            `;
+            for (const entry of group.entries) {
+                let frenchDisplay = entry.french;
+                let tamazightDisplay = entry.tamazight.join(' ; ');
+                const regex = new RegExp(`(${escapeRegex(searchTerm)})`, 'gi');
+                frenchDisplay = frenchDisplay.replace(regex, `<mark>$1</mark>`);
+                tamazightDisplay = tamazightDisplay.replace(regex, `<mark>$1</mark>`);
+                const variantsHtml = entry.tamazight.length > 1 
+                    ? `<div class="variants">🔹 ${entry.tamazight.length} ${currentLang === "tm" ? "n tarrayin" : "variante(s)"} : ${entry.tamazight.join(' ; ')}</div>`
+                    : '';
+                html += `
+                    <div class="entry-item">
+                        <div class="french-word">📖 ${frenchDisplay}</div>
+                        <div class="tamazight-word">ⵣ ${tamazightDisplay}</div>
+                        ${variantsHtml}
+                    </div>
+                `;
+            }
+            html += `</div></div>`;
+        }
+        resultsDiv.innerHTML = html;
+        updateStatsText(masterDictionary.length, results.length, searchTerm);
+    }
+
+    function updateStatsText(totalEntries, resultCount, searchTerm) {
+        const statsDiv = document.getElementById('stats');
+        const sourcesCount = SOURCES.length;
+        let statsHtml = "";
+        if (currentLang === "tm") {
+            const sourcesText = sourcesCount === 1 ? "n uɣbalu" : "n yiɣbula";
+            statsHtml = `📚 ${sourcesCount} ${sourcesText} | ${totalEntries} n wawalen`;
+            if (searchTerm && searchTerm.trim() !== "") {
+                if (resultCount === 0) {
+                    statsHtml += ` | 🔍 0 n ugmuḍ`;
+                } else {
+                    statsHtml += ` | 🔍 ${resultCount} ${resultCount === 1 ? "n ugmuḍ" : "n yigmaḍ"} i « ${escapeHtml(searchTerm)} »`;
+                }
+            }
+        } else {
+            statsHtml = `📚 ${sourcesCount} source(s) | ${totalEntries} entrées`;
+            if (searchTerm && searchTerm.trim() !== "") {
+                statsHtml += ` | 🔍 ${resultCount} résultat${resultCount > 1 ? "s" : ""} pour « ${escapeHtml(searchTerm)} »`;
+            }
+        }
+        statsDiv.innerHTML = statsHtml;
+    }
+
+    // ======================= INTERFACE LANGUE =======================
+    function setLanguage(lang) {
+        currentLang = lang;
+        localStorage.setItem('appLang', lang);
+        const header = document.getElementById('mainHeader');
+        if (lang === 'fr') {
+            header.classList.add('fr-mode');
+        } else {
+            header.classList.remove('fr-mode');
+        }
+        document.getElementById('subtitle').innerText = lang === "tm" ? "Amawal ameqran Tafransist >< Tamaziɣt" : "HYPERLEXIQUE. Grand dictionnaire français >< tamazight";
+        document.getElementById('searchLabel').innerText = lang === "tm" ? "Ssekcem awal s tefransist neɣ s tmaziɣt" : "Saisissez un mot en français ou en tamazight";
+        document.getElementById('searchInput').placeholder = lang === "tm" ? "Amedya : tagrawla, anmezruy, amgaru..." : "Ex. : révolution, guerre, dictionnaire...";
+        document.getElementById('searchBtn').innerHTML = lang === "tm" ? "🔎 Nadi" : "🔎 Chercher";
+        document.getElementById('modeLabel').innerText = lang === "tm" ? "Askar :" : "Mode :";
+        document.getElementById('modeContains').innerText = lang === "tm" ? "Deg-s" : "Contient";
+        document.getElementById('modeStartsWith').innerText = lang === "tm" ? "Ibeddu s" : "Commence par";
+        document.getElementById('modeExact').innerText = lang === "tm" ? "Ufrin" : "Exact";
+        document.getElementById('langLabel').innerText = lang === "tm" ? "Tutlayt :" : "Langue :";
+        document.getElementById('langBoth').innerText = lang === "tm" ? "Deg snat" : "Les deux";
+        document.getElementById('langFrench').innerText = lang === "tm" ? "Tafransist" : "Français";
+        document.getElementById('langTamazight').innerText = lang === "tm" ? "Tamaziɣt" : "Tamazight";
+        document.getElementById('sourceLabel').innerText = lang === "tm" ? "Amawal :" : "Lexique :";
+        const sourceAllOpt = document.getElementById('sourceAll');
+        if (sourceAllOpt) sourceAllOpt.textContent = lang === "tm" ? "Merra" : "Tous";
+        const select = document.getElementById('sourceSelect');
+        if (select) {
+            for (let i = 0; i < select.options.length; i++) {
+                const opt = select.options[i];
+                if (opt.value === "all") continue;
+                const src = SOURCES.find(s => s.id === opt.value);
+                if (src) opt.textContent = lang === "tm" ? src.nom_tm : src.nom_fr;
+            }
+        }
+        document.getElementById('footerText').innerText = lang === "tm" 
+            ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H."
+            : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique informatique – S.S.B. | Étude doctorat – B.H.";
+        const welcomeDiv = document.getElementById('welcomeMsg');
+        if (welcomeDiv) {
+            welcomeDiv.innerText = lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨";
+        }
+        if (currentSearchTerm && currentSearchTerm.trim() !== "") {
+            displayResults(currentResults, currentSearchTerm);
+        } else if (masterDictionary.length > 0) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = `<div class="no-results">${lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨"}</div>`;
+            updateStatsText(masterDictionary.length, 0, "");
+        }
+    }
+
+    // ======================= UTILITAIRES =======================
+    function escapeHtml(str) {
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+    function escapeRegex(str) {
+        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function performSearch() {
+        const term = document.getElementById('searchInput').value;
+        if (!term.trim()) {
+            document.getElementById('results').innerHTML = `<div class="no-results">${currentLang === "tm" ? "💇 Ssekcem awal i usuqel" : "💡 Saisissez un mot à traduire"}</div>`;
+            updateStatsText(masterDictionary.length, 0, "");
+            currentResults = [];
+            currentSearchTerm = "";
+            return;
+        }
+        const results = searchFiltered(term);
+        displayResults(results, term);
+    }
+
+    function toggleFullscreen() {
+        if (!document.fullscreenElement) {
+            document.documentElement.requestFullscreen().catch(e => console.warn(e));
+        } else {
+            document.exitFullscreen();
+        }
+    }
+
+    function initDarkMode() {
+        const saved = localStorage.getItem('theme');
+        if (saved === 'dark') {
+            document.body.classList.add('dark-mode');
+            document.body.classList.remove('light-mode');
+            const icon = document.querySelector('#darkModeToggle i');
+            if (icon) icon.className = 'fas fa-sun';
+        } else {
+            document.body.classList.add('light-mode');
+            document.body.classList.remove('dark-mode');
+            const icon = document.querySelector('#darkModeToggle i');
+            if (icon) icon.className = 'fas fa-moon';
+        }
+    }
+
+    function toggleDarkMode() {
+        if (document.body.classList.contains('dark-mode')) {
+            document.body.classList.remove('dark-mode');
+            document.body.classList.add('light-mode');
+            localStorage.setItem('theme', 'light');
+            const icon = document.querySelector('#darkModeToggle i');
+            if (icon) icon.className = 'fas fa-moon';
+        } else {
+            document.body.classList.remove('light-mode');
+            document.body.classList.add('dark-mode');
+            localStorage.setItem('theme', 'dark');
+            const icon = document.querySelector('#darkModeToggle i');
+            if (icon) icon.className = 'fas fa-sun';
+        }
+    }
+
+    // ======================= INITIALISATION =======================
+    document.addEventListener('DOMContentLoaded', async () => {
+        await loadAllSources();
+
+        const savedLang = localStorage.getItem('appLang');
+        if (savedLang === 'fr' || savedLang === 'tm') {
+            setLanguage(savedLang);
+        } else {
+            setLanguage('tm');
+        }
+
+        const searchInput = document.getElementById('searchInput');
+        const searchBtn = document.getElementById('searchBtn');
+        const fullscreenBtn = document.getElementById('fullscreenBtn');
+        const darkToggle = document.getElementById('darkModeToggle');
+        const langToggle = document.getElementById('langToggle');
+        const searchMode = document.getElementById('searchMode');
+        const langFilter = document.getElementById('langFilter');
+        const sourceSelect = document.getElementById('sourceSelect');
+
+        searchBtn.addEventListener('click', performSearch);
+        searchInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') performSearch(); });
+        searchInput.addEventListener('input', updateSuggestions);
+        document.addEventListener('click', function(e) {
+            const suggDiv = document.getElementById('suggestions');
+            if (suggDiv && !suggDiv.contains(e.target) && e.target !== searchInput) {
+                suggDiv.style.display = 'none';
+            }
+        });
+
+        [searchMode, langFilter, sourceSelect].forEach(filter => {
+            if (filter) filter.addEventListener('change', () => {
+                if (searchInput.value.trim()) performSearch();
+            });
+        });
+
+        if (fullscreenBtn) fullscreenBtn.addEventListener('click', (e) => { e.preventDefault(); toggleFullscreen(); });
+        if (darkToggle) darkToggle.addEventListener('click', (e) => { e.preventDefault(); toggleDarkMode(); });
+        if (langToggle) langToggle.addEventListener('click', (e) => {
+            e.preventDefault();
+            const newLang = currentLang === "tm" ? "fr" : "tm";
+            setLanguage(newLang);
+        });
+        initDarkMode();
+    });
+</script>
+</body>
+</html>
