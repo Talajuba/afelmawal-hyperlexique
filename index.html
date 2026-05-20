@@ -596,13 +596,25 @@
             const data = await response.json();
             if (!Array.isArray(data)) throw new Error("Le JSON n'est pas un tableau");
             const entries = data.map(item => {
+                // Gérer french (peut être string ou tableau)
+                let frenchText = "";
+                if (typeof item.french === 'string') {
+                    frenchText = item.french.trim();
+                } else if (Array.isArray(item.french) && item.french.length > 0) {
+                    // Si c'est un tableau, on joint les éléments avec " ; "
+                    frenchText = item.french.join(' ; ').trim();
+                } else {
+                    frenchText = "";
+                }
+                
                 let tamList = [];
                 if (Array.isArray(item.tamazight)) tamList = item.tamazight;
                 else if (typeof item.tamazight === 'string') tamList = [item.tamazight];
                 else tamList = [];
                 tamList = tamList.map(t => t.replace(/\.$/, '').trim());
+                
                 return {
-                    french: (item.french || "").trim(),
+                    french: frenchText,
                     tamazight: tamList,
                     sourceId: source.id,
                     sourceName_tm: source.nom_tm,
@@ -614,7 +626,8 @@
             return entries;
         } catch (err) {
             console.error(`❌ Erreur ${source.nom_tm}:`, err);
-            alert(`⚠️ Ulac isefka. Ssenqed ifuyla JSON.`);
+            // Utiliser console.warn au lieu de alert pour ne pas bloquer l'utilisateur
+            console.warn(`⚠️ ${source.nom_tm} : fichier JSON introuvable ou mal formé.`);
             return [];
         }
     }
