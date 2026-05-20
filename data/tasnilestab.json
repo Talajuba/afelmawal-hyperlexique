@@ -1,0 +1,9398 @@
+[
+  {
+    "french": "Abduction",
+    "tamazight": [
+      "arimesli"
+    ]
+  },
+  {
+    "french": "Abessif",
+    "tamazight": [
+      "aẓan"
+    ]
+  },
+  {
+    "french": "Ablatif",
+    "tamazight": [
+      "aggugan"
+    ]
+  },
+  {
+    "french": "Abréviation",
+    "tamazight": [
+      "tazegzilt"
+    ]
+  },
+  {
+    "french": "Abrègement",
+    "tamazight": [
+      "asemẓi"
+    ]
+  },
+  {
+    "french": "Absentia (in absentia)",
+    "tamazight": [
+      "assar (s wassar)"
+    ]
+  },
+  {
+    "french": "Absolu",
+    "tamazight": [
+      "amagdez"
+    ]
+  },
+  {
+    "french": "Absolument",
+    "tamazight": [
+      "s umagdez"
+    ]
+  },
+  {
+    "french": "Abstrait",
+    "tamazight": [
+      "amadwan"
+    ]
+  },
+  {
+    "french": "Abus",
+    "tamazight": [
+      "yirseqdec"
+    ]
+  },
+  {
+    "french": "Accent",
+    "tamazight": [
+      "aɣdebbu"
+    ]
+  },
+  {
+    "french": "Accent (signe diacritique)",
+    "tamazight": [
+      "afeskil"
+    ]
+  },
+  {
+    "french": "Accentuation",
+    "tamazight": [
+      "aseɣdebbu"
+    ]
+  },
+  {
+    "french": "Accentué",
+    "tamazight": [
+      "uɣdebbit"
+    ]
+  },
+  {
+    "french": "Accentuel",
+    "tamazight": [
+      "aɣdebban"
+    ]
+  },
+  {
+    "french": "Acceptabilité",
+    "tamazight": [
+      "aqbal"
+    ]
+  },
+  {
+    "french": "Acception",
+    "tamazight": [
+      "tanamekt"
+    ]
+  },
+  {
+    "french": "Accessoire (mot-)",
+    "tamazight": [
+      "ilem (awal-)"
+    ]
+  },
+  {
+    "french": "Accident",
+    "tamazight": [
+      "ayerna"
+    ]
+  },
+  {
+    "french": "Accidentel",
+    "tamazight": [
+      "ayernan"
+    ]
+  },
+  {
+    "french": "Accommodation",
+    "tamazight": [
+      "tamsertit"
+    ]
+  },
+  {
+    "french": "Accompli",
+    "tamazight": [
+      "ummid"
+    ]
+  },
+  {
+    "french": "Accord",
+    "tamazight": [
+      "amwati"
+    ]
+  },
+  {
+    "french": "Accusatif",
+    "tamazight": [
+      "asemdamyag"
+    ]
+  },
+  {
+    "french": "Acmé",
+    "tamazight": [
+      "imeslunnig"
+    ]
+  },
+  {
+    "french": "Acoustique",
+    "tamazight": [
+      "asensel"
+    ]
+  },
+  {
+    "french": "Acoustique (adj.)",
+    "tamazight": [
+      "asneslan"
+    ]
+  },
+  {
+    "french": "Actantiel",
+    "tamazight": [
+      "amgan"
+    ]
+  },
+  {
+    "french": "Actant",
+    "tamazight": [
+      "ameg"
+    ]
+  },
+  {
+    "french": "Acte (de parole)",
+    "tamazight": [
+      "igi"
+    ]
+  },
+  {
+    "french": "Actif",
+    "tamazight": [
+      "agan"
+    ]
+  },
+  {
+    "french": "Action",
+    "tamazight": [
+      "tigawt"
+    ]
+  },
+  {
+    "french": "Actualisateur",
+    "tamazight": [
+      "amegnimir"
+    ]
+  },
+  {
+    "french": "Actualisation",
+    "tamazight": [
+      "agnimir"
+    ]
+  },
+  {
+    "french": "Acuité",
+    "tamazight": [
+      "amsad"
+    ]
+  },
+  {
+    "french": "Addition",
+    "tamazight": [
+      "timernit"
+    ]
+  },
+  {
+    "french": "Adduction",
+    "tamazight": [
+      "asmesli"
+    ]
+  },
+  {
+    "french": "Adéquat",
+    "tamazight": [
+      "iwatan"
+    ]
+  },
+  {
+    "french": "Adéquation",
+    "tamazight": [
+      "awati"
+    ]
+  },
+  {
+    "french": "Adessif",
+    "tamazight": [
+      "afellan"
+    ]
+  },
+  {
+    "french": "Adjacent",
+    "tamazight": [
+      "adisan"
+    ]
+  },
+  {
+    "french": "Adjectif (nom)",
+    "tamazight": [
+      "arbib"
+    ]
+  },
+  {
+    "french": "Adjectif (adj.)",
+    "tamazight": [
+      "arbiban"
+    ]
+  },
+  {
+    "french": "Adjectivisateur ou adjectivateur",
+    "tamazight": [
+      "amgarbib"
+    ]
+  },
+  {
+    "french": "Adjectivisation, adjectivation",
+    "tamazight": [
+      "agarbib"
+    ]
+  },
+  {
+    "french": "Adjoint",
+    "tamazight": [
+      "amaqqan"
+    ]
+  },
+  {
+    "french": "Adjonctif",
+    "tamazight": [
+      "amesɣan"
+    ]
+  },
+  {
+    "french": "Adnominal",
+    "tamazight": [
+      "aɣeryisem"
+    ]
+  },
+  {
+    "french": "Adoucissement",
+    "tamazight": [
+      "asifes"
+    ]
+  },
+  {
+    "french": "Adressage",
+    "tamazight": [
+      "tuzna"
+    ]
+  },
+  {
+    "french": "Adresse",
+    "tamazight": [
+      "tansa"
+    ]
+  },
+  {
+    "french": "Adverbal",
+    "tamazight": [
+      "aɣrumyag"
+    ]
+  },
+  {
+    "french": "Adverbe",
+    "tamazight": [
+      "amernu"
+    ]
+  },
+  {
+    "french": "Adverbial",
+    "tamazight": [
+      "amernuyan"
+    ]
+  },
+  {
+    "french": "Adverbialisateur",
+    "tamazight": [
+      "amgamernu"
+    ]
+  },
+  {
+    "french": "Adversatif",
+    "tamazight": [
+      "ameglan"
+    ]
+  },
+  {
+    "french": "Affaiblissement",
+    "tamazight": [
+      "asifes"
+    ]
+  },
+  {
+    "french": "Affectif",
+    "tamazight": [
+      "anfalan"
+    ]
+  },
+  {
+    "french": "Affectifs (traits)",
+    "tamazight": [
+      "infalanen"
+    ]
+  },
+  {
+    "french": "Affermissement",
+    "tamazight": [
+      "asuzer"
+    ]
+  },
+  {
+    "french": "Affirmatif",
+    "tamazight": [
+      "ilaw"
+    ]
+  },
+  {
+    "french": "Affirmation",
+    "tamazight": [
+      "tilawt"
+    ]
+  },
+  {
+    "french": "Affixal",
+    "tamazight": [
+      "awsilan"
+    ]
+  },
+  {
+    "french": "Affixe",
+    "tamazight": [
+      "awsil"
+    ]
+  },
+  {
+    "french": "Affriquée",
+    "tamazight": [
+      "agɣanzaɣ"
+    ]
+  },
+  {
+    "french": "Agent",
+    "tamazight": [
+      "ameskar"
+    ]
+  },
+  {
+    "french": "Agentif",
+    "tamazight": [
+      "ameskaran"
+    ]
+  },
+  {
+    "french": "Agglomérat",
+    "tamazight": [
+      "azday"
+    ]
+  },
+  {
+    "french": "Agglutinant",
+    "tamazight": [
+      "unṭiḍ"
+    ]
+  },
+  {
+    "french": "Agglutination",
+    "tamazight": [
+      "anṭaḍ"
+    ]
+  },
+  {
+    "french": "Agrammaticalité",
+    "tamazight": [
+      "tartijurremt"
+    ]
+  },
+  {
+    "french": "Aigu",
+    "tamazight": [
+      "umsid"
+    ]
+  },
+  {
+    "french": "Alinéa",
+    "tamazight": [
+      "agerseddar"
+    ]
+  },
+  {
+    "french": "Allatif",
+    "tamazight": [
+      "anilan"
+    ]
+  },
+  {
+    "french": "Alliance de mots",
+    "tamazight": [
+      "asinemgal"
+    ]
+  },
+  {
+    "french": "Allitération",
+    "tamazight": [
+      "asḍefrimesla"
+    ]
+  },
+  {
+    "french": "Allocutaire",
+    "tamazight": [
+      "amsel"
+    ]
+  },
+  {
+    "french": "Allocution",
+    "tamazight": [
+      "timenna"
+    ]
+  },
+  {
+    "french": "Allographe",
+    "tamazight": [
+      "udlifven"
+    ]
+  },
+  {
+    "french": "Allomorphe",
+    "tamazight": [
+      "alɣiḍen"
+    ]
+  },
+  {
+    "french": "Allongement",
+    "tamazight": [
+      "asiɣzef"
+    ]
+  },
+  {
+    "french": "Allophone",
+    "tamazight": [
+      "imesliḍen"
+    ]
+  },
+  {
+    "french": "Allotone",
+    "tamazight": [
+      "aɣciḍen"
+    ]
+  },
+  {
+    "french": "Alphabet",
+    "tamazight": [
+      "agemmay"
+    ]
+  },
+  {
+    "french": "Alphabétique",
+    "tamazight": [
+      "agemmayan"
+    ]
+  },
+  {
+    "french": "Alphabet phonétique",
+    "tamazight": [
+      "agemmay amsislan"
+    ]
+  },
+  {
+    "french": "Alternance",
+    "tamazight": [
+      "tamlellit"
+    ]
+  },
+  {
+    "french": "Alvéolaire",
+    "tamazight": [
+      "adluglan"
+    ]
+  },
+  {
+    "french": "Alvéole",
+    "tamazight": [
+      "adlugel"
+    ]
+  },
+  {
+    "french": "Alvéopalatale",
+    "tamazight": [
+      "adlugɣan"
+    ]
+  },
+  {
+    "french": "Amalgame",
+    "tamazight": [
+      "artay"
+    ]
+  },
+  {
+    "french": "Ambiguïté",
+    "tamazight": [
+      "arway"
+    ]
+  },
+  {
+    "french": "Amplitude",
+    "tamazight": [
+      "tardast"
+    ]
+  },
+  {
+    "french": "Amuissement",
+    "tamazight": [
+      "asfaḍ"
+    ]
+  },
+  {
+    "french": "Anacoluthe",
+    "tamazight": [
+      "aruqqin"
+    ]
+  },
+  {
+    "french": "Analogie",
+    "tamazight": [
+      "arwas"
+    ]
+  },
+  {
+    "french": "Analogique",
+    "tamazight": [
+      "arwasan"
+    ]
+  },
+  {
+    "french": "Analogue",
+    "tamazight": [
+      "urwis"
+    ]
+  },
+  {
+    "french": "Analysabilité",
+    "tamazight": [
+      "attwaslaḍ"
+    ]
+  },
+  {
+    "french": "Analyse",
+    "tamazight": [
+      "aslaḍ"
+    ]
+  },
+  {
+    "french": "Analyse de contenu",
+    "tamazight": [
+      "aslaḍ n ugbur"
+    ]
+  },
+  {
+    "french": "Analyse de discours",
+    "tamazight": [
+      "aslaḍ n yinaw"
+    ]
+  },
+  {
+    "french": "Analytique",
+    "tamazight": [
+      "usliḍ"
+    ]
+  },
+  {
+    "french": "Anaphore",
+    "tamazight": [
+      "alsawal"
+    ]
+  },
+  {
+    "french": "Anaphorique",
+    "tamazight": [
+      "alsawalan"
+    ]
+  },
+  {
+    "french": "Anastrophe",
+    "tamazight": [
+      "uḍrin"
+    ]
+  },
+  {
+    "french": "Animé",
+    "tamazight": [
+      "amuddir"
+    ]
+  },
+  {
+    "french": "Anomal",
+    "tamazight": [
+      "arurwis"
+    ]
+  },
+  {
+    "french": "Anomalie",
+    "tamazight": [
+      "ararwas"
+    ]
+  },
+  {
+    "french": "Antanaclase",
+    "tamazight": [
+      "alsalɣa"
+    ]
+  },
+  {
+    "french": "Antécédant",
+    "tamazight": [
+      "uzwir"
+    ]
+  },
+  {
+    "french": "Antépénultième",
+    "tamazight": [
+      "azardataneggar"
+    ]
+  },
+  {
+    "french": "Antérieur",
+    "tamazight": [
+      "adeffiran"
+    ]
+  },
+  {
+    "french": "Antroponymie",
+    "tamazight": [
+      "asnismidden"
+    ]
+  },
+  {
+    "french": "Antroponyme",
+    "tamazight": [
+      "ismidden"
+    ]
+  },
+  {
+    "french": "Anticipation",
+    "tamazight": [
+      "tamsertit s deffir"
+    ]
+  },
+  {
+    "french": "Antiphrase",
+    "tamazight": [
+      "afellawal"
+    ]
+  },
+  {
+    "french": "Antithèse",
+    "tamazight": [
+      "agemḍawal"
+    ]
+  },
+  {
+    "french": "Antonomase",
+    "tamazight": [
+      "asneflisem"
+    ]
+  },
+  {
+    "french": "Antonymie",
+    "tamazight": [
+      "tameglawalt"
+    ]
+  },
+  {
+    "french": "Aoriste",
+    "tamazight": [
+      "urmir"
+    ]
+  },
+  {
+    "french": "Aperture",
+    "tamazight": [
+      "arẓam"
+    ]
+  },
+  {
+    "french": "Aphérèse",
+    "tamazight": [
+      "aḍresdat"
+    ]
+  },
+  {
+    "french": "Apical",
+    "tamazight": [
+      "anixef"
+    ]
+  },
+  {
+    "french": "Apicalisé",
+    "tamazight": [
+      "amganixef"
+    ]
+  },
+  {
+    "french": "Apico-alvéolaire",
+    "tamazight": [
+      "anixef adluglan"
+    ]
+  },
+  {
+    "french": "Apico-dental",
+    "tamazight": [
+      "anixef uglan"
+    ]
+  },
+  {
+    "french": "Apico-prépalatal",
+    "tamazight": [
+      "anixef azranɣan"
+    ]
+  },
+  {
+    "french": "Apocope",
+    "tamazight": [
+      "aḍresdeffer"
+    ]
+  },
+  {
+    "french": "Apophonie",
+    "tamazight": [
+      "tamlellit tiɣrant"
+    ]
+  },
+  {
+    "french": "Aposiopèse",
+    "tamazight": [
+      "aɣersawal"
+    ]
+  },
+  {
+    "french": "Apostrophe 1",
+    "tamazight": [
+      "aɣrusrid"
+    ]
+  },
+  {
+    "french": "Apostrophe 2 (signe)",
+    "tamazight": [
+      "tasurift"
+    ]
+  },
+  {
+    "french": "Apparat critique",
+    "tamazight": [
+      "adusebter"
+    ]
+  },
+  {
+    "french": "Appareil",
+    "tamazight": [
+      "acermaḍ"
+    ]
+  },
+  {
+    "french": "Apparent",
+    "tamazight": [
+      "umin"
+    ]
+  },
+  {
+    "french": "Apparenté",
+    "tamazight": [
+      "yettemyilin"
+    ]
+  },
+  {
+    "french": "Apparentement",
+    "tamazight": [
+      "amyili"
+    ]
+  },
+  {
+    "french": "Appel (expression d')",
+    "tamazight": [
+      "asɣer"
+    ]
+  },
+  {
+    "french": "Appelatif",
+    "tamazight": [
+      "asɣer"
+    ]
+  },
+  {
+    "french": "Application",
+    "tamazight": [
+      "asnas"
+    ]
+  },
+  {
+    "french": "Appliquée (linguistique)",
+    "tamazight": [
+      "usnis"
+    ]
+  },
+  {
+    "french": "Appositif",
+    "tamazight": [
+      "asitan"
+    ]
+  },
+  {
+    "french": "Apposition",
+    "tamazight": [
+      "asiti"
+    ]
+  },
+  {
+    "french": "Appui",
+    "tamazight": [
+      "talilt"
+    ]
+  },
+  {
+    "french": "Arbitraire",
+    "tamazight": [
+      "aramek"
+    ]
+  },
+  {
+    "french": "Arbre",
+    "tamazight": [
+      "aseklu"
+    ]
+  },
+  {
+    "french": "Archaïsme",
+    "tamazight": [
+      "awessar"
+    ]
+  },
+  {
+    "french": "Archilexème",
+    "tamazight": [
+      "agranmawal"
+    ]
+  },
+  {
+    "french": "Archiphonème",
+    "tamazight": [
+      "agrimesla"
+    ]
+  },
+  {
+    "french": "Archisémème",
+    "tamazight": [
+      "agrinumak"
+    ]
+  },
+  {
+    "french": "Arrière",
+    "tamazight": [
+      "deffir"
+    ]
+  },
+  {
+    "french": "Arrondi",
+    "tamazight": [
+      "akernay"
+    ]
+  },
+  {
+    "french": "Arrondissement",
+    "tamazight": [
+      "akerni"
+    ]
+  },
+  {
+    "french": "Article",
+    "tamazight": [
+      "amagrad"
+    ]
+  },
+  {
+    "french": "Articulateur",
+    "tamazight": [
+      "amsusru"
+    ]
+  },
+  {
+    "french": "Articulation",
+    "tamazight": [
+      "agsusru"
+    ]
+  },
+  {
+    "french": "Articulatoire",
+    "tamazight": [
+      "agsusruyan"
+    ]
+  },
+  {
+    "french": "Asémantique",
+    "tamazight": [
+      "arasnamkan"
+    ]
+  },
+  {
+    "french": "Aspect",
+    "tamazight": [
+      "timeẓri"
+    ]
+  },
+  {
+    "french": "Aspectuel",
+    "tamazight": [
+      "anmeẓri"
+    ]
+  },
+  {
+    "french": "Aspiration",
+    "tamazight": [
+      "anhat"
+    ]
+  },
+  {
+    "french": "Aspiré",
+    "tamazight": [
+      "unhit"
+    ]
+  },
+  {
+    "french": "Assertif",
+    "tamazight": [
+      "aqqiran"
+    ]
+  },
+  {
+    "french": "Assertion",
+    "tamazight": [
+      "aqqir"
+    ]
+  },
+  {
+    "french": "Assibilation",
+    "tamazight": [
+      "asinseg"
+    ]
+  },
+  {
+    "french": "Assimilation",
+    "tamazight": [
+      "tamsertit"
+    ]
+  },
+  {
+    "french": "Associatif",
+    "tamazight": [
+      "asduklan"
+    ]
+  },
+  {
+    "french": "Association",
+    "tamazight": [
+      "tiddukla"
+    ]
+  },
+  {
+    "french": "Assourdissement",
+    "tamazight": [
+      "asusem"
+    ]
+  },
+  {
+    "french": "Assumer",
+    "tamazight": [
+      "aṭ"
+    ]
+  },
+  {
+    "french": "Astérisque",
+    "tamazight": [
+      "titrit"
+    ]
+  },
+  {
+    "french": "Asyllabème ou asyllabique",
+    "tamazight": [
+      "arunṭiqan"
+    ]
+  },
+  {
+    "french": "Asyndète",
+    "tamazight": [
+      "tartuqqna"
+    ]
+  },
+  {
+    "french": "Atemporel",
+    "tamazight": [
+      "arakudan"
+    ]
+  },
+  {
+    "french": "Atlas linguistique",
+    "tamazight": [
+      "atlas utlayan"
+    ]
+  },
+  {
+    "french": "Atone",
+    "tamazight": [
+      "ariqqri"
+    ]
+  },
+  {
+    "french": "Attaque",
+    "tamazight": [
+      "adatmeslay"
+    ]
+  },
+  {
+    "french": "Attitude",
+    "tamazight": [
+      "addud"
+    ]
+  },
+  {
+    "french": "Attraction",
+    "tamazight": [
+      "anzaɣ"
+    ]
+  },
+  {
+    "french": "Attribut",
+    "tamazight": [
+      "attwefk"
+    ]
+  },
+  {
+    "french": "Attributif",
+    "tamazight": [
+      "attwefkan"
+    ]
+  },
+  {
+    "french": "Audibilité",
+    "tamazight": [
+      "tasellit"
+    ]
+  },
+  {
+    "french": "Audiogramme",
+    "tamazight": [
+      "udmuselli"
+    ]
+  },
+  {
+    "french": "Audiométrie",
+    "tamazight": [
+      "aktaselli"
+    ]
+  },
+  {
+    "french": "Auditeur",
+    "tamazight": [
+      "amseflid"
+    ]
+  },
+  {
+    "french": "Augmentatif",
+    "tamazight": [
+      "imsimɣer"
+    ]
+  },
+  {
+    "french": "Auto-enchâssement",
+    "tamazight": [
+      "aggirman"
+    ]
+  },
+  {
+    "french": "Autonome",
+    "tamazight": [
+      "anfulman"
+    ]
+  },
+  {
+    "french": "Autonomie",
+    "tamazight": [
+      "afulman"
+    ]
+  },
+  {
+    "french": "Autonyme",
+    "tamazight": [
+      "anyiman"
+    ]
+  },
+  {
+    "french": "Autonymie",
+    "tamazight": [
+      "ayiman"
+    ]
+  },
+  {
+    "french": "Autorégulation",
+    "tamazight": [
+      "aslugenman"
+    ]
+  },
+  {
+    "french": "Auxiliaire",
+    "tamazight": [
+      "amalal"
+    ]
+  },
+  {
+    "french": "Auxiliaire de prédication",
+    "tamazight": [
+      "amalal n ugsali"
+    ]
+  },
+  {
+    "french": "Avant (d')",
+    "tamazight": [
+      "adeffiran"
+    ]
+  },
+  {
+    "french": "Axe",
+    "tamazight": [
+      "agus"
+    ]
+  },
+  {
+    "french": "Axiomatique (n.)",
+    "tamazight": [
+      "agejdi"
+    ]
+  },
+  {
+    "french": "Axiomatique (adj)",
+    "tamazight": [
+      "agejdiyan"
+    ]
+  },
+  {
+    "french": "Axiome",
+    "tamazight": [
+      "tagejdit"
+    ]
+  },
+  {
+    "french": "Barbarisme",
+    "tamazight": [
+      "taguli"
+    ]
+  },
+  {
+    "french": "Bas",
+    "tamazight": [
+      "addayan"
+    ]
+  },
+  {
+    "french": "Base",
+    "tamazight": [
+      "adda"
+    ]
+  },
+  {
+    "french": "Battement",
+    "tamazight": [
+      "akkit"
+    ]
+  },
+  {
+    "french": "Battu",
+    "tamazight": [
+      "uttwit"
+    ]
+  },
+  {
+    "french": "Bémolisation",
+    "tamazight": [
+      "aseggez"
+    ]
+  },
+  {
+    "french": "Bémolisé",
+    "tamazight": [
+      "imseggez"
+    ]
+  },
+  {
+    "french": "Bénéficiaire",
+    "tamazight": [
+      "amigan"
+    ]
+  },
+  {
+    "french": "Biformantique",
+    "tamazight": [
+      "asinalɣan"
+    ]
+  },
+  {
+    "french": "Bilabial",
+    "tamazight": [
+      "asincucan"
+    ]
+  },
+  {
+    "french": "Bilabiodental",
+    "tamazight": [
+      "asincucan-uglan"
+    ]
+  },
+  {
+    "french": "Bilabiopalatal",
+    "tamazight": [
+      "asincucan-anɣan"
+    ]
+  },
+  {
+    "french": "Bilabiovélaire",
+    "tamazight": [
+      "asincucan-ulwiɣan"
+    ]
+  },
+  {
+    "french": "Bilatéral",
+    "tamazight": [
+      "asindis"
+    ]
+  },
+  {
+    "french": "Bilinguisme",
+    "tamazight": [
+      "asinwal"
+    ]
+  },
+  {
+    "french": "Binaire",
+    "tamazight": [
+      "imisin"
+    ]
+  },
+  {
+    "french": "Binarisme",
+    "tamazight": [
+      "iḥrimisin"
+    ]
+  },
+  {
+    "french": "Binauriculaire",
+    "tamazight": [
+      "asinemɣuẓ"
+    ]
+  },
+  {
+    "french": "Bisémique",
+    "tamazight": [
+      "asinamek"
+    ]
+  },
+  {
+    "french": "Blanc typographique",
+    "tamazight": [
+      "artira"
+    ]
+  },
+  {
+    "french": "Bloqué",
+    "tamazight": [
+      "aεekkam"
+    ]
+  },
+  {
+    "french": "Boite de Hockett",
+    "tamazight": [
+      "beṭṭu n Hockett"
+    ]
+  },
+  {
+    "french": "Brachylogie",
+    "tamazight": [
+      "asurfalas"
+    ]
+  },
+  {
+    "french": "Branche",
+    "tamazight": [
+      "aseṭṭa"
+    ]
+  },
+  {
+    "french": "Bref",
+    "tamazight": [
+      "awezlan"
+    ]
+  },
+  {
+    "french": "Brévité, brièveté",
+    "tamazight": [
+      "tewzel"
+    ]
+  },
+  {
+    "french": "Brisure",
+    "tamazight": [
+      "adegdeg"
+    ]
+  },
+  {
+    "french": "Bruit",
+    "tamazight": [
+      "adariz"
+    ]
+  },
+  {
+    "french": "Bruyante",
+    "tamazight": [
+      "udriz"
+    ]
+  },
+  {
+    "french": "Buccal",
+    "tamazight": [
+      "imiyan"
+    ]
+  },
+  {
+    "french": "But",
+    "tamazight": [
+      "iswi"
+    ]
+  },
+  {
+    "french": "Cacophonie",
+    "tamazight": [
+      "irasseli"
+    ]
+  },
+  {
+    "french": "Cacuminal",
+    "tamazight": [
+      "uttil"
+    ]
+  },
+  {
+    "french": "Cadence",
+    "tamazight": [
+      "awlelleɣ"
+    ]
+  },
+  {
+    "french": "Caduc",
+    "tamazight": [
+      "usfiḍ"
+    ]
+  },
+  {
+    "french": "Calque",
+    "tamazight": [
+      "arwas"
+    ]
+  },
+  {
+    "french": "Canal",
+    "tamazight": [
+      "targa"
+    ]
+  },
+  {
+    "french": "Canonique",
+    "tamazight": [
+      "uqnin"
+    ]
+  },
+  {
+    "french": "Capacité générative",
+    "tamazight": [
+      "akettur asarwan"
+    ]
+  },
+  {
+    "french": "Caractérisation",
+    "tamazight": [
+      "asettwel"
+    ]
+  },
+  {
+    "french": "Caractéristique",
+    "tamazight": [
+      "attewlan"
+    ]
+  },
+  {
+    "french": "Cardinal",
+    "tamazight": [
+      "amxater"
+    ]
+  },
+  {
+    "french": "Caritif",
+    "tamazight": [
+      "aẓan"
+    ]
+  },
+  {
+    "french": "Carte (linguistique)",
+    "tamazight": [
+      "takarḍa"
+    ]
+  },
+  {
+    "french": "Cas",
+    "tamazight": [
+      "akka"
+    ]
+  },
+  {
+    "french": "Casuel",
+    "tamazight": [
+      "akkayan"
+    ]
+  },
+  {
+    "french": "Catastase",
+    "tamazight": [
+      "azrasusru"
+    ]
+  },
+  {
+    "french": "Catégorie",
+    "tamazight": [
+      "aggay"
+    ]
+  },
+  {
+    "french": "Catégoriel",
+    "tamazight": [
+      "aggayan"
+    ]
+  },
+  {
+    "french": "Catégorisation",
+    "tamazight": [
+      "aseggi"
+    ]
+  },
+  {
+    "french": "Causal",
+    "tamazight": [
+      "amentilan"
+    ]
+  },
+  {
+    "french": "Causatif",
+    "tamazight": [
+      "imesmentel"
+    ]
+  },
+  {
+    "french": "Cavité",
+    "tamazight": [
+      "allun"
+    ]
+  },
+  {
+    "french": "Central",
+    "tamazight": [
+      "alemmas"
+    ]
+  },
+  {
+    "french": "Centralisé",
+    "tamazight": [
+      "imeslemmes"
+    ]
+  },
+  {
+    "french": "Centrifuge",
+    "tamazight": [
+      "asgammas"
+    ]
+  },
+  {
+    "french": "Centripète",
+    "tamazight": [
+      "aɣrammas"
+    ]
+  },
+  {
+    "french": "Cérébral",
+    "tamazight": [
+      "uttil"
+    ]
+  },
+  {
+    "french": "Certitude",
+    "tamazight": [
+      "alkin"
+    ]
+  },
+  {
+    "french": "Champ",
+    "tamazight": [
+      "urti"
+    ]
+  },
+  {
+    "french": "Champ d'application",
+    "tamazight": [
+      "urti n usnas"
+    ]
+  },
+  {
+    "french": "Champ de dispersion",
+    "tamazight": [
+      "urti n ufettes"
+    ]
+  },
+  {
+    "french": "Changement",
+    "tamazight": [
+      "anfal"
+    ]
+  },
+  {
+    "french": "Chenal vocal",
+    "tamazight": [
+      "targa timiyant"
+    ]
+  },
+  {
+    "french": "Chevauchement",
+    "tamazight": [
+      "amyekcem"
+    ]
+  },
+  {
+    "french": "Choix",
+    "tamazight": [
+      "afran"
+    ]
+  },
+  {
+    "french": "Chromatique",
+    "tamazight": [
+      "amizli"
+    ]
+  },
+  {
+    "french": "Chuchotement",
+    "tamazight": [
+      "asεuεu"
+    ]
+  },
+  {
+    "french": "Chuintant",
+    "tamazight": [
+      "ujic"
+    ]
+  },
+  {
+    "french": "Chute",
+    "tamazight": [
+      "aɣelluy"
+    ]
+  },
+  {
+    "french": "Chva ou schwa",
+    "tamazight": [
+      "amulac"
+    ]
+  },
+  {
+    "french": "Cible",
+    "tamazight": [
+      "anican"
+    ]
+  },
+  {
+    "french": "Circonflexe (accent)",
+    "tamazight": [
+      "aɣef"
+    ]
+  },
+  {
+    "french": "Circonstanciel",
+    "tamazight": [
+      "amaɣlayan"
+    ]
+  },
+  {
+    "french": "Circonstant",
+    "tamazight": [
+      "asemmad amaɣlayan"
+    ]
+  },
+  {
+    "french": "Circulaire",
+    "tamazight": [
+      "uwnis"
+    ]
+  },
+  {
+    "french": "Clair",
+    "tamazight": [
+      "anifu"
+    ]
+  },
+  {
+    "french": "Claquant",
+    "tamazight": [
+      "uqqis"
+    ]
+  },
+  {
+    "french": "Claquement",
+    "tamazight": [
+      "uqus"
+    ]
+  },
+  {
+    "french": "Classe",
+    "tamazight": [
+      "amun"
+    ]
+  },
+  {
+    "french": "Classème",
+    "tamazight": [
+      "amkumun"
+    ]
+  },
+  {
+    "french": "Classificateur",
+    "tamazight": [
+      "amgamun"
+    ]
+  },
+  {
+    "french": "Clausule",
+    "tamazight": [
+      "anefru"
+    ]
+  },
+  {
+    "french": "Clic, click",
+    "tamazight": [
+      "uqus"
+    ]
+  },
+  {
+    "french": "Cliché",
+    "tamazight": [
+      "awlullis"
+    ]
+  },
+  {
+    "french": "Cluster",
+    "tamazight": [
+      "azday"
+    ]
+  },
+  {
+    "french": "Coalescence",
+    "tamazight": [
+      "afsay"
+    ]
+  },
+  {
+    "french": "Co-articulation",
+    "tamazight": [
+      "azdagsusru"
+    ]
+  },
+  {
+    "french": "Codage",
+    "tamazight": [
+      "aneggel"
+    ]
+  },
+  {
+    "french": "Code",
+    "tamazight": [
+      "angal"
+    ]
+  },
+  {
+    "french": "Coder",
+    "tamazight": [
+      "ngel"
+    ]
+  },
+  {
+    "french": "Cognitif",
+    "tamazight": [
+      "amusnan"
+    ]
+  },
+  {
+    "french": "Co-hyponyme",
+    "tamazight": [
+      "azdi-mettwawi"
+    ]
+  },
+  {
+    "french": "Collectif",
+    "tamazight": [
+      "amegru"
+    ]
+  },
+  {
+    "french": "Collocation",
+    "tamazight": [
+      "azdadɣar"
+    ]
+  },
+  {
+    "french": "Coloration",
+    "tamazight": [
+      "aseɣmu"
+    ]
+  },
+  {
+    "french": "Combinaison",
+    "tamazight": [
+      "tuddsa"
+    ]
+  },
+  {
+    "french": "Combinatoire",
+    "tamazight": [
+      "uddsayan"
+    ]
+  },
+  {
+    "french": "Commentaire",
+    "tamazight": [
+      "awennit"
+    ]
+  },
+  {
+    "french": "Commun",
+    "tamazight": [
+      "amsiher"
+    ]
+  },
+  {
+    "french": "Communication",
+    "tamazight": [
+      "aywal"
+    ]
+  },
+  {
+    "french": "Commutable",
+    "tamazight": [
+      "imettwasenfel"
+    ]
+  },
+  {
+    "french": "Commutation",
+    "tamazight": [
+      "asenfel"
+    ]
+  },
+  {
+    "french": "Commutativité",
+    "tamazight": [
+      "attwasenfel"
+    ]
+  },
+  {
+    "french": "Compact",
+    "tamazight": [
+      "imkussem"
+    ]
+  },
+  {
+    "french": "Comparaison",
+    "tamazight": [
+      "asemyifi"
+    ]
+  },
+  {
+    "french": "Comparatif",
+    "tamazight": [
+      "asemyifan"
+    ]
+  },
+  {
+    "french": "Comparatisme",
+    "tamazight": [
+      "iḥrusifi"
+    ]
+  },
+  {
+    "french": "Comparatiste",
+    "tamazight": [
+      "imḥersif"
+    ]
+  },
+  {
+    "french": "Comparée (grammaire)",
+    "tamazight": [
+      "tasemyifant"
+    ]
+  },
+  {
+    "french": "Compétence",
+    "tamazight": [
+      "azmar"
+    ]
+  },
+  {
+    "french": "Complément",
+    "tamazight": [
+      "asemmad"
+    ]
+  },
+  {
+    "french": "Complément explicatif",
+    "tamazight": [
+      "asemmad asegzay"
+    ]
+  },
+  {
+    "french": "Complémentaire",
+    "tamazight": [
+      "asemmadan"
+    ]
+  },
+  {
+    "french": "Complémentarité",
+    "tamazight": [
+      "amyesmed"
+    ]
+  },
+  {
+    "french": "Complétive",
+    "tamazight": [
+      "usmid"
+    ]
+  },
+  {
+    "french": "Complétivisation",
+    "tamazight": [
+      "agusmid"
+    ]
+  },
+  {
+    "french": "Complétivisateur",
+    "tamazight": [
+      "amgusmid"
+    ]
+  },
+  {
+    "french": "Complexe",
+    "tamazight": [
+      "asemlal"
+    ]
+  },
+  {
+    "french": "Componentiel",
+    "tamazight": [
+      "asefruran"
+    ]
+  },
+  {
+    "french": "Composant",
+    "tamazight": [
+      "isger"
+    ]
+  },
+  {
+    "french": "Composante",
+    "tamazight": [
+      "isger"
+    ]
+  },
+  {
+    "french": "Composé",
+    "tamazight": [
+      "uddis"
+    ]
+  },
+  {
+    "french": "Composition",
+    "tamazight": [
+      "asuddes"
+    ]
+  },
+  {
+    "french": "Compréhension (I)",
+    "tamazight": [
+      "tigzi"
+    ]
+  },
+  {
+    "french": "Compréhension (II)",
+    "tamazight": [
+      "ayla"
+    ]
+  },
+  {
+    "french": "Comptable",
+    "tamazight": [
+      "imettsiḍen"
+    ]
+  },
+  {
+    "french": "Conative (fonction)",
+    "tamazight": [
+      "tanaḍant"
+    ]
+  },
+  {
+    "french": "Concaténation",
+    "tamazight": [
+      "aserser"
+    ]
+  },
+  {
+    "french": "Concept",
+    "tamazight": [
+      "immekti"
+    ]
+  },
+  {
+    "french": "Concomitance",
+    "tamazight": [
+      "adukel"
+    ]
+  },
+  {
+    "french": "Concordance (I)",
+    "tamazight": [
+      "amwati"
+    ]
+  },
+  {
+    "french": "Concordance (II)",
+    "tamazight": [
+      "idegnawal"
+    ]
+  },
+  {
+    "french": "Concret",
+    "tamazight": [
+      "akmam"
+    ]
+  },
+  {
+    "french": "Conditionné",
+    "tamazight": [
+      "imttewtel"
+    ]
+  },
+  {
+    "french": "Conditionnel",
+    "tamazight": [
+      "awtilan"
+    ]
+  },
+  {
+    "french": "Conduit",
+    "tamazight": [
+      "targa"
+    ]
+  },
+  {
+    "french": "Configuration",
+    "tamazight": [
+      "tigin"
+    ]
+  },
+  {
+    "french": "Congloméré",
+    "tamazight": [
+      "ugarsin"
+    ]
+  },
+  {
+    "french": "Conjoint",
+    "tamazight": [
+      "usḍin"
+    ]
+  },
+  {
+    "french": "Conjonctif",
+    "tamazight": [
+      "asḍunan"
+    ]
+  },
+  {
+    "french": "Conjonction",
+    "tamazight": [
+      "tasḍunt"
+    ]
+  },
+  {
+    "french": "Conjugaison",
+    "tamazight": [
+      "asefti"
+    ]
+  },
+  {
+    "french": "Connecteur",
+    "tamazight": [
+      "imesdukel"
+    ]
+  },
+  {
+    "french": "Connexion",
+    "tamazight": [
+      "asdukel"
+    ]
+  },
+  {
+    "french": "Connotation",
+    "tamazight": [
+      "anamkiḍen"
+    ]
+  },
+  {
+    "french": "Conscience (linguistique)",
+    "tamazight": [
+      "iḥri (utlayan)"
+    ]
+  },
+  {
+    "french": "Consécutif",
+    "tamazight": [
+      "uḍfir"
+    ]
+  },
+  {
+    "french": "Conséquent",
+    "tamazight": [
+      "ulkim"
+    ]
+  },
+  {
+    "french": "Consonantification",
+    "tamazight": [
+      "agargal"
+    ]
+  },
+  {
+    "french": "Consonantique",
+    "tamazight": [
+      "argalan"
+    ]
+  },
+  {
+    "french": "Consonne",
+    "tamazight": [
+      "targalt"
+    ]
+  },
+  {
+    "french": "Constante",
+    "tamazight": [
+      "imezgi"
+    ]
+  },
+  {
+    "french": "Constatif",
+    "tamazight": [
+      "attwafan"
+    ]
+  },
+  {
+    "french": "Constituant",
+    "tamazight": [
+      "abruy"
+    ]
+  },
+  {
+    "french": "Constriction",
+    "tamazight": [
+      "amray"
+    ]
+  },
+  {
+    "french": "Constrictive",
+    "tamazight": [
+      "ameryan"
+    ]
+  },
+  {
+    "french": "Construction",
+    "tamazight": [
+      "tasuki"
+    ]
+  },
+  {
+    "french": "Contamination",
+    "tamazight": [
+      "asenṭeḍ"
+    ]
+  },
+  {
+    "french": "Contenu",
+    "tamazight": [
+      "agbur"
+    ]
+  },
+  {
+    "french": "Contexte",
+    "tamazight": [
+      "attal"
+    ]
+  },
+  {
+    "french": "Contextuel",
+    "tamazight": [
+      "attalan"
+    ]
+  },
+  {
+    "french": "Contiguïté",
+    "tamazight": [
+      "addas"
+    ]
+  },
+  {
+    "french": "Contingent",
+    "tamazight": [
+      "araḍulli"
+    ]
+  },
+  {
+    "french": "Continu",
+    "tamazight": [
+      "amaɣlal"
+    ]
+  },
+  {
+    "french": "Contracte",
+    "tamazight": [
+      "amefsay"
+    ]
+  },
+  {
+    "french": "Contraction",
+    "tamazight": [
+      "afsay"
+    ]
+  },
+  {
+    "french": "Contrainte",
+    "tamazight": [
+      "tamara"
+    ]
+  },
+  {
+    "french": "Contraire",
+    "tamazight": [
+      "anemgal"
+    ]
+  },
+  {
+    "french": "Contraste",
+    "tamazight": [
+      "amyeḥli"
+    ]
+  },
+  {
+    "french": "Contrastif",
+    "tamazight": [
+      "anemyeḥlay"
+    ]
+  },
+  {
+    "french": "Contre-tonique",
+    "tamazight": [
+      "azriqqri"
+    ]
+  },
+  {
+    "french": "Convention",
+    "tamazight": [
+      "amsisi"
+    ]
+  },
+  {
+    "french": "Conventionnel",
+    "tamazight": [
+      "amsisan"
+    ]
+  },
+  {
+    "french": "Conversion",
+    "tamazight": [
+      "asmutti"
+    ]
+  },
+  {
+    "french": "Convertir",
+    "tamazight": [
+      "smutti"
+    ]
+  },
+  {
+    "french": "Co-occurrence",
+    "tamazight": [
+      "azdili"
+    ]
+  },
+  {
+    "french": "Co-occurent",
+    "tamazight": [
+      "amezdili"
+    ]
+  },
+  {
+    "french": "Coordination",
+    "tamazight": [
+      "azedduy"
+    ]
+  },
+  {
+    "french": "Coordonnant",
+    "tamazight": [
+      "amezday"
+    ]
+  },
+  {
+    "french": "Coordonné",
+    "tamazight": [
+      "imettwazdi"
+    ]
+  },
+  {
+    "french": "Copulatif",
+    "tamazight": [
+      "asulayan"
+    ]
+  },
+  {
+    "french": "Copule",
+    "tamazight": [
+      "asulay"
+    ]
+  },
+  {
+    "french": "Cordes vocales",
+    "tamazight": [
+      "inzizen"
+    ]
+  },
+  {
+    "french": "Co-référence",
+    "tamazight": [
+      "azd-amselḥu"
+    ]
+  },
+  {
+    "french": "Corpus",
+    "tamazight": [
+      "asagem"
+    ]
+  },
+  {
+    "french": "Correction",
+    "tamazight": [
+      "aḍtay"
+    ]
+  },
+  {
+    "french": "Corrélatif",
+    "tamazight": [
+      "ukmis"
+    ]
+  },
+  {
+    "french": "Corrélation",
+    "tamazight": [
+      "akmas"
+    ]
+  },
+  {
+    "french": "Couche",
+    "tamazight": [
+      "tissi"
+    ]
+  },
+  {
+    "french": "Couleur",
+    "tamazight": [
+      "iniɣri"
+    ]
+  },
+  {
+    "french": "Coup de glotte",
+    "tamazight": [
+      "aha"
+    ]
+  },
+  {
+    "french": "Coupe",
+    "tamazight": [
+      "agzam"
+    ]
+  },
+  {
+    "french": "Créativité",
+    "tamazight": [
+      "tasennulfut"
+    ]
+  },
+  {
+    "french": "Creux",
+    "tamazight": [
+      "uɣiz"
+    ]
+  },
+  {
+    "french": "Cricoïde",
+    "tamazight": [
+      "tiyersi"
+    ]
+  },
+  {
+    "french": "Crochets",
+    "tamazight": [
+      "iseṭṭaf"
+    ]
+  },
+  {
+    "french": "Croisé",
+    "tamazight": [
+      "anmidag"
+    ]
+  },
+  {
+    "french": "Croisement",
+    "tamazight": [
+      "amideg"
+    ]
+  },
+  {
+    "french": "Cunéiforme",
+    "tamazight": [
+      "tiruɣmirt"
+    ]
+  },
+  {
+    "french": "Cursif",
+    "tamazight": [
+      "atiman"
+    ]
+  },
+  {
+    "french": "Cycle",
+    "tamazight": [
+      "unniḍ"
+    ]
+  },
+  {
+    "french": "Cyclique",
+    "tamazight": [
+      "unniḍan"
+    ]
+  },
+  {
+    "french": "Data",
+    "tamazight": [
+      "inefkan"
+    ]
+  },
+  {
+    "french": "Datation",
+    "tamazight": [
+      "azemzi"
+    ]
+  },
+  {
+    "french": "Datif",
+    "tamazight": [
+      "attwefkan"
+    ]
+  },
+  {
+    "french": "Décision",
+    "tamazight": [
+      "taḍtast"
+    ]
+  },
+  {
+    "french": "Déclaratif",
+    "tamazight": [
+      "aqqiran"
+    ]
+  },
+  {
+    "french": "Déclinaison",
+    "tamazight": [
+      "attwarnu"
+    ]
+  },
+  {
+    "french": "Décodage",
+    "tamazight": [
+      "aksangal"
+    ]
+  },
+  {
+    "french": "Décomposition",
+    "tamazight": [
+      "afruri"
+    ]
+  },
+  {
+    "french": "Découpage",
+    "tamazight": [
+      "beṭṭu"
+    ]
+  },
+  {
+    "french": "Décroissant",
+    "tamazight": [
+      "uris"
+    ]
+  },
+  {
+    "french": "Défectif",
+    "tamazight": [
+      "amasar"
+    ]
+  },
+  {
+    "french": "Défectivité",
+    "tamazight": [
+      "attwaser"
+    ]
+  },
+  {
+    "french": "Défense",
+    "tamazight": [
+      "agdal"
+    ]
+  },
+  {
+    "french": "Défini",
+    "tamazight": [
+      "anbadu"
+    ]
+  },
+  {
+    "french": "Définition",
+    "tamazight": [
+      "tabadut"
+    ]
+  },
+  {
+    "french": "Déglutination",
+    "tamazight": [
+      "aksanṭaḍ"
+    ]
+  },
+  {
+    "french": "Dégrammaticalisation",
+    "tamazight": [
+      "aksajurrem"
+    ]
+  },
+  {
+    "french": "Degré",
+    "tamazight": [
+      "tafesna"
+    ]
+  },
+  {
+    "french": "Dégroupement",
+    "tamazight": [
+      "aksagraw"
+    ]
+  },
+  {
+    "french": "Déïctique",
+    "tamazight": [
+      "anuskan"
+    ]
+  },
+  {
+    "french": "Déixis",
+    "tamazight": [
+      "askan"
+    ]
+  },
+  {
+    "french": "Délabialisé",
+    "tamazight": [
+      "aksancuc"
+    ]
+  },
+  {
+    "french": "Délibératif",
+    "tamazight": [
+      "uḍtis"
+    ]
+  },
+  {
+    "french": "Démarcatif",
+    "tamazight": [
+      "amefrag"
+    ]
+  },
+  {
+    "french": "Démarcation",
+    "tamazight": [
+      "afrag"
+    ]
+  },
+  {
+    "french": "Démonstratif",
+    "tamazight": [
+      "ameskan"
+    ]
+  },
+  {
+    "french": "Dénominatif",
+    "tamazight": [
+      "asgisem"
+    ]
+  },
+  {
+    "french": "Dénotatif",
+    "tamazight": [
+      "amusnan"
+    ]
+  },
+  {
+    "french": "Dénotation",
+    "tamazight": [
+      "asmussen"
+    ]
+  },
+  {
+    "french": "Dental",
+    "tamazight": [
+      "uglan"
+    ]
+  },
+  {
+    "french": "Dentilabial",
+    "tamazight": [
+      "ancuglan"
+    ]
+  },
+  {
+    "french": "Dépendant",
+    "tamazight": [
+      "ugil"
+    ]
+  },
+  {
+    "french": "Déphonologisation",
+    "tamazight": [
+      "aksagmeslic"
+    ]
+  },
+  {
+    "french": "Déplaçabilité",
+    "tamazight": [
+      "attwasikel"
+    ]
+  },
+  {
+    "french": "Déplacement",
+    "tamazight": [
+      "asikel"
+    ]
+  },
+  {
+    "french": "Dépréciatif",
+    "tamazight": [
+      "amserku"
+    ]
+  },
+  {
+    "french": "Dérivation",
+    "tamazight": [
+      "asuddem"
+    ]
+  },
+  {
+    "french": "Dérivationnel",
+    "tamazight": [
+      "asuddman"
+    ]
+  },
+  {
+    "french": "Désambiguisation",
+    "tamazight": [
+      "aksarway"
+    ]
+  },
+  {
+    "french": "Désambiguïser",
+    "tamazight": [
+      "kkesarway"
+    ]
+  },
+  {
+    "french": "Désarrondissement",
+    "tamazight": [
+      "aksaskerni"
+    ]
+  },
+  {
+    "french": "Désaspiration",
+    "tamazight": [
+      "aksanhat"
+    ]
+  },
+  {
+    "french": "Descendant",
+    "tamazight": [
+      "uris"
+    ]
+  },
+  {
+    "french": "Descriptif",
+    "tamazight": [
+      "uglim"
+    ]
+  },
+  {
+    "french": "Description",
+    "tamazight": [
+      "aglam"
+    ]
+  },
+  {
+    "french": "Descriptivisme",
+    "tamazight": [
+      "iḥruglam"
+    ]
+  },
+  {
+    "french": "Désignation",
+    "tamazight": [
+      "asmussen"
+    ]
+  },
+  {
+    "french": "Désinence",
+    "tamazight": [
+      "tahrayt"
+    ]
+  },
+  {
+    "french": "Destinataire",
+    "tamazight": [
+      "amettwazen"
+    ]
+  },
+  {
+    "french": "Destinateur",
+    "tamazight": [
+      "amazan"
+    ]
+  },
+  {
+    "french": "Détaché",
+    "tamazight": [
+      "imeḥli"
+    ]
+  },
+  {
+    "french": "Détachement",
+    "tamazight": [
+      "aḥlay"
+    ]
+  },
+  {
+    "french": "Détente",
+    "tamazight": [
+      "asgunfu"
+    ]
+  },
+  {
+    "french": "Déterminant",
+    "tamazight": [
+      "amguccal"
+    ]
+  },
+  {
+    "french": "Déterminatif",
+    "tamazight": [
+      "agucclan"
+    ]
+  },
+  {
+    "french": "Détermination",
+    "tamazight": [
+      "aguccel"
+    ]
+  },
+  {
+    "french": "Déterminé",
+    "tamazight": [
+      "imettguccel"
+    ]
+  },
+  {
+    "french": "Deux-points",
+    "tamazight": [
+      "sin-aqqayen"
+    ]
+  },
+  {
+    "french": "Déverbal",
+    "tamazight": [
+      "asgumyag"
+    ]
+  },
+  {
+    "french": "Déverbatif",
+    "tamazight": [
+      "umyig"
+    ]
+  },
+  {
+    "french": "Dévocalisation",
+    "tamazight": [
+      "aksiɣri"
+    ]
+  },
+  {
+    "french": "Dévocalisé",
+    "tamazight": [
+      "ameksiɣri"
+    ]
+  },
+  {
+    "french": "Dévoisé",
+    "tamazight": [
+      "ameksiɣri"
+    ]
+  },
+  {
+    "french": "Dévoisement",
+    "tamazight": [
+      "aksiɣri"
+    ]
+  },
+  {
+    "french": "Diachronie",
+    "tamazight": [
+      "azgerkud"
+    ]
+  },
+  {
+    "french": "Diachronique",
+    "tamazight": [
+      "azgerkudan"
+    ]
+  },
+  {
+    "french": "Diachritique (signe)",
+    "tamazight": [
+      "anuskil"
+    ]
+  },
+  {
+    "french": "Diagnostique",
+    "tamazight": [
+      "amsennefru"
+    ]
+  },
+  {
+    "french": "Diagramme",
+    "tamazight": [
+      "amudlif"
+    ]
+  },
+  {
+    "french": "Dialectal",
+    "tamazight": [
+      "antalan"
+    ]
+  },
+  {
+    "french": "Dialectalisation",
+    "tamazight": [
+      "attwentali"
+    ]
+  },
+  {
+    "french": "Dialecte",
+    "tamazight": [
+      "tantala"
+    ]
+  },
+  {
+    "french": "Dialectisation",
+    "tamazight": [
+      "attwentali"
+    ]
+  },
+  {
+    "french": "Dialectologie",
+    "tamazight": [
+      "tasnantala"
+    ]
+  },
+  {
+    "french": "Diathèse",
+    "tamazight": [
+      "ammek"
+    ]
+  },
+  {
+    "french": "Dichotique",
+    "tamazight": [
+      "asinemḥuẓ"
+    ]
+  },
+  {
+    "french": "Dictionnaire",
+    "tamazight": [
+      "agzawal"
+    ]
+  },
+  {
+    "french": "Diérèse",
+    "tamazight": [
+      "abḍiɣra"
+    ]
+  },
+  {
+    "french": "Diésé",
+    "tamazight": [
+      "asitan"
+    ]
+  },
+  {
+    "french": "Différenciation",
+    "tamazight": [
+      "aseḥli"
+    ]
+  },
+  {
+    "french": "Diffus",
+    "tamazight": [
+      "amesgug"
+    ]
+  },
+  {
+    "french": "Diglossie",
+    "tamazight": [
+      "asiwelsin"
+    ]
+  },
+  {
+    "french": "Digramme",
+    "tamazight": [
+      "asineskil"
+    ]
+  },
+  {
+    "french": "Dilation",
+    "tamazight": [
+      "aserwus"
+    ]
+  },
+  {
+    "french": "Diminutif",
+    "tamazight": [
+      "imsemḥi"
+    ]
+  },
+  {
+    "french": "Diphtongaison",
+    "tamazight": [
+      "agsineɣri"
+    ]
+  },
+  {
+    "french": "Diphtongue",
+    "tamazight": [
+      "asineɣri"
+    ]
+  },
+  {
+    "french": "Direct",
+    "tamazight": [
+      "usrid"
+    ]
+  },
+  {
+    "french": "Directionnel",
+    "tamazight": [
+      "anilan"
+    ]
+  },
+  {
+    "french": "Discontinu",
+    "tamazight": [
+      "aruɣlil"
+    ]
+  },
+  {
+    "french": "Discours",
+    "tamazight": [
+      "inaw"
+    ]
+  },
+  {
+    "french": "Discret",
+    "tamazight": [
+      "afraray"
+    ]
+  },
+  {
+    "french": "Disjoint",
+    "tamazight": [
+      "arusḍin"
+    ]
+  },
+  {
+    "french": "Disjonctif",
+    "tamazight": [
+      "arseḍnan"
+    ]
+  },
+  {
+    "french": "Disponible",
+    "tamazight": [
+      "ayellan"
+    ]
+  },
+  {
+    "french": "Dissimilation",
+    "tamazight": [
+      "anufru"
+    ]
+  },
+  {
+    "french": "Dissonance",
+    "tamazight": [
+      "irasseli"
+    ]
+  },
+  {
+    "french": "Disyllabe",
+    "tamazight": [
+      "asinuntiq"
+    ]
+  },
+  {
+    "french": "Disyllabique",
+    "tamazight": [
+      "asinuntiq"
+    ]
+  },
+  {
+    "french": "Distance",
+    "tamazight": [
+      "tazegret"
+    ]
+  },
+  {
+    "french": "Distinctif",
+    "tamazight": [
+      "imsefru"
+    ]
+  },
+  {
+    "french": "Distributif",
+    "tamazight": [
+      "asedgar"
+    ]
+  },
+  {
+    "french": "Distribution",
+    "tamazight": [
+      "asedger"
+    ]
+  },
+  {
+    "french": "Distributionnel (analyse)",
+    "tamazight": [
+      "asdegran"
+    ]
+  },
+  {
+    "french": "Documentaire",
+    "tamazight": [
+      "imselḥet"
+    ]
+  },
+  {
+    "french": "Dominer",
+    "tamazight": [
+      "agar"
+    ]
+  },
+  {
+    "french": "Données",
+    "tamazight": [
+      "inefkan"
+    ]
+  },
+  {
+    "french": "Dorsal",
+    "tamazight": [
+      "aruran"
+    ]
+  },
+  {
+    "french": "Dorso-alvéolaire",
+    "tamazight": [
+      "aruran-adluglan"
+    ]
+  },
+  {
+    "french": "Dorsum",
+    "tamazight": [
+      "arur"
+    ]
+  },
+  {
+    "french": "Dos",
+    "tamazight": [
+      "arur"
+    ]
+  },
+  {
+    "french": "Double",
+    "tamazight": [
+      "uslig"
+    ]
+  },
+  {
+    "french": "Double articulation",
+    "tamazight": [
+      "agsusru uslig"
+    ]
+  },
+  {
+    "french": "Doublet",
+    "tamazight": [
+      "alsin"
+    ]
+  },
+  {
+    "french": "Douteux",
+    "tamazight": [
+      "amsurdu"
+    ]
+  },
+  {
+    "french": "Doux",
+    "tamazight": [
+      "anafsas"
+    ]
+  },
+  {
+    "french": "Dualité",
+    "tamazight": [
+      "tasint"
+    ]
+  },
+  {
+    "french": "Duel",
+    "tamazight": [
+      "asinan"
+    ]
+  },
+  {
+    "french": "Dur",
+    "tamazight": [
+      "aquran"
+    ]
+  },
+  {
+    "french": "Duratif",
+    "tamazight": [
+      "atiman"
+    ]
+  },
+  {
+    "french": "Durée",
+    "tamazight": [
+      "atimi"
+    ]
+  },
+  {
+    "french": "Dynamique",
+    "tamazight": [
+      "amendu"
+    ]
+  },
+  {
+    "french": "Ecart",
+    "tamazight": [
+      "agemmeḍ"
+    ]
+  },
+  {
+    "french": "Echange verbal",
+    "tamazight": [
+      "asemmeskel n wawal"
+    ]
+  },
+  {
+    "french": "Echantillon",
+    "tamazight": [
+      "tikkest"
+    ]
+  },
+  {
+    "french": "Economie",
+    "tamazight": [
+      "tadamsa"
+    ]
+  },
+  {
+    "french": "Ecrit",
+    "tamazight": [
+      "attwaru"
+    ]
+  },
+  {
+    "french": "Ecriture",
+    "tamazight": [
+      "tira"
+    ]
+  },
+  {
+    "french": "Effacement",
+    "tamazight": [
+      "ukus"
+    ]
+  },
+  {
+    "french": "Effectif",
+    "tamazight": [
+      "agmuḍan"
+    ]
+  },
+  {
+    "french": "Effet de style",
+    "tamazight": [
+      "asemdu n uɣanib"
+    ]
+  },
+  {
+    "french": "Ego",
+    "tamazight": [
+      "iman"
+    ]
+  },
+  {
+    "french": "Egocentrique",
+    "tamazight": [
+      "animan"
+    ]
+  },
+  {
+    "french": "Ejectif",
+    "tamazight": [
+      "amerr"
+    ]
+  },
+  {
+    "french": "Ejection",
+    "tamazight": [
+      "iriri"
+    ]
+  },
+  {
+    "french": "Elargissement",
+    "tamazight": [
+      "arnay"
+    ]
+  },
+  {
+    "french": "Elatif",
+    "tamazight": [
+      "ineffeɣ"
+    ]
+  },
+  {
+    "french": "Elément",
+    "tamazight": [
+      "aferdis"
+    ]
+  },
+  {
+    "french": "Elémentaire",
+    "tamazight": [
+      "aferdisan"
+    ]
+  },
+  {
+    "french": "Elision",
+    "tamazight": [
+      "taḍuri"
+    ]
+  },
+  {
+    "french": "Ellipse",
+    "tamazight": [
+      "atettu"
+    ]
+  },
+  {
+    "french": "Elliptique",
+    "tamazight": [
+      "imettu"
+    ]
+  },
+  {
+    "french": "Eloigné",
+    "tamazight": [
+      "aggugan"
+    ]
+  },
+  {
+    "french": "Emboitement",
+    "tamazight": [
+      "asay"
+    ]
+  },
+  {
+    "french": "Embrayeur",
+    "tamazight": [
+      "adgizen"
+    ]
+  },
+  {
+    "french": "Emetteur",
+    "tamazight": [
+      "amgizen"
+    ]
+  },
+  {
+    "french": "Emission",
+    "tamazight": [
+      "agizen"
+    ]
+  },
+  {
+    "french": "Emotif",
+    "tamazight": [
+      "anfalan"
+    ]
+  },
+  {
+    "french": "Emphase",
+    "tamazight": [
+      "tufayt"
+    ]
+  },
+  {
+    "french": "Emphatique",
+    "tamazight": [
+      "ufay"
+    ]
+  },
+  {
+    "french": "Emphatiser",
+    "tamazight": [
+      "sufay"
+    ]
+  },
+  {
+    "french": "Emploi",
+    "tamazight": [
+      "tamrest"
+    ]
+  },
+  {
+    "french": "Emprunt",
+    "tamazight": [
+      "areṭṭal"
+    ]
+  },
+  {
+    "french": "Enallage",
+    "tamazight": [
+      "araseddas"
+    ]
+  },
+  {
+    "french": "Enchaînement",
+    "tamazight": [
+      "amyeḍfer"
+    ]
+  },
+  {
+    "french": "Enchâssement",
+    "tamazight": [
+      "aggir"
+    ]
+  },
+  {
+    "french": "Encodage",
+    "tamazight": [
+      "aneggel"
+    ]
+  },
+  {
+    "french": "Encodeur",
+    "tamazight": [
+      "imneggel"
+    ]
+  },
+  {
+    "french": "Endocentrique",
+    "tamazight": [
+      "amezg"
+    ]
+  },
+  {
+    "french": "Engendrer",
+    "tamazight": [
+      "arew"
+    ]
+  },
+  {
+    "french": "Enoncé",
+    "tamazight": [
+      "tinawt"
+    ]
+  },
+  {
+    "french": "Enonciateur",
+    "tamazight": [
+      "amginaw"
+    ]
+  },
+  {
+    "french": "Enonciatif",
+    "tamazight": [
+      "aqqiran"
+    ]
+  },
+  {
+    "french": "Enonciation",
+    "tamazight": [
+      "taginawt"
+    ]
+  },
+  {
+    "french": "Ensemble",
+    "tamazight": [
+      "tagrumma"
+    ]
+  },
+  {
+    "french": "Entassement",
+    "tamazight": [
+      "asettef"
+    ]
+  },
+  {
+    "french": "Entité",
+    "tamazight": [
+      "ayun"
+    ]
+  },
+  {
+    "french": "Entravée",
+    "tamazight": [
+      "udil"
+    ]
+  },
+  {
+    "french": "Entrée",
+    "tamazight": [
+      "takcemt"
+    ]
+  },
+  {
+    "french": "Enumération",
+    "tamazight": [
+      "asmiwer"
+    ]
+  },
+  {
+    "french": "Environnement",
+    "tamazight": [
+      "attal"
+    ]
+  },
+  {
+    "french": "Epenthèse",
+    "tamazight": [
+      "tifeḍli"
+    ]
+  },
+  {
+    "french": "Epicène",
+    "tamazight": [
+      "ismuddir"
+    ]
+  },
+  {
+    "french": "Epiglotte",
+    "tamazight": [
+      "tafirast"
+    ]
+  },
+  {
+    "french": "Epithèse",
+    "tamazight": [
+      "amɣil"
+    ]
+  },
+  {
+    "french": "Epithète",
+    "tamazight": [
+      "ammerkid"
+    ]
+  },
+  {
+    "french": "Epithétisation",
+    "tamazight": [
+      "agemmerkid"
+    ]
+  },
+  {
+    "french": "Equatif",
+    "tamazight": [
+      "asegday"
+    ]
+  },
+  {
+    "french": "Equivalence",
+    "tamazight": [
+      "tagdazalt"
+    ]
+  },
+  {
+    "french": "Equivalent",
+    "tamazight": [
+      "amegdazal"
+    ]
+  },
+  {
+    "french": "Equivoque",
+    "tamazight": [
+      "arifaw"
+    ]
+  },
+  {
+    "french": "Ergatif",
+    "tamazight": [
+      "ameg"
+    ]
+  },
+  {
+    "french": "Essif",
+    "tamazight": [
+      "addadan"
+    ]
+  },
+  {
+    "french": "Etat",
+    "tamazight": [
+      "addad"
+    ]
+  },
+  {
+    "french": "Etat d’annexion",
+    "tamazight": [
+      "addad amaruz"
+    ]
+  },
+  {
+    "french": "Etat de langue",
+    "tamazight": [
+      "addad n tutlayt"
+    ]
+  },
+  {
+    "french": "Etiquette",
+    "tamazight": [
+      "tabzimt"
+    ]
+  },
+  {
+    "french": "Etiré",
+    "tamazight": [
+      "amefsu"
+    ]
+  },
+  {
+    "french": "Etirement",
+    "tamazight": [
+      "afsu"
+    ]
+  },
+  {
+    "french": "Etymologie",
+    "tamazight": [
+      "tagmuḥar"
+    ]
+  },
+  {
+    "french": "Etymon",
+    "tamazight": [
+      "amuḥar"
+    ]
+  },
+  {
+    "french": "Euphémisme",
+    "tamazight": [
+      "asiḥed"
+    ]
+  },
+  {
+    "french": "Euphonie",
+    "tamazight": [
+      "tilhiɣri"
+    ]
+  },
+  {
+    "french": "Euphonique",
+    "tamazight": [
+      "ilhiɣran"
+    ]
+  },
+  {
+    "french": "Evanescent",
+    "tamazight": [
+      "usfiḍ"
+    ]
+  },
+  {
+    "french": "Evolutif",
+    "tamazight": [
+      "amhazan"
+    ]
+  },
+  {
+    "french": "Evolution",
+    "tamazight": [
+      "tamhazt"
+    ]
+  },
+  {
+    "french": "Exception",
+    "tamazight": [
+      "tasureft"
+    ]
+  },
+  {
+    "french": "Exclamatif",
+    "tamazight": [
+      "akunan"
+    ]
+  },
+  {
+    "french": "Exclamation",
+    "tamazight": [
+      "takunt"
+    ]
+  },
+  {
+    "french": "Exclusif",
+    "tamazight": [
+      "amsufeɣ"
+    ]
+  },
+  {
+    "french": "Exclusion",
+    "tamazight": [
+      "asufeɣ"
+    ]
+  },
+  {
+    "french": "Exemple",
+    "tamazight": [
+      "amedya"
+    ]
+  },
+  {
+    "french": "Exocentrique",
+    "tamazight": [
+      "aramezg"
+    ]
+  },
+  {
+    "french": "Expansion",
+    "tamazight": [
+      "arnay"
+    ]
+  },
+  {
+    "french": "Expansion référentielle",
+    "tamazight": [
+      "arnay amselḥan"
+    ]
+  },
+  {
+    "french": "Expiration",
+    "tamazight": [
+      "aneffer"
+    ]
+  },
+  {
+    "french": "Explétif",
+    "tamazight": [
+      "aramzal"
+    ]
+  },
+  {
+    "french": "Explosif",
+    "tamazight": [
+      "ulfiɣ"
+    ]
+  },
+  {
+    "french": "Explosion",
+    "tamazight": [
+      "aleffeɣ"
+    ]
+  },
+  {
+    "french": "Expressif",
+    "tamazight": [
+      "anfalan"
+    ]
+  },
+  {
+    "french": "Expression",
+    "tamazight": [
+      "tanfalit"
+    ]
+  },
+  {
+    "french": "Expressivité",
+    "tamazight": [
+      "tananfalit"
+    ]
+  },
+  {
+    "french": "Extension",
+    "tamazight": [
+      "tuḥḥla"
+    ]
+  },
+  {
+    "french": "Extra-linguistique",
+    "tamazight": [
+      "amefɣ-iles"
+    ]
+  },
+  {
+    "french": "Extra-nucléaire",
+    "tamazight": [
+      "amefɣ-iɣes"
+    ]
+  },
+  {
+    "french": "Factif",
+    "tamazight": [
+      "unkiz"
+    ]
+  },
+  {
+    "french": "Factitif",
+    "tamazight": [
+      "asswaɣ"
+    ]
+  },
+  {
+    "french": "Facultative",
+    "tamazight": [
+      "anufran"
+    ]
+  },
+  {
+    "french": "Faible",
+    "tamazight": [
+      "aleqqaq"
+    ]
+  },
+  {
+    "french": "Faits",
+    "tamazight": [
+      "ittwag"
+    ]
+  },
+  {
+    "french": "Fait de style",
+    "tamazight": [
+      "asemdu n uɣanib"
+    ]
+  },
+  {
+    "french": "Familier",
+    "tamazight": [
+      "unnim"
+    ]
+  },
+  {
+    "french": "Famille",
+    "tamazight": [
+      "tawacult"
+    ]
+  },
+  {
+    "french": "Famille (de langues)",
+    "tamazight": [
+      "tawacult (n tutlayin)"
+    ]
+  },
+  {
+    "french": "Faute",
+    "tamazight": [
+      "ucuḍ"
+    ]
+  },
+  {
+    "french": "Faux-amis",
+    "tamazight": [
+      "irimeddukal"
+    ]
+  },
+  {
+    "french": "Feed-back",
+    "tamazight": [
+      "aslugenman"
+    ]
+  },
+  {
+    "french": "Femelle",
+    "tamazight": [
+      "tawtemt"
+    ]
+  },
+  {
+    "french": "Féminin",
+    "tamazight": [
+      "unti"
+    ]
+  },
+  {
+    "french": "Fermé",
+    "tamazight": [
+      "urgil"
+    ]
+  },
+  {
+    "french": "Fermeture",
+    "tamazight": [
+      "argal"
+    ]
+  },
+  {
+    "french": "Figé",
+    "tamazight": [
+      "ukrif"
+    ]
+  },
+  {
+    "french": "Figement",
+    "tamazight": [
+      "akarif"
+    ]
+  },
+  {
+    "french": "Figure",
+    "tamazight": [
+      "agmaḍ"
+    ]
+  },
+  {
+    "french": "Figuré",
+    "tamazight": [
+      "anagmaḍ"
+    ]
+  },
+  {
+    "french": "Final",
+    "tamazight": [
+      "aniɣef"
+    ]
+  },
+  {
+    "french": "Fixation",
+    "tamazight": [
+      "akarif"
+    ]
+  },
+  {
+    "french": "Flèche",
+    "tamazight": [
+      "tanassabt"
+    ]
+  },
+  {
+    "french": "Fléchi",
+    "tamazight": [
+      "ulmiḍ"
+    ]
+  },
+  {
+    "french": "Flexion",
+    "tamazight": [
+      "almaḍ"
+    ]
+  },
+  {
+    "french": "Flexionnel",
+    "tamazight": [
+      "almaḍan"
+    ]
+  },
+  {
+    "french": "Flexionnelles (langues)",
+    "tamazight": [
+      "tilmaḍanin (tutlayin)"
+    ]
+  },
+  {
+    "french": "Focaliser",
+    "tamazight": [
+      "sufay"
+    ]
+  },
+  {
+    "french": "Fonction",
+    "tamazight": [
+      "tawuri"
+    ]
+  },
+  {
+    "french": "Fonctionnalisme",
+    "tamazight": [
+      "tiḥrawuri"
+    ]
+  },
+  {
+    "french": "Fonctionnel",
+    "tamazight": [
+      "awuran"
+    ]
+  },
+  {
+    "french": "Fondamental",
+    "tamazight": [
+      "imnetti"
+    ]
+  },
+  {
+    "french": "Fonds commun",
+    "tamazight": [
+      "ay-amsiher"
+    ]
+  },
+  {
+    "french": "Force",
+    "tamazight": [
+      "afud"
+    ]
+  },
+  {
+    "french": "Formalisation",
+    "tamazight": [
+      "agtalɣa"
+    ]
+  },
+  {
+    "french": "Formalisme",
+    "tamazight": [
+      "iḥralɣan"
+    ]
+  },
+  {
+    "french": "Formalistes (russes)",
+    "tamazight": [
+      "imeḥralɣanen (irusiyen)"
+    ]
+  },
+  {
+    "french": "Formant",
+    "tamazight": [
+      "amaleɣ"
+    ]
+  },
+  {
+    "french": "Formation de mots",
+    "tamazight": [
+      "asileɣ n wawalen"
+    ]
+  },
+  {
+    "french": "Forme",
+    "tamazight": [
+      "talɣa"
+    ]
+  },
+  {
+    "french": "Formel",
+    "tamazight": [
+      "alɣan"
+    ]
+  },
+  {
+    "french": "Fort",
+    "tamazight": [
+      "anfud"
+    ]
+  },
+  {
+    "french": "Franchissement",
+    "tamazight": [
+      "akkay"
+    ]
+  },
+  {
+    "french": "Fréquence",
+    "tamazight": [
+      "asnagar"
+    ]
+  },
+  {
+    "french": "Fréquentatif",
+    "tamazight": [
+      "alsan"
+    ]
+  },
+  {
+    "french": "Fricative",
+    "tamazight": [
+      "ameryan"
+    ]
+  },
+  {
+    "french": "Friction",
+    "tamazight": [
+      "amray"
+    ]
+  },
+  {
+    "french": "Frontière",
+    "tamazight": [
+      "talast"
+    ]
+  },
+  {
+    "french": "Fusion",
+    "tamazight": [
+      "aserti"
+    ]
+  },
+  {
+    "french": "Fusionnant",
+    "tamazight": [
+      "almaḍan"
+    ]
+  },
+  {
+    "french": "Futur",
+    "tamazight": [
+      "imal"
+    ]
+  },
+  {
+    "french": "Gémination",
+    "tamazight": [
+      "tuḥḥla"
+    ]
+  },
+  {
+    "french": "Géminé",
+    "tamazight": [
+      "uḥḥil"
+    ]
+  },
+  {
+    "french": "Générale (grammaire)",
+    "tamazight": [
+      "tamatut"
+    ]
+  },
+  {
+    "french": "Généralisation",
+    "tamazight": [
+      "asmatu"
+    ]
+  },
+  {
+    "french": "Généralisé",
+    "tamazight": [
+      "anesmatu"
+    ]
+  },
+  {
+    "french": "Génératif",
+    "tamazight": [
+      "arwan"
+    ]
+  },
+  {
+    "french": "Générative (grammaire)",
+    "tamazight": [
+      "tarwant"
+    ]
+  },
+  {
+    "french": "Générer",
+    "tamazight": [
+      "arew"
+    ]
+  },
+  {
+    "french": "Générique",
+    "tamazight": [
+      "awsiyan"
+    ]
+  },
+  {
+    "french": "Génétif",
+    "tamazight": [
+      "anayla"
+    ]
+  },
+  {
+    "french": "Genre",
+    "tamazight": [
+      "tawsit"
+    ]
+  },
+  {
+    "french": "Géographie linguistique",
+    "tamazight": [
+      "tarakalt tutlayant"
+    ]
+  },
+  {
+    "french": "Géolinguistique",
+    "tamazight": [
+      "tarakalt tutlayant"
+    ]
+  },
+  {
+    "french": "Gérondif",
+    "tamazight": [
+      "ismamyag"
+    ]
+  },
+  {
+    "french": "Glide",
+    "tamazight": [
+      "awey"
+    ]
+  },
+  {
+    "french": "Glissement de sens",
+    "tamazight": [
+      "ucuḍ n unamek"
+    ]
+  },
+  {
+    "french": "Glossaire",
+    "tamazight": [
+      "amawal n yilɣiten"
+    ]
+  },
+  {
+    "french": "Glossématique",
+    "tamazight": [
+      "tasnutlayt"
+    ]
+  },
+  {
+    "french": "Glottal",
+    "tamazight": [
+      "agranzazan"
+    ]
+  },
+  {
+    "french": "Glottalisé",
+    "tamazight": [
+      "amerr"
+    ]
+  },
+  {
+    "french": "Glotte",
+    "tamazight": [
+      "agranzaz"
+    ]
+  },
+  {
+    "french": "Gnomique",
+    "tamazight": [
+      "arakudan"
+    ]
+  },
+  {
+    "french": "Gouverner",
+    "tamazight": [
+      "nbeḍ"
+    ]
+  },
+  {
+    "french": "Gradation",
+    "tamazight": [
+      "asefsen"
+    ]
+  },
+  {
+    "french": "Graduel",
+    "tamazight": [
+      "afesnan"
+    ]
+  },
+  {
+    "french": "Grammaire",
+    "tamazight": [
+      "tajerrumt"
+    ]
+  },
+  {
+    "french": "Grammatical",
+    "tamazight": [
+      "ajerruman"
+    ]
+  },
+  {
+    "french": "Grammaticalisation",
+    "tamazight": [
+      "ajurrem"
+    ]
+  },
+  {
+    "french": "Grammaticalité",
+    "tamazight": [
+      "tijurremt"
+    ]
+  },
+  {
+    "french": "Grammème",
+    "tamazight": [
+      "anjerrum"
+    ]
+  },
+  {
+    "french": "Graphe",
+    "tamazight": [
+      "udlif"
+    ]
+  },
+  {
+    "french": "Graphème",
+    "tamazight": [
+      "tudlift"
+    ]
+  },
+  {
+    "french": "Graphie",
+    "tamazight": [
+      "tirawalt"
+    ]
+  },
+  {
+    "french": "Graphique",
+    "tamazight": [
+      "irawlan"
+    ]
+  },
+  {
+    "french": "Grasseyé",
+    "tamazight": [
+      "angerjum"
+    ]
+  },
+  {
+    "french": "Grave",
+    "tamazight": [
+      "arumsid"
+    ]
+  },
+  {
+    "french": "Grimm (loi de)",
+    "tamazight": [
+      "Grimm (asaḍuf n)"
+    ]
+  },
+  {
+    "french": "Groupe",
+    "tamazight": [
+      "agraw"
+    ]
+  },
+  {
+    "french": "Guillemets",
+    "tamazight": [
+      "imeḥliyen"
+    ]
+  },
+  {
+    "french": "Gutturale",
+    "tamazight": [
+      "ulwiɣan"
+    ]
+  },
+  {
+    "french": "Habituel",
+    "tamazight": [
+      "unnim"
+    ]
+  },
+  {
+    "french": "Hapaxépie",
+    "tamazight": [
+      "tagult"
+    ]
+  },
+  {
+    "french": "Haplolalie",
+    "tamazight": [
+      "tagult"
+    ]
+  },
+  {
+    "french": "Haplologie",
+    "tamazight": [
+      "tagult"
+    ]
+  },
+  {
+    "french": "Harmonie",
+    "tamazight": [
+      "amsasi"
+    ]
+  },
+  {
+    "french": "Harmonique",
+    "tamazight": [
+      "anemsasi"
+    ]
+  },
+  {
+    "french": "Haut",
+    "tamazight": [
+      "anafella"
+    ]
+  },
+  {
+    "french": "Hauteur",
+    "tamazight": [
+      "tattayt"
+    ]
+  },
+  {
+    "french": "Hémistiche",
+    "tamazight": [
+      "anafir"
+    ]
+  },
+  {
+    "french": "Hétéronyme",
+    "tamazight": [
+      "ameḥluḥar"
+    ]
+  },
+  {
+    "french": "Hétérorgane",
+    "tamazight": [
+      "ameḥladeg"
+    ]
+  },
+  {
+    "french": "Hétérosyllabique",
+    "tamazight": [
+      "ameḥluntiq"
+    ]
+  },
+  {
+    "french": "Hiatus",
+    "tamazight": [
+      "tilɣit"
+    ]
+  },
+  {
+    "french": "Historique",
+    "tamazight": [
+      "anmezruy"
+    ]
+  },
+  {
+    "french": "Homéonyme",
+    "tamazight": [
+      "amumegdu"
+    ]
+  },
+  {
+    "french": "Homoglosse",
+    "tamazight": [
+      "ayniles"
+    ]
+  },
+  {
+    "french": "Homographe",
+    "tamazight": [
+      "aynudlif"
+    ]
+  },
+  {
+    "french": "Homonyme",
+    "tamazight": [
+      "aynisem"
+    ]
+  },
+  {
+    "french": "Homonymie",
+    "tamazight": [
+      "tiynisemt"
+    ]
+  },
+  {
+    "french": "Homophone",
+    "tamazight": [
+      "ayniɣri"
+    ]
+  },
+  {
+    "french": "Homophonie",
+    "tamazight": [
+      "tiyniɣrit"
+    ]
+  },
+  {
+    "french": "Homorgane, Homorganique",
+    "tamazight": [
+      "aynadeg"
+    ]
+  },
+  {
+    "french": "Humain",
+    "tamazight": [
+      "anales"
+    ]
+  },
+  {
+    "french": "Hybride",
+    "tamazight": [
+      "imerwi"
+    ]
+  },
+  {
+    "french": "Hyperbate",
+    "tamazight": [
+      "uḍrin"
+    ]
+  },
+  {
+    "french": "Hyperbole",
+    "tamazight": [
+      "acayeḍ"
+    ]
+  },
+  {
+    "french": "Hypercorrection",
+    "tamazight": [
+      "iraḍtay"
+    ]
+  },
+  {
+    "french": "Hyperonyme",
+    "tamazight": [
+      "amaway"
+    ]
+  },
+  {
+    "french": "Hypocoristique",
+    "tamazight": [
+      "imsileqq"
+    ]
+  },
+  {
+    "french": "Hyponymie",
+    "tamazight": [
+      "attwawi"
+    ]
+  },
+  {
+    "french": "Hypostase",
+    "tamazight": [
+      "tanfalt"
+    ]
+  },
+  {
+    "french": "Hypotaxe",
+    "tamazight": [
+      "asaḍen"
+    ]
+  },
+  {
+    "french": "Hypothétique",
+    "tamazight": [
+      "urdan"
+    ]
+  },
+  {
+    "french": "Icône",
+    "tamazight": [
+      "tili"
+    ]
+  },
+  {
+    "french": "Identification",
+    "tamazight": [
+      "asulu"
+    ]
+  },
+  {
+    "french": "Identité",
+    "tamazight": [
+      "tulut"
+    ]
+  },
+  {
+    "french": "Idéogramme",
+    "tamazight": [
+      "udlifakti"
+    ]
+  },
+  {
+    "french": "Idéogrammatique",
+    "tamazight": [
+      "udlifaktan"
+    ]
+  },
+  {
+    "french": "Idéographique",
+    "tamazight": [
+      "udlifaktan"
+    ]
+  },
+  {
+    "french": "Idéolecte",
+    "tamazight": [
+      "ilsiman"
+    ]
+  },
+  {
+    "french": "Idiome",
+    "tamazight": [
+      "tameslayt"
+    ]
+  },
+  {
+    "french": "Illatif",
+    "tamazight": [
+      "amadef"
+    ]
+  },
+  {
+    "french": "Image",
+    "tamazight": [
+      "tugna"
+    ]
+  },
+  {
+    "french": "Immotivé",
+    "tamazight": [
+      "armental"
+    ]
+  },
+  {
+    "french": "Imparfait",
+    "tamazight": [
+      "arnemdu"
+    ]
+  },
+  {
+    "french": "Impératif",
+    "tamazight": [
+      "anaḍ"
+    ]
+  },
+  {
+    "french": "Imperfectif (aspect)",
+    "tamazight": [
+      "arummid"
+    ]
+  },
+  {
+    "french": "Impersonnel",
+    "tamazight": [
+      "arudmawan"
+    ]
+  },
+  {
+    "french": "Implication",
+    "tamazight": [
+      "aselkem"
+    ]
+  },
+  {
+    "french": "Implosif",
+    "tamazight": [
+      "arulfiɣ"
+    ]
+  },
+  {
+    "french": "Implosion",
+    "tamazight": [
+      "araleffeɣ"
+    ]
+  },
+  {
+    "french": "In absentia",
+    "tamazight": [
+      "s wassar"
+    ]
+  },
+  {
+    "french": "Inaccentué",
+    "tamazight": [
+      "aruḍdebbit"
+    ]
+  },
+  {
+    "french": "Inaccompli",
+    "tamazight": [
+      "arummid"
+    ]
+  },
+  {
+    "french": "Inanimé",
+    "tamazight": [
+      "armuddir"
+    ]
+  },
+  {
+    "french": "Inchoatif",
+    "tamazight": [
+      "amekker"
+    ]
+  },
+  {
+    "french": "Incidente",
+    "tamazight": [
+      "imger"
+    ]
+  },
+  {
+    "french": "Incise",
+    "tamazight": [
+      "imger"
+    ]
+  },
+  {
+    "french": "Inclusif",
+    "tamazight": [
+      "awayan"
+    ]
+  },
+  {
+    "french": "Inclusion",
+    "tamazight": [
+      "away"
+    ]
+  },
+  {
+    "french": "Incompatibilité",
+    "tamazight": [
+      "amyagi"
+    ]
+  },
+  {
+    "french": "Incomplet",
+    "tamazight": [
+      "imettu"
+    ]
+  },
+  {
+    "french": "Indéclinable",
+    "tamazight": [
+      "arettwarnu"
+    ]
+  },
+  {
+    "french": "Indéfini",
+    "tamazight": [
+      "arbadu"
+    ]
+  },
+  {
+    "french": "Indépendant",
+    "tamazight": [
+      "imzireg"
+    ]
+  },
+  {
+    "french": "Indéterminé",
+    "tamazight": [
+      "udrig"
+    ]
+  },
+  {
+    "french": "Index",
+    "tamazight": [
+      "uskin"
+    ]
+  },
+  {
+    "french": "Indexation",
+    "tamazight": [
+      "aguskin"
+    ]
+  },
+  {
+    "french": "Indicateur",
+    "tamazight": [
+      "anamel"
+    ]
+  },
+  {
+    "french": "Indicateur de thème",
+    "tamazight": [
+      "anamel n usentel"
+    ]
+  },
+  {
+    "french": "Indicatif",
+    "tamazight": [
+      "amulan"
+    ]
+  },
+  {
+    "french": "Indice",
+    "tamazight": [
+      "amatar"
+    ]
+  },
+  {
+    "french": "Indirect",
+    "tamazight": [
+      "arusrid"
+    ]
+  },
+  {
+    "french": "Inductif",
+    "tamazight": [
+      "imseglu"
+    ]
+  },
+  {
+    "french": "Inessif",
+    "tamazight": [
+      "anguns"
+    ]
+  },
+  {
+    "french": "Infinitif",
+    "tamazight": [
+      "amegsem"
+    ]
+  },
+  {
+    "french": "Infixe",
+    "tamazight": [
+      "amgir"
+    ]
+  },
+  {
+    "french": "Inflexion",
+    "tamazight": [
+      "aneflusel"
+    ]
+  },
+  {
+    "french": "Informant, informateur",
+    "tamazight": [
+      "amelleɣt"
+    ]
+  },
+  {
+    "french": "Information",
+    "tamazight": [
+      "talɣut"
+    ]
+  },
+  {
+    "french": "Ingressif (aspect)",
+    "tamazight": [
+      "tanmenzut"
+    ]
+  },
+  {
+    "french": "Initial",
+    "tamazight": [
+      "aneccaw"
+    ]
+  },
+  {
+    "french": "Injective",
+    "tamazight": [
+      "uskif"
+    ]
+  },
+  {
+    "french": "Injonctif",
+    "tamazight": [
+      "anaḍan"
+    ]
+  },
+  {
+    "french": "Inné",
+    "tamazight": [
+      "alalan"
+    ]
+  },
+  {
+    "french": "Inorganique",
+    "tamazight": [
+      "aragmam"
+    ]
+  },
+  {
+    "french": "Insistance",
+    "tamazight": [
+      "alas"
+    ]
+  },
+  {
+    "french": "Inspiration",
+    "tamazight": [
+      "askaf"
+    ]
+  },
+  {
+    "french": "Inspiratoire",
+    "tamazight": [
+      "uskif"
+    ]
+  },
+  {
+    "french": "Instable",
+    "tamazight": [
+      "angugan"
+    ]
+  },
+  {
+    "french": "Instrumental",
+    "tamazight": [
+      "allalan"
+    ]
+  },
+  {
+    "french": "Intelligibilité",
+    "tamazight": [
+      "attwasel"
+    ]
+  },
+  {
+    "french": "Intense",
+    "tamazight": [
+      "amdus"
+    ]
+  },
+  {
+    "french": "Intensif",
+    "tamazight": [
+      "udwis"
+    ]
+  },
+  {
+    "french": "Intension",
+    "tamazight": [
+      "ayla"
+    ]
+  },
+  {
+    "french": "Intensité",
+    "tamazight": [
+      "tadwast"
+    ]
+  },
+  {
+    "french": "Intercompréhension",
+    "tamazight": [
+      "tigzigert"
+    ]
+  },
+  {
+    "french": "Interconsonantique",
+    "tamazight": [
+      "agrargal"
+    ]
+  },
+  {
+    "french": "Interdental",
+    "tamazight": [
+      "agruglan"
+    ]
+  },
+  {
+    "french": "Interdiction",
+    "tamazight": [
+      "tagdelt"
+    ]
+  },
+  {
+    "french": "Interférence",
+    "tamazight": [
+      "amyadef"
+    ]
+  },
+  {
+    "french": "Intérieur",
+    "tamazight": [
+      "agensan"
+    ]
+  },
+  {
+    "french": "Interjection",
+    "tamazight": [
+      "tuhut"
+    ]
+  },
+  {
+    "french": "Interlocuteur",
+    "tamazight": [
+      "amsel"
+    ]
+  },
+  {
+    "french": "Intermédiaire",
+    "tamazight": [
+      "agrasen"
+    ]
+  },
+  {
+    "french": "Interne",
+    "tamazight": [
+      "agensan"
+    ]
+  },
+  {
+    "french": "Interprétable",
+    "tamazight": [
+      "imettwasegzi"
+    ]
+  },
+  {
+    "french": "Interprétation",
+    "tamazight": [
+      "asegzi"
+    ]
+  },
+  {
+    "french": "Interprétative",
+    "tamazight": [
+      "asegzay"
+    ]
+  },
+  {
+    "french": "Interrogatif",
+    "tamazight": [
+      "amattar"
+    ]
+  },
+  {
+    "french": "Interrogation",
+    "tamazight": [
+      "tuttra"
+    ]
+  },
+  {
+    "french": "Intersection",
+    "tamazight": [
+      "azdiger"
+    ]
+  },
+  {
+    "french": "Intersubjectif",
+    "tamazight": [
+      "agrimsiwal"
+    ]
+  },
+  {
+    "french": "Interversion",
+    "tamazight": [
+      "aseḍren"
+    ]
+  },
+  {
+    "french": "Intervocalique",
+    "tamazight": [
+      "agriɣra"
+    ]
+  },
+  {
+    "french": "Intonation",
+    "tamazight": [
+      "tizlit"
+    ]
+  },
+  {
+    "french": "Intonème",
+    "tamazight": [
+      "tizlict"
+    ]
+  },
+  {
+    "french": "Intransitif",
+    "tamazight": [
+      "aremsukk"
+    ]
+  },
+  {
+    "french": "Intuition",
+    "tamazight": [
+      "akaz"
+    ]
+  },
+  {
+    "french": "Invariable",
+    "tamazight": [
+      "armeskil"
+    ]
+  },
+  {
+    "french": "Invariant",
+    "tamazight": [
+      "urmeskel"
+    ]
+  },
+  {
+    "french": "Inversif",
+    "tamazight": [
+      "imseḍren"
+    ]
+  },
+  {
+    "french": "Inversion",
+    "tamazight": [
+      "uḍrin"
+    ]
+  },
+  {
+    "french": "Inverti",
+    "tamazight": [
+      "uttil"
+    ]
+  },
+  {
+    "french": "Irréel",
+    "tamazight": [
+      "armili"
+    ]
+  },
+  {
+    "french": "Irrégulier",
+    "tamazight": [
+      "arlugan"
+    ]
+  },
+  {
+    "french": "Isolable",
+    "tamazight": [
+      "amtterẓem"
+    ]
+  },
+  {
+    "french": "Isolante (langue)",
+    "tamazight": [
+      "tamerẓamt"
+    ]
+  },
+  {
+    "french": "Isomorphisme",
+    "tamazight": [
+      "tagdulɣa"
+    ]
+  },
+  {
+    "french": "Item",
+    "tamazight": [
+      "ana"
+    ]
+  },
+  {
+    "french": "Itératif",
+    "tamazight": [
+      "alsan"
+    ]
+  },
+  {
+    "french": "Jargon",
+    "tamazight": [
+      "acawal"
+    ]
+  },
+  {
+    "french": "Jointure, joncture",
+    "tamazight": [
+      "abadu"
+    ]
+  },
+  {
+    "french": "Jussif",
+    "tamazight": [
+      "anaḍan"
+    ]
+  },
+  {
+    "french": "Juxtaposition",
+    "tamazight": [
+      "aseddes"
+    ]
+  },
+  {
+    "french": "Koinê",
+    "tamazight": [
+      "tazdawalt"
+    ]
+  },
+  {
+    "french": "Labiale",
+    "tamazight": [
+      "ancucan"
+    ]
+  },
+  {
+    "french": "Labialisation",
+    "tamazight": [
+      "agancuc"
+    ]
+  },
+  {
+    "french": "Labialisé",
+    "tamazight": [
+      "attwancuc"
+    ]
+  },
+  {
+    "french": "Labiodentale",
+    "tamazight": [
+      "ancuglan"
+    ]
+  },
+  {
+    "french": "Labiopalatale",
+    "tamazight": [
+      "ancunɣan"
+    ]
+  },
+  {
+    "french": "Labiovélaire",
+    "tamazight": [
+      "anculwiɣan"
+    ]
+  },
+  {
+    "french": "Labiovélarisation",
+    "tamazight": [
+      "aganculwiɣ"
+    ]
+  },
+  {
+    "french": "Lâche",
+    "tamazight": [
+      "asellaw"
+    ]
+  },
+  {
+    "french": "Langage",
+    "tamazight": [
+      "ameslay"
+    ]
+  },
+  {
+    "french": "Langue",
+    "tamazight": [
+      "tutlayt"
+    ]
+  },
+  {
+    "french": "Langue (organe)",
+    "tamazight": [
+      "iles"
+    ]
+  },
+  {
+    "french": "Langue-cible",
+    "tamazight": [
+      "tutlayt tanicant"
+    ]
+  },
+  {
+    "french": "Langue écrite",
+    "tamazight": [
+      "tutlayt yuran"
+    ]
+  },
+  {
+    "french": "Langue maternelle",
+    "tamazight": [
+      "tutlayt tanimmat"
+    ]
+  },
+  {
+    "french": "Langue mère",
+    "tamazight": [
+      "tutlayt tayemmat"
+    ]
+  },
+  {
+    "french": "Langue sœur",
+    "tamazight": [
+      "tutlayt tawletmat"
+    ]
+  },
+  {
+    "french": "Langue-source",
+    "tamazight": [
+      "tutlayt taɣbalut"
+    ]
+  },
+  {
+    "french": "Large",
+    "tamazight": [
+      "asellaw"
+    ]
+  },
+  {
+    "french": "Laryngale",
+    "tamazight": [
+      "agerjan"
+    ]
+  },
+  {
+    "french": "Larynx",
+    "tamazight": [
+      "agerj"
+    ]
+  },
+  {
+    "french": "Latent",
+    "tamazight": [
+      "yeffren"
+    ]
+  },
+  {
+    "french": "Latérale",
+    "tamazight": [
+      "imidis"
+    ]
+  },
+  {
+    "french": "Laxité",
+    "tamazight": [
+      "teslew"
+    ]
+  },
+  {
+    "french": "Lénition",
+    "tamazight": [
+      "asifes"
+    ]
+  },
+  {
+    "french": "Lettre",
+    "tamazight": [
+      "asekkil"
+    ]
+  },
+  {
+    "french": "Lèvres",
+    "tamazight": [
+      "ancucen"
+    ]
+  },
+  {
+    "french": "Lexème",
+    "tamazight": [
+      "anmawal"
+    ]
+  },
+  {
+    "french": "Lexical",
+    "tamazight": [
+      "amawalan"
+    ]
+  },
+  {
+    "french": "Lexicalisation",
+    "tamazight": [
+      "agmawal"
+    ]
+  },
+  {
+    "french": "Lexicographie",
+    "tamazight": [
+      "aseknawal"
+    ]
+  },
+  {
+    "french": "Lexicologie",
+    "tamazight": [
+      "asnawal"
+    ]
+  },
+  {
+    "french": "Lexicostastistique",
+    "tamazight": [
+      "asiḍenwal"
+    ]
+  },
+  {
+    "french": "Lexie",
+    "tamazight": [
+      "ayninaw"
+    ]
+  },
+  {
+    "french": "Lexique",
+    "tamazight": [
+      "amawal"
+    ]
+  },
+  {
+    "french": "Liaison",
+    "tamazight": [
+      "tuqqna"
+    ]
+  },
+  {
+    "french": "Liberté",
+    "tamazight": [
+      "tilelli"
+    ]
+  },
+  {
+    "french": "Libre",
+    "tamazight": [
+      "ilelli"
+    ]
+  },
+  {
+    "french": "Licence",
+    "tamazight": [
+      "turagt"
+    ]
+  },
+  {
+    "french": "Lié",
+    "tamazight": [
+      "arlelli"
+    ]
+  },
+  {
+    "french": "Limite",
+    "tamazight": [
+      "aguttu"
+    ]
+  },
+  {
+    "french": "Linéaire",
+    "tamazight": [
+      "imzireg"
+    ]
+  },
+  {
+    "french": "Linéarité",
+    "tamazight": [
+      "tizirga"
+    ]
+  },
+  {
+    "french": "Lingual",
+    "tamazight": [
+      "imiles"
+    ]
+  },
+  {
+    "french": "Linguistique (n.)",
+    "tamazight": [
+      "tasnilest"
+    ]
+  },
+  {
+    "french": "Liquide",
+    "tamazight": [
+      "amemdis"
+    ]
+  },
+  {
+    "french": "Litote",
+    "tamazight": [
+      "anafsas"
+    ]
+  },
+  {
+    "french": "Littéral",
+    "tamazight": [
+      "uskil"
+    ]
+  },
+  {
+    "french": "Littérarité",
+    "tamazight": [
+      "tisukla"
+    ]
+  },
+  {
+    "french": "Local",
+    "tamazight": [
+      "adigan"
+    ]
+  },
+  {
+    "french": "Locatif",
+    "tamazight": [
+      "amideg"
+    ]
+  },
+  {
+    "french": "Locuteur",
+    "tamazight": [
+      "imsiwel"
+    ]
+  },
+  {
+    "french": "Macrocontexte",
+    "tamazight": [
+      "attalmɣer"
+    ]
+  },
+  {
+    "french": "Majesté",
+    "tamazight": [
+      "timɣert"
+    ]
+  },
+  {
+    "french": "Mâle",
+    "tamazight": [
+      "awtem"
+    ]
+  },
+  {
+    "french": "Markov (modèle de)",
+    "tamazight": [
+      "Makov (tamudemt n)"
+    ]
+  },
+  {
+    "french": "Marque",
+    "tamazight": [
+      "ticreḍt"
+    ]
+  },
+  {
+    "french": "Marqué",
+    "tamazight": [
+      "ucriḍ"
+    ]
+  },
+  {
+    "french": "Marqueur",
+    "tamazight": [
+      "amecraḍ"
+    ]
+  },
+  {
+    "french": "Masculin",
+    "tamazight": [
+      "amalay"
+    ]
+  },
+  {
+    "french": "Massif, massique",
+    "tamazight": [
+      "armettsiḍen"
+    ]
+  },
+  {
+    "french": "Mat",
+    "tamazight": [
+      "arzenzun"
+    ]
+  },
+  {
+    "french": "Maternel",
+    "tamazight": [
+      "tanimmat"
+    ]
+  },
+  {
+    "french": "Matrice",
+    "tamazight": [
+      "isirew"
+    ]
+  },
+  {
+    "french": "Médian",
+    "tamazight": [
+      "anammas"
+    ]
+  },
+  {
+    "french": "Médiodorsal",
+    "tamazight": [
+      "ammasles"
+    ]
+  },
+  {
+    "french": "Médiopalatal",
+    "tamazight": [
+      "amsanɣan"
+    ]
+  },
+  {
+    "french": "Mélioratif",
+    "tamazight": [
+      "amsif"
+    ]
+  },
+  {
+    "french": "Mélioration",
+    "tamazight": [
+      "asifi"
+    ]
+  },
+  {
+    "french": "Mélodie",
+    "tamazight": [
+      "izli"
+    ]
+  },
+  {
+    "french": "Mélodique",
+    "tamazight": [
+      "amizli"
+    ]
+  },
+  {
+    "french": "Membre",
+    "tamazight": [
+      "amaslaḍ"
+    ]
+  },
+  {
+    "french": "Message",
+    "tamazight": [
+      "izen"
+    ]
+  },
+  {
+    "french": "Mesure métrique",
+    "tamazight": [
+      "takta"
+    ]
+  },
+  {
+    "french": "Métadiscours",
+    "tamazight": [
+      "aɣfinaw"
+    ]
+  },
+  {
+    "french": "Métalangage",
+    "tamazight": [
+      "aɣefmeslay"
+    ]
+  },
+  {
+    "french": "Métalangue",
+    "tamazight": [
+      "taɣfutlayt"
+    ]
+  },
+  {
+    "french": "Métalinguistique",
+    "tamazight": [
+      "aɣfutlayan"
+    ]
+  },
+  {
+    "french": "Métaphonie",
+    "tamazight": [
+      "aneflusel"
+    ]
+  },
+  {
+    "french": "Métaphore",
+    "tamazight": [
+      "amerwes"
+    ]
+  },
+  {
+    "french": "Métaplasme",
+    "tamazight": [
+      "anfelmesli"
+    ]
+  },
+  {
+    "french": "Métasémie",
+    "tamazight": [
+      "anfelnamek"
+    ]
+  },
+  {
+    "french": "Métastase",
+    "tamazight": [
+      "asgunfu"
+    ]
+  },
+  {
+    "french": "Métathèse",
+    "tamazight": [
+      "aḍran"
+    ]
+  },
+  {
+    "french": "Métonymie",
+    "tamazight": [
+      "aneflisem"
+    ]
+  },
+  {
+    "french": "Mètre",
+    "tamazight": [
+      "takta"
+    ]
+  },
+  {
+    "french": "Métrique (adj.)",
+    "tamazight": [
+      "anakta"
+    ]
+  },
+  {
+    "french": "Métrique (n.)",
+    "tamazight": [
+      "asnakta"
+    ]
+  },
+  {
+    "french": "Microcontexte",
+    "tamazight": [
+      "attalemẓi"
+    ]
+  },
+  {
+    "french": "Microstructure",
+    "tamazight": [
+      "amsukemẓi"
+    ]
+  },
+  {
+    "french": "Mi-fermé",
+    "tamazight": [
+      "azegnurgil"
+    ]
+  },
+  {
+    "french": "Minimal",
+    "tamazight": [
+      "adday"
+    ]
+  },
+  {
+    "french": "Mi-occlusif",
+    "tamazight": [
+      "azgenaggaɣ"
+    ]
+  },
+  {
+    "french": "Mi-ouvert",
+    "tamazight": [
+      "azgen-amildi"
+    ]
+  },
+  {
+    "french": "Modal",
+    "tamazight": [
+      "askaran"
+    ]
+  },
+  {
+    "french": "Modalisateur",
+    "tamazight": [
+      "amgaskar"
+    ]
+  },
+  {
+    "french": "Modalisation",
+    "tamazight": [
+      "agaskar"
+    ]
+  },
+  {
+    "french": "Modalité",
+    "tamazight": [
+      "taskart"
+    ]
+  },
+  {
+    "french": "Modalités d’orientation",
+    "tamazight": [
+      "tiskarin n usɣal"
+    ]
+  },
+  {
+    "french": "Mode",
+    "tamazight": [
+      "askar"
+    ]
+  },
+  {
+    "french": "Modèle",
+    "tamazight": [
+      "tamudemt"
+    ]
+  },
+  {
+    "french": "Modificateur",
+    "tamazight": [
+      "amganfal"
+    ]
+  },
+  {
+    "french": "Modification",
+    "tamazight": [
+      "aganfal"
+    ]
+  },
+  {
+    "french": "Modifier",
+    "tamazight": [
+      "genfel"
+    ]
+  },
+  {
+    "french": "Moindre effort",
+    "tamazight": [
+      "ussis adday"
+    ]
+  },
+  {
+    "french": "Molle (consonne)",
+    "tamazight": [
+      "timilwiɣt"
+    ]
+  },
+  {
+    "french": "Momentané",
+    "tamazight": [
+      "aruɣlil"
+    ]
+  },
+  {
+    "french": "Monème",
+    "tamazight": [
+      "awalec"
+    ]
+  },
+  {
+    "french": "Monolingue",
+    "tamazight": [
+      "aynutlayan"
+    ]
+  },
+  {
+    "french": "Monophonématique",
+    "tamazight": [
+      "aynimeslic"
+    ]
+  },
+  {
+    "french": "Monophtongaison",
+    "tamazight": [
+      "tayniɣrit"
+    ]
+  },
+  {
+    "french": "Monophtongue",
+    "tamazight": [
+      "ayniɣran"
+    ]
+  },
+  {
+    "french": "Monorème, monorhème",
+    "tamazight": [
+      "aynirem"
+    ]
+  },
+  {
+    "french": "Monosémie",
+    "tamazight": [
+      "aynamek"
+    ]
+  },
+  {
+    "french": "Monosémique",
+    "tamazight": [
+      "aynamkan"
+    ]
+  },
+  {
+    "french": "Monosyllabe, monosyllabique",
+    "tamazight": [
+      "aynunṭiq"
+    ]
+  },
+  {
+    "french": "Morphe",
+    "tamazight": [
+      "talɣat"
+    ]
+  },
+  {
+    "french": "Morphématique",
+    "tamazight": [
+      "analɣac"
+    ]
+  },
+  {
+    "french": "Morphème",
+    "tamazight": [
+      "alɣac"
+    ]
+  },
+  {
+    "french": "Morphologie",
+    "tamazight": [
+      "tasnalɣa"
+    ]
+  },
+  {
+    "french": "Morphophonologie",
+    "tamazight": [
+      "tasnaleɣmeslit"
+    ]
+  },
+  {
+    "french": "Morphosyntaxe",
+    "tamazight": [
+      "taleɣseddast"
+    ]
+  },
+  {
+    "french": "Mot",
+    "tamazight": [
+      "awal"
+    ]
+  },
+  {
+    "french": "Mot-clé",
+    "tamazight": [
+      "awal-asaru"
+    ]
+  },
+  {
+    "french": "Mot-fort",
+    "tamazight": [
+      "awal-anfud"
+    ]
+  },
+  {
+    "french": "Motivation",
+    "tamazight": [
+      "amentel"
+    ]
+  },
+  {
+    "french": "Motivé",
+    "tamazight": [
+      "amental"
+    ]
+  },
+  {
+    "french": "Mot-omnibus",
+    "tamazight": [
+      "awal-aɣlal"
+    ]
+  },
+  {
+    "french": "Mot-outil",
+    "tamazight": [
+      "awal-allal"
+    ]
+  },
+  {
+    "french": "Mot-phrase",
+    "tamazight": [
+      "awal-tafyirt"
+    ]
+  },
+  {
+    "french": "Mot-portemanteau",
+    "tamazight": [
+      "aberwal"
+    ]
+  },
+  {
+    "french": "Mot-tandem",
+    "tamazight": [
+      "azdawal"
+    ]
+  },
+  {
+    "french": "Mot-thème",
+    "tamazight": [
+      "awal-asentel"
+    ]
+  },
+  {
+    "french": "Mot-valise",
+    "tamazight": [
+      "aberwal"
+    ]
+  },
+  {
+    "french": "Mou",
+    "tamazight": [
+      "imilwiɣ"
+    ]
+  },
+  {
+    "french": "Mouillé",
+    "tamazight": [
+      "imsineɣ"
+    ]
+  },
+  {
+    "french": "Mouillement, mouillure",
+    "tamazight": [
+      "asineɣ"
+    ]
+  },
+  {
+    "french": "Moyen",
+    "tamazight": [
+      "alemmas"
+    ]
+  },
+  {
+    "french": "Muet",
+    "tamazight": [
+      "asusam"
+    ]
+  },
+  {
+    "french": "Multidimentionnel",
+    "tamazight": [
+      "amgetsekta"
+    ]
+  },
+  {
+    "french": "Multilatéral",
+    "tamazight": [
+      "agetmidis"
+    ]
+  },
+  {
+    "french": "Multilingue",
+    "tamazight": [
+      "agtutlayan"
+    ]
+  },
+  {
+    "french": "Multilinguisme",
+    "tamazight": [
+      "agtutlay"
+    ]
+  },
+  {
+    "french": "Multiplicatif",
+    "tamazight": [
+      "anasgat"
+    ]
+  },
+  {
+    "french": "Murmurée(voix)",
+    "tamazight": [
+      "asεuεan"
+    ]
+  },
+  {
+    "french": "Musical",
+    "tamazight": [
+      "imizli"
+    ]
+  },
+  {
+    "french": "Mutatif",
+    "tamazight": [
+      "asḍermas"
+    ]
+  },
+  {
+    "french": "Mutation",
+    "tamazight": [
+      "taḍermist"
+    ]
+  },
+  {
+    "french": "Narration",
+    "tamazight": [
+      "allas"
+    ]
+  },
+  {
+    "french": "Nasal",
+    "tamazight": [
+      "anezran"
+    ]
+  },
+  {
+    "french": "Nasalisation",
+    "tamazight": [
+      "agnezran"
+    ]
+  },
+  {
+    "french": "Nasalité",
+    "tamazight": [
+      "tanezra"
+    ]
+  },
+  {
+    "french": "Natif",
+    "tamazight": [
+      "amlal"
+    ]
+  },
+  {
+    "french": "Nature",
+    "tamazight": [
+      "agama"
+    ]
+  },
+  {
+    "french": "Naturel",
+    "tamazight": [
+      "agaman"
+    ]
+  },
+  {
+    "french": "Nécessaire",
+    "tamazight": [
+      "aḍulli"
+    ]
+  },
+  {
+    "french": "Négatif",
+    "tamazight": [
+      "ibaw"
+    ]
+  },
+  {
+    "french": "Négation",
+    "tamazight": [
+      "tibawt"
+    ]
+  },
+  {
+    "french": "Néogrammairiens",
+    "tamazight": [
+      "imjerrumnuten"
+    ]
+  },
+  {
+    "french": "Néologie",
+    "tamazight": [
+      "asnulfawal"
+    ]
+  },
+  {
+    "french": "Néologisme",
+    "tamazight": [
+      "awalnut"
+    ]
+  },
+  {
+    "french": "Neutralisable",
+    "tamazight": [
+      "amettrawes"
+    ]
+  },
+  {
+    "french": "Neutralisation",
+    "tamazight": [
+      "arawes"
+    ]
+  },
+  {
+    "french": "Neutralisé",
+    "tamazight": [
+      "amrawes"
+    ]
+  },
+  {
+    "french": "Neutre",
+    "tamazight": [
+      "arawsan"
+    ]
+  },
+  {
+    "french": "Niveau",
+    "tamazight": [
+      "aswir"
+    ]
+  },
+  {
+    "french": "Nœud",
+    "tamazight": [
+      "tikerrist"
+    ]
+  },
+  {
+    "french": "Nom",
+    "tamazight": [
+      "isem"
+    ]
+  },
+  {
+    "french": "Nombre",
+    "tamazight": [
+      "amḍan"
+    ]
+  },
+  {
+    "french": "Nomenclature",
+    "tamazight": [
+      "agerwisem"
+    ]
+  },
+  {
+    "french": "Nominal",
+    "tamazight": [
+      "anisem"
+    ]
+  },
+  {
+    "french": "Nominalisateur",
+    "tamazight": [
+      "amgisem"
+    ]
+  },
+  {
+    "french": "Nominalisation",
+    "tamazight": [
+      "agisem"
+    ]
+  },
+  {
+    "french": "Nominatif",
+    "tamazight": [
+      "isman"
+    ]
+  },
+  {
+    "french": "Non-accompli",
+    "tamazight": [
+      "arummid"
+    ]
+  },
+  {
+    "french": "Non-animé",
+    "tamazight": [
+      "armuddir"
+    ]
+  },
+  {
+    "french": "Non-apparié",
+    "tamazight": [
+      "amefɣ-anagraw"
+    ]
+  },
+  {
+    "french": "Non-appartenance",
+    "tamazight": [
+      "arayla"
+    ]
+  },
+  {
+    "french": "Non-arrondie",
+    "tamazight": [
+      "arkernay"
+    ]
+  },
+  {
+    "french": "Non-bémolisé",
+    "tamazight": [
+      "arimseggez"
+    ]
+  },
+  {
+    "french": "Non-bloqué",
+    "tamazight": [
+      "arεekkam"
+    ]
+  },
+  {
+    "french": "Non-comptable",
+    "tamazight": [
+      "armettsiḍen"
+    ]
+  },
+  {
+    "french": "Non-consonnantique",
+    "tamazight": [
+      "arargalan"
+    ]
+  },
+  {
+    "french": "Non-défini",
+    "tamazight": [
+      "aranbadu"
+    ]
+  },
+  {
+    "french": "Non-diésé",
+    "tamazight": [
+      "arsitan"
+    ]
+  },
+  {
+    "french": "Non-fonctionnel",
+    "tamazight": [
+      "arwuran"
+    ]
+  },
+  {
+    "french": "Non-humain",
+    "tamazight": [
+      "arnales"
+    ]
+  },
+  {
+    "french": "Non-marqué",
+    "tamazight": [
+      "arucriḍ"
+    ]
+  },
+  {
+    "french": "Non-motivé",
+    "tamazight": [
+      "armental"
+    ]
+  },
+  {
+    "french": "Non-phrase",
+    "tamazight": [
+      "tartafyirt"
+    ]
+  },
+  {
+    "french": "Non-spécifique",
+    "tamazight": [
+      "arulmis"
+    ]
+  },
+  {
+    "french": "Non-vocalique",
+    "tamazight": [
+      "arniɣri"
+    ]
+  },
+  {
+    "french": "Non-voisé",
+    "tamazight": [
+      "arimɣer"
+    ]
+  },
+  {
+    "french": "Normalisé",
+    "tamazight": [
+      "amsagnu"
+    ]
+  },
+  {
+    "french": "Normatif",
+    "tamazight": [
+      "anagnu"
+    ]
+  },
+  {
+    "french": "Norme",
+    "tamazight": [
+      "tagnut"
+    ]
+  },
+  {
+    "french": "Notation",
+    "tamazight": [
+      "azmal"
+    ]
+  },
+  {
+    "french": "Notionnel",
+    "tamazight": [
+      "anaktan"
+    ]
+  },
+  {
+    "french": "Noyau",
+    "tamazight": [
+      "iɣes"
+    ]
+  },
+  {
+    "french": "Nu",
+    "tamazight": [
+      "uzzif"
+    ]
+  },
+  {
+    "french": "Nucléaire",
+    "tamazight": [
+      "imiɣes"
+    ]
+  },
+  {
+    "french": "Numéral",
+    "tamazight": [
+      "anemḍan"
+    ]
+  },
+  {
+    "french": "Objectif",
+    "tamazight": [
+      "aɣawsan"
+    ]
+  },
+  {
+    "french": "Objet",
+    "tamazight": [
+      "taɣawsa ; Pl tiɣawsiwin"
+    ]
+  },
+  {
+    "french": "Obligatoire",
+    "tamazight": [
+      "amaran"
+    ]
+  },
+  {
+    "french": "Oblique",
+    "tamazight": [
+      "uzlig"
+    ]
+  },
+  {
+    "french": "Obstacle",
+    "tamazight": [
+      "isergel"
+    ]
+  },
+  {
+    "french": "Occlusif",
+    "tamazight": [
+      "aggaɣ"
+    ]
+  },
+  {
+    "french": "Occlusion",
+    "tamazight": [
+      "tiggeɣt"
+    ]
+  },
+  {
+    "french": "Occurrence",
+    "tamazight": [
+      "tikelt"
+    ]
+  },
+  {
+    "french": "Onde",
+    "tamazight": [
+      "tamdeswelt"
+    ]
+  },
+  {
+    "french": "Onomasiologique",
+    "tamazight": [
+      "tagmusemmi"
+    ]
+  },
+  {
+    "french": "Onomastique",
+    "tamazight": [
+      "asnisem"
+    ]
+  },
+  {
+    "french": "Opasiopèse",
+    "tamazight": [
+      "arasmad"
+    ]
+  },
+  {
+    "french": "Opérateur",
+    "tamazight": [
+      "amahal"
+    ]
+  },
+  {
+    "french": "Opposition",
+    "tamazight": [
+      "tanmegla"
+    ]
+  },
+  {
+    "french": "Optatif",
+    "tamazight": [
+      "imiri"
+    ]
+  },
+  {
+    "french": "Oral1",
+    "tamazight": [
+      "animi"
+    ]
+  },
+  {
+    "french": "Oral2",
+    "tamazight": [
+      "arnezran"
+    ]
+  },
+  {
+    "french": "Ordinal",
+    "tamazight": [
+      "anmizwar"
+    ]
+  },
+  {
+    "french": "Ordre",
+    "tamazight": [
+      "amizzwer"
+    ]
+  },
+  {
+    "french": "Organes (de la parole)",
+    "tamazight": [
+      "igmamen"
+    ]
+  },
+  {
+    "french": "Organique",
+    "tamazight": [
+      "anagmam"
+    ]
+  },
+  {
+    "french": "Orienté",
+    "tamazight": [
+      "usɣil"
+    ]
+  },
+  {
+    "french": "Orientation",
+    "tamazight": [
+      "asɣal"
+    ]
+  },
+  {
+    "french": "Orthoépie",
+    "tamazight": [
+      "asusruɣtan"
+    ]
+  },
+  {
+    "french": "Orthographe",
+    "tamazight": [
+      "tiriɣtan"
+    ]
+  },
+  {
+    "french": "Ouvert",
+    "tamazight": [
+      "imeldi"
+    ]
+  },
+  {
+    "french": "Ouverture",
+    "tamazight": [
+      "alday"
+    ]
+  },
+  {
+    "french": "Oxymoron",
+    "tamazight": [
+      "asinemgal"
+    ]
+  },
+  {
+    "french": "Paire",
+    "tamazight": [
+      "tayuga"
+    ]
+  },
+  {
+    "french": "Palais",
+    "tamazight": [
+      "aneɣ"
+    ]
+  },
+  {
+    "french": "Palatal",
+    "tamazight": [
+      "anɣan"
+    ]
+  },
+  {
+    "french": "Palatalisation",
+    "tamazight": [
+      "asineɣ"
+    ]
+  },
+  {
+    "french": "Palatalisé",
+    "tamazight": [
+      "imsineɣ"
+    ]
+  },
+  {
+    "french": "Palatine (la voûte)",
+    "tamazight": [
+      "anɣaquran"
+    ]
+  },
+  {
+    "french": "Palatographie",
+    "tamazight": [
+      "udlifneɣ"
+    ]
+  },
+  {
+    "french": "Palatographique",
+    "tamazight": [
+      "udlifenɣan"
+    ]
+  },
+  {
+    "french": "Panchronique",
+    "tamazight": [
+      "akakudan"
+    ]
+  },
+  {
+    "french": "Paradigmatique",
+    "tamazight": [
+      "akalmaḍan"
+    ]
+  },
+  {
+    "french": "Paradigme",
+    "tamazight": [
+      "akalmaḍ"
+    ]
+  },
+  {
+    "french": "Paradoxisme",
+    "tamazight": [
+      "asinemgal"
+    ]
+  },
+  {
+    "french": "Paragraphe",
+    "tamazight": [
+      "taseddart"
+    ]
+  },
+  {
+    "french": "Paralexème",
+    "tamazight": [
+      "amenmawal"
+    ]
+  },
+  {
+    "french": "Parallélisme",
+    "tamazight": [
+      "amsideɣ"
+    ]
+  },
+  {
+    "french": "Paraphrase",
+    "tamazight": [
+      "tuḥḥlawal"
+    ]
+  },
+  {
+    "french": "Paraphrastique",
+    "tamazight": [
+      "anuḥḥlawal"
+    ]
+  },
+  {
+    "french": "Parasite",
+    "tamazight": [
+      "tifeḍli"
+    ]
+  },
+  {
+    "french": "Parasynonyme",
+    "tamazight": [
+      "amumegdu"
+    ]
+  },
+  {
+    "french": "Parataxe",
+    "tamazight": [
+      "aseddes"
+    ]
+  },
+  {
+    "french": "Parenté",
+    "tamazight": [
+      "timmarewt"
+    ]
+  },
+  {
+    "french": "Parenthèses",
+    "tamazight": [
+      "tacciwin"
+    ]
+  },
+  {
+    "french": "Parenthétisation",
+    "tamazight": [
+      "agtacciwin"
+    ]
+  },
+  {
+    "french": "Parfait",
+    "tamazight": [
+      "ummid"
+    ]
+  },
+  {
+    "french": "Parlé",
+    "tamazight": [
+      "yettwasiwlen"
+    ]
+  },
+  {
+    "french": "Parler (n.m)",
+    "tamazight": [
+      "tasiwelt"
+    ]
+  },
+  {
+    "french": "Parler (v.)",
+    "tamazight": [
+      "siwel"
+    ]
+  },
+  {
+    "french": "Parleur",
+    "tamazight": [
+      "imsiwel"
+    ]
+  },
+  {
+    "french": "Parole",
+    "tamazight": [
+      "asiwel"
+    ]
+  },
+  {
+    "french": "Paronyme",
+    "tamazight": [
+      "amerwas"
+    ]
+  },
+  {
+    "french": "Participant",
+    "tamazight": [
+      "amekkay"
+    ]
+  },
+  {
+    "french": "Participe",
+    "tamazight": [
+      "amaɣun"
+    ]
+  },
+  {
+    "french": "Particule",
+    "tamazight": [
+      "tazelɣa"
+    ]
+  },
+  {
+    "french": "Partiel",
+    "tamazight": [
+      "abruyan"
+    ]
+  },
+  {
+    "french": "Parties du discours",
+    "tamazight": [
+      "ibruyen n yinaw"
+    ]
+  },
+  {
+    "french": "Partitif",
+    "tamazight": [
+      "imebri"
+    ]
+  },
+  {
+    "french": "Passé",
+    "tamazight": [
+      "izri"
+    ]
+  },
+  {
+    "french": "Passif",
+    "tamazight": [
+      "attwaɣ"
+    ]
+  },
+  {
+    "french": "Patient",
+    "tamazight": [
+      "amettwaɣ"
+    ]
+  },
+  {
+    "french": "Patronyme",
+    "tamazight": [
+      "ismenba"
+    ]
+  },
+  {
+    "french": "Pattern",
+    "tamazight": [
+      "amzenziɣ"
+    ]
+  },
+  {
+    "french": "Pause",
+    "tamazight": [
+      "tarist"
+    ]
+  },
+  {
+    "french": "Péjoratif",
+    "tamazight": [
+      "amserku"
+    ]
+  },
+  {
+    "french": "Pénultième",
+    "tamazight": [
+      "adatneggar"
+    ]
+  },
+  {
+    "french": "Pérégrinisme",
+    "tamazight": [
+      "anmagar"
+    ]
+  },
+  {
+    "french": "Perfectif",
+    "tamazight": [
+      "ummid"
+    ]
+  },
+  {
+    "french": "Performance",
+    "tamazight": [
+      "amlazmar"
+    ]
+  },
+  {
+    "french": "Période",
+    "tamazight": [
+      "tawala"
+    ]
+  },
+  {
+    "french": "Périodique",
+    "tamazight": [
+      "awalan"
+    ]
+  },
+  {
+    "french": "Périphrase",
+    "tamazight": [
+      "amwenni"
+    ]
+  },
+  {
+    "french": "Permansif",
+    "tamazight": [
+      "unzig"
+    ]
+  },
+  {
+    "french": "Permutable",
+    "tamazight": [
+      "yettemsenfalen"
+    ]
+  },
+  {
+    "french": "Permutation",
+    "tamazight": [
+      "tasenfelt"
+    ]
+  },
+  {
+    "french": "Personne",
+    "tamazight": [
+      "udem"
+    ]
+  },
+  {
+    "french": "Personnel",
+    "tamazight": [
+      "udmawan"
+    ]
+  },
+  {
+    "french": "Personnification",
+    "tamazight": [
+      "agudem"
+    ]
+  },
+  {
+    "french": "Pertinence",
+    "tamazight": [
+      "asemmeḥli"
+    ]
+  },
+  {
+    "french": "Pertinent",
+    "tamazight": [
+      "asemmeḥlay"
+    ]
+  },
+  {
+    "french": "Pharyngal",
+    "tamazight": [
+      "ankaran"
+    ]
+  },
+  {
+    "french": "Pharyngalisé",
+    "tamazight": [
+      "imsenker"
+    ]
+  },
+  {
+    "french": "Pharyngalisation",
+    "tamazight": [
+      "asenker"
+    ]
+  },
+  {
+    "french": "Pharynx",
+    "tamazight": [
+      "tankart"
+    ]
+  },
+  {
+    "french": "Phatique",
+    "tamazight": [
+      "anermisan"
+    ]
+  },
+  {
+    "french": "Philologie",
+    "tamazight": [
+      "izriseḍris"
+    ]
+  },
+  {
+    "french": "Phonation",
+    "tamazight": [
+      "agimesli"
+    ]
+  },
+  {
+    "french": "Phonématique (adj.)",
+    "tamazight": [
+      "imeslican"
+    ]
+  },
+  {
+    "french": "Phonématique (n.f)",
+    "tamazight": [
+      "asnimeslic"
+    ]
+  },
+  {
+    "french": "Phonème",
+    "tamazight": [
+      "imeslic"
+    ]
+  },
+  {
+    "french": "Phonémique",
+    "tamazight": [
+      "imeslican"
+    ]
+  },
+  {
+    "french": "Phonétique",
+    "tamazight": [
+      "timsislit"
+    ]
+  },
+  {
+    "french": "Phonie",
+    "tamazight": [
+      "agimesli"
+    ]
+  },
+  {
+    "french": "Phonique",
+    "tamazight": [
+      "anmesli"
+    ]
+  },
+  {
+    "french": "Phonochronologie",
+    "tamazight": [
+      "imeslidkud"
+    ]
+  },
+  {
+    "french": "Phonologie",
+    "tamazight": [
+      "asnimesli"
+    ]
+  },
+  {
+    "french": "Phonologique",
+    "tamazight": [
+      "asnimeslan"
+    ]
+  },
+  {
+    "french": "Phonologisation",
+    "tamazight": [
+      "agmeslic"
+    ]
+  },
+  {
+    "french": "Phrase",
+    "tamazight": [
+      "tafyirt"
+    ]
+  },
+  {
+    "french": "Phrase-matrice",
+    "tamazight": [
+      "tafyirt-tisirewt"
+    ]
+  },
+  {
+    "french": "Phrase-noyau",
+    "tamazight": [
+      "tafyirt-tiɣest"
+    ]
+  },
+  {
+    "french": "Phraséologie",
+    "tamazight": [
+      "afyirman"
+    ]
+  },
+  {
+    "french": "Phrastique",
+    "tamazight": [
+      "afyiran"
+    ]
+  },
+  {
+    "french": "Pictogramme",
+    "tamazight": [
+      "tirasnuɣt"
+    ]
+  },
+  {
+    "french": "Pictographie",
+    "tamazight": [
+      "irasnuɣ"
+    ]
+  },
+  {
+    "french": "Pictographique",
+    "tamazight": [
+      "irasnuɣan"
+    ]
+  },
+  {
+    "french": "Plan",
+    "tamazight": [
+      "aɣawas"
+    ]
+  },
+  {
+    "french": "Plein",
+    "tamazight": [
+      "acaran"
+    ]
+  },
+  {
+    "french": "Pléonasme",
+    "tamazight": [
+      "asugtawal"
+    ]
+  },
+  {
+    "french": "Plosive",
+    "tamazight": [
+      "aggaɣ"
+    ]
+  },
+  {
+    "french": "Pluralité",
+    "tamazight": [
+      "tasugti"
+    ]
+  },
+  {
+    "french": "Pluriel",
+    "tamazight": [
+      "asget"
+    ]
+  },
+  {
+    "french": "Plurilingue",
+    "tamazight": [
+      "agtutlayan"
+    ]
+  },
+  {
+    "french": "Plurilinguisme",
+    "tamazight": [
+      "agtutlay"
+    ]
+  },
+  {
+    "french": "Plurivalence",
+    "tamazight": [
+      "agatzal"
+    ]
+  },
+  {
+    "french": "Plus-que-parfait",
+    "tamazight": [
+      "anzummid"
+    ]
+  },
+  {
+    "french": "Poétique (n.)",
+    "tamazight": [
+      "afmedyaz"
+    ]
+  },
+  {
+    "french": "Poétique (adj.)",
+    "tamazight": [
+      "anmedyaz"
+    ]
+  },
+  {
+    "french": "Point",
+    "tamazight": [
+      "aqqa"
+    ]
+  },
+  {
+    "french": "Point d’articulation",
+    "tamazight": [
+      "aqqa n ugsusru"
+    ]
+  },
+  {
+    "french": "Point d’exclamation",
+    "tamazight": [
+      "aqqa n takunt"
+    ]
+  },
+  {
+    "french": "Point d’interrogation",
+    "tamazight": [
+      "aqqa n tuttra"
+    ]
+  },
+  {
+    "french": "Point de suspension",
+    "tamazight": [
+      "aqqa n waggal"
+    ]
+  },
+  {
+    "french": "Point-virgule",
+    "tamazight": [
+      "aqqa-f-ticcert"
+    ]
+  },
+  {
+    "french": "Polyphonie",
+    "tamazight": [
+      "agetmesli"
+    ]
+  },
+  {
+    "french": "Polysémie",
+    "tamazight": [
+      "agetnamek"
+    ]
+  },
+  {
+    "french": "Polysémique",
+    "tamazight": [
+      "agetnamkan"
+    ]
+  },
+  {
+    "french": "Polysyllabe",
+    "tamazight": [
+      "agtunṭiq"
+    ]
+  },
+  {
+    "french": "Ponctuation",
+    "tamazight": [
+      "agaqqa"
+    ]
+  },
+  {
+    "french": "Ponctuel",
+    "tamazight": [
+      "aqqayan"
+    ]
+  },
+  {
+    "french": "Populaire",
+    "tamazight": [
+      "aɣerfan"
+    ]
+  },
+  {
+    "french": "Positif",
+    "tamazight": [
+      "ufrir"
+    ]
+  },
+  {
+    "french": "Position",
+    "tamazight": [
+      "ideg"
+    ]
+  },
+  {
+    "french": "Positivisme",
+    "tamazight": [
+      "iḥrufrir"
+    ]
+  },
+  {
+    "french": "Possessif",
+    "tamazight": [
+      "imelli"
+    ]
+  },
+  {
+    "french": "Possession",
+    "tamazight": [
+      "tilit"
+    ]
+  },
+  {
+    "french": "Post-alvéolaire",
+    "tamazight": [
+      "imeḍfer-udlugel"
+    ]
+  },
+  {
+    "french": "Postarticle",
+    "tamazight": [
+      "imeḍfer-umagrad"
+    ]
+  },
+  {
+    "french": "Postdental",
+    "tamazight": [
+      "adefrugel"
+    ]
+  },
+  {
+    "french": "Postdorsal",
+    "tamazight": [
+      "adefrarur"
+    ]
+  },
+  {
+    "french": "Postérieur",
+    "tamazight": [
+      "adeffiran"
+    ]
+  },
+  {
+    "french": "Postnominatif",
+    "tamazight": [
+      "asgisem"
+    ]
+  },
+  {
+    "french": "Postpalatal",
+    "tamazight": [
+      "adefraneɣ"
+    ]
+  },
+  {
+    "french": "Postposition",
+    "tamazight": [
+      "ilidfer"
+    ]
+  },
+  {
+    "french": "Post-tonique",
+    "tamazight": [
+      "imeḍfer-uɣdebbit"
+    ]
+  },
+  {
+    "french": "Postvélaire",
+    "tamazight": [
+      "adefrulwiɣ"
+    ]
+  },
+  {
+    "french": "Postverbal",
+    "tamazight": [
+      "asgumyag"
+    ]
+  },
+  {
+    "french": "Potentiel",
+    "tamazight": [
+      "anezmar"
+    ]
+  },
+  {
+    "french": "Praesentia (in)",
+    "tamazight": [
+      "tilin (s)"
+    ]
+  },
+  {
+    "french": "Préarticle",
+    "tamazight": [
+      "adatmagrad"
+    ]
+  },
+  {
+    "french": "Préaspiré",
+    "tamazight": [
+      "adefrunhit"
+    ]
+  },
+  {
+    "french": "Prédéterminant",
+    "tamazight": [
+      "adatemguccal"
+    ]
+  },
+  {
+    "french": "Prédicat",
+    "tamazight": [
+      "isali"
+    ]
+  },
+  {
+    "french": "Prédicatif",
+    "tamazight": [
+      "ansali"
+    ]
+  },
+  {
+    "french": "Prédication",
+    "tamazight": [
+      "agsali"
+    ]
+  },
+  {
+    "french": "Prédicatoïde",
+    "tamazight": [
+      "amsali"
+    ]
+  },
+  {
+    "french": "Prédiquer",
+    "tamazight": [
+      "gsali"
+    ]
+  },
+  {
+    "french": "Prédorsal",
+    "tamazight": [
+      "adatrur"
+    ]
+  },
+  {
+    "french": "Préfixe",
+    "tamazight": [
+      "azwir"
+    ]
+  },
+  {
+    "french": "Premier",
+    "tamazight": [
+      "amezwaru"
+    ]
+  },
+  {
+    "french": "Prépalatal",
+    "tamazight": [
+      "adatneɣ"
+    ]
+  },
+  {
+    "french": "Prépositif",
+    "tamazight": [
+      "anezɣan"
+    ]
+  },
+  {
+    "french": "Préposition",
+    "tamazight": [
+      "tanzeɣt"
+    ]
+  },
+  {
+    "french": "Prépositionnel",
+    "tamazight": [
+      "anezɣan"
+    ]
+  },
+  {
+    "french": "Présent",
+    "tamazight": [
+      "imira"
+    ]
+  },
+  {
+    "french": "Présentatif",
+    "tamazight": [
+      "imsissen"
+    ]
+  },
+  {
+    "french": "Pression",
+    "tamazight": [
+      "tiḥmi"
+    ]
+  },
+  {
+    "french": "Présupposé",
+    "tamazight": [
+      "imettɣil"
+    ]
+  },
+  {
+    "french": "Présupposition",
+    "tamazight": [
+      "attɣil"
+    ]
+  },
+  {
+    "french": "Prétérit",
+    "tamazight": [
+      "amizri"
+    ]
+  },
+  {
+    "french": "Prétérition",
+    "tamazight": [
+      "tattut"
+    ]
+  },
+  {
+    "french": "Prétonique",
+    "tamazight": [
+      "adat-uɣdebbit"
+    ]
+  },
+  {
+    "french": "Prévélaire",
+    "tamazight": [
+      "adatulwiɣ"
+    ]
+  },
+  {
+    "french": "Préverbe",
+    "tamazight": [
+      "adatemyag"
+    ]
+  },
+  {
+    "french": "Primaire",
+    "tamazight": [
+      "amenzu"
+    ]
+  },
+  {
+    "french": "Principal",
+    "tamazight": [
+      "agejdan"
+    ]
+  },
+  {
+    "french": "Privatif",
+    "tamazight": [
+      "amakkas"
+    ]
+  },
+  {
+    "french": "Procès",
+    "tamazight": [
+      "tigit"
+    ]
+  },
+  {
+    "french": "Proche",
+    "tamazight": [
+      "amaḥ"
+    ]
+  },
+  {
+    "french": "Proclise",
+    "tamazight": [
+      "unuḍ"
+    ]
+  },
+  {
+    "french": "Proclitique",
+    "tamazight": [
+      "unuḍan"
+    ]
+  },
+  {
+    "french": "Production",
+    "tamazight": [
+      "afares"
+    ]
+  },
+  {
+    "french": "Productivité",
+    "tamazight": [
+      "agfaris"
+    ]
+  },
+  {
+    "french": "Profonde (structure)",
+    "tamazight": [
+      "amedru"
+    ]
+  },
+  {
+    "french": "Progressif",
+    "tamazight": [
+      "afaray"
+    ]
+  },
+  {
+    "french": "Projectif",
+    "tamazight": [
+      "amsenfer"
+    ]
+  },
+  {
+    "french": "Projection",
+    "tamazight": [
+      "asenfer"
+    ]
+  },
+  {
+    "french": "Pronom",
+    "tamazight": [
+      "amqim"
+    ]
+  },
+  {
+    "french": "Pronominal",
+    "tamazight": [
+      "amqiman"
+    ]
+  },
+  {
+    "french": "Pronominalisation",
+    "tamazight": [
+      "agamqim"
+    ]
+  },
+  {
+    "french": "Propos",
+    "tamazight": [
+      "awennit"
+    ]
+  },
+  {
+    "french": "Proposition",
+    "tamazight": [
+      "asumer"
+    ]
+  },
+  {
+    "french": "Propositionnel",
+    "tamazight": [
+      "asumran"
+    ]
+  },
+  {
+    "french": "Propre",
+    "tamazight": [
+      "amaḥlay"
+    ]
+  },
+  {
+    "french": "Prose",
+    "tamazight": [
+      "tasrit"
+    ]
+  },
+  {
+    "french": "Prosodème",
+    "tamazight": [
+      "ayunizli"
+    ]
+  },
+  {
+    "french": "Prosodie",
+    "tamazight": [
+      "asnizli"
+    ]
+  },
+  {
+    "french": "Prosthèse",
+    "tamazight": [
+      "tarennut"
+    ]
+  },
+  {
+    "french": "Prothèse",
+    "tamazight": [
+      "tarennut"
+    ]
+  },
+  {
+    "french": "Protracté",
+    "tamazight": [
+      "akernay"
+    ]
+  },
+  {
+    "french": "Protraction",
+    "tamazight": [
+      "akerni"
+    ]
+  },
+  {
+    "french": "Pro-verbe",
+    "tamazight": [
+      "idgemyag"
+    ]
+  },
+  {
+    "french": "Proximité",
+    "tamazight": [
+      "tiḥin"
+    ]
+  },
+  {
+    "french": "Psilose",
+    "tamazight": [
+      "tuksanhat"
+    ]
+  },
+  {
+    "french": "Purisme",
+    "tamazight": [
+      "iḥrizdig"
+    ]
+  },
+  {
+    "french": "Quasi-homonyme",
+    "tamazight": [
+      "azun-aynisem"
+    ]
+  },
+  {
+    "french": "Racine",
+    "tamazight": [
+      "aẓar"
+    ]
+  },
+  {
+    "french": "Radical (n)",
+    "tamazight": [
+      "afeggag"
+    ]
+  },
+  {
+    "french": "Radical (adj)1",
+    "tamazight": [
+      "afeggagan"
+    ]
+  },
+  {
+    "french": "Radical (adj)2",
+    "tamazight": [
+      "aẓaran"
+    ]
+  },
+  {
+    "french": "Rang",
+    "tamazight": [
+      "taswert"
+    ]
+  },
+  {
+    "french": "Rapport",
+    "tamazight": [
+      "assaɣ"
+    ]
+  },
+  {
+    "french": "Realia",
+    "tamazight": [
+      "imttuẓer"
+    ]
+  },
+  {
+    "french": "Réalisation",
+    "tamazight": [
+      "aseḍru"
+    ]
+  },
+  {
+    "french": "Réalisme",
+    "tamazight": [
+      "tiẓrilawt"
+    ]
+  },
+  {
+    "french": "Recatégorisation",
+    "tamazight": [
+      "aneflaggay"
+    ]
+  },
+  {
+    "french": "Récepteur",
+    "tamazight": [
+      "anermas"
+    ]
+  },
+  {
+    "french": "Réception",
+    "tamazight": [
+      "armas"
+    ]
+  },
+  {
+    "french": "Réciprocité",
+    "tamazight": [
+      "amyaɣi"
+    ]
+  },
+  {
+    "french": "Réciproque",
+    "tamazight": [
+      "amyaɣ"
+    ]
+  },
+  {
+    "french": "Recomposition",
+    "tamazight": [
+      "alsuddes"
+    ]
+  },
+  {
+    "french": "Reconstruction",
+    "tamazight": [
+      "alsaski"
+    ]
+  },
+  {
+    "french": "Rection",
+    "tamazight": [
+      "anbaḍ"
+    ]
+  },
+  {
+    "french": "Récursif",
+    "tamazight": [
+      "amerr"
+    ]
+  },
+  {
+    "french": "Récusion",
+    "tamazight": [
+      "iriri"
+    ]
+  },
+  {
+    "french": "Récursivité",
+    "tamazight": [
+      "asniles"
+    ]
+  },
+  {
+    "french": "Redondance",
+    "tamazight": [
+      "alas"
+    ]
+  },
+  {
+    "french": "Redoublement",
+    "tamazight": [
+      "aslag"
+    ]
+  },
+  {
+    "french": "Réduction",
+    "tamazight": [
+      "afnaẓ"
+    ]
+  },
+  {
+    "french": "Réduplication",
+    "tamazight": [
+      "aslagwal"
+    ]
+  },
+  {
+    "french": "Réécriture",
+    "tamazight": [
+      "alestira"
+    ]
+  },
+  {
+    "french": "Réel",
+    "tamazight": [
+      "amili"
+    ]
+  },
+  {
+    "french": "Référence",
+    "tamazight": [
+      "amselɣu"
+    ]
+  },
+  {
+    "french": "Référent",
+    "tamazight": [
+      "tamselɣut"
+    ]
+  },
+  {
+    "french": "Référentiel",
+    "tamazight": [
+      "amselɣan"
+    ]
+  },
+  {
+    "french": "Réfléchi",
+    "tamazight": [
+      "imerri"
+    ]
+  },
+  {
+    "french": "Reflexivisation",
+    "tamazight": [
+      "agmerri"
+    ]
+  },
+  {
+    "french": "Réflexivité",
+    "tamazight": [
+      "tararit"
+    ]
+  },
+  {
+    "french": "Régime",
+    "tamazight": [
+      "unbiḍ"
+    ]
+  },
+  {
+    "french": "Régir",
+    "tamazight": [
+      "nbeḍ"
+    ]
+  },
+  {
+    "french": "Règle",
+    "tamazight": [
+      "alugen"
+    ]
+  },
+  {
+    "french": "Registre",
+    "tamazight": [
+      "aseggaz"
+    ]
+  },
+  {
+    "french": "Régressif",
+    "tamazight": [
+      "imesdeffer"
+    ]
+  },
+  {
+    "french": "Régression",
+    "tamazight": [
+      "asdeffer"
+    ]
+  },
+  {
+    "french": "Regroupement",
+    "tamazight": [
+      "asegru"
+    ]
+  },
+  {
+    "french": "Régularité",
+    "tamazight": [
+      "tillugna"
+    ]
+  },
+  {
+    "french": "Régulier",
+    "tamazight": [
+      "alugan"
+    ]
+  },
+  {
+    "french": "Relâché",
+    "tamazight": [
+      "asellaw"
+    ]
+  },
+  {
+    "french": "Relâchement",
+    "tamazight": [
+      "teslew"
+    ]
+  },
+  {
+    "french": "Relatif1",
+    "tamazight": [
+      "amassaɣ"
+    ]
+  },
+  {
+    "french": "Relatif2",
+    "tamazight": [
+      "armagdez"
+    ]
+  },
+  {
+    "french": "Relation",
+    "tamazight": [
+      "assaɣ"
+    ]
+  },
+  {
+    "french": "Relationnel",
+    "tamazight": [
+      "assaɣan"
+    ]
+  },
+  {
+    "french": "Relative",
+    "tamazight": [
+      "amassaɣ"
+    ]
+  },
+  {
+    "french": "Relativisation",
+    "tamazight": [
+      "agmassaɣ"
+    ]
+  },
+  {
+    "french": "Relief",
+    "tamazight": [
+      "agazal"
+    ]
+  },
+  {
+    "french": "Rendement fonctionnel",
+    "tamazight": [
+      "tiririt tassaɣant"
+    ]
+  },
+  {
+    "french": "Rephonologisation",
+    "tamazight": [
+      "anfelmeslic"
+    ]
+  },
+  {
+    "french": "Représentant",
+    "tamazight": [
+      "agensas"
+    ]
+  },
+  {
+    "french": "Représentation",
+    "tamazight": [
+      "agenses"
+    ]
+  },
+  {
+    "french": "Representativité",
+    "tamazight": [
+      "tiggensest"
+    ]
+  },
+  {
+    "french": "Résonance",
+    "tamazight": [
+      "azenzen"
+    ]
+  },
+  {
+    "french": "Résonateur",
+    "tamazight": [
+      "imzenzen"
+    ]
+  },
+  {
+    "french": "Résultatif",
+    "tamazight": [
+      "agmuḍan"
+    ]
+  },
+  {
+    "french": "Réticence",
+    "tamazight": [
+      "arasmad"
+    ]
+  },
+  {
+    "french": "Rétracté",
+    "tamazight": [
+      "amefsu"
+    ]
+  },
+  {
+    "french": "Rétroaction",
+    "tamazight": [
+      "aslugenman"
+    ]
+  },
+  {
+    "french": "Rétroflexe",
+    "tamazight": [
+      "uttil"
+    ]
+  },
+  {
+    "french": "Rhème, rème",
+    "tamazight": [
+      "awennit"
+    ]
+  },
+  {
+    "french": "Rhétorique",
+    "tamazight": [
+      "asninaw"
+    ]
+  },
+  {
+    "french": "Rime",
+    "tamazight": [
+      "tameɣrut"
+    ]
+  },
+  {
+    "french": "Rythme",
+    "tamazight": [
+      "anya"
+    ]
+  },
+  {
+    "french": "Rythmique (adj.)",
+    "tamazight": [
+      "anyan"
+    ]
+  },
+  {
+    "french": "Rythmique (n.)",
+    "tamazight": [
+      "tasnanya"
+    ]
+  },
+  {
+    "french": "Sandhi",
+    "tamazight": [
+      "ameççi"
+    ]
+  },
+  {
+    "french": "Satellite",
+    "tamazight": [
+      "agensa"
+    ]
+  },
+  {
+    "french": "Schème",
+    "tamazight": [
+      "amzenziɣ"
+    ]
+  },
+  {
+    "french": "Schwa",
+    "tamazight": [
+      "amulac"
+    ]
+  },
+  {
+    "french": "Scripteur",
+    "tamazight": [
+      "amaru"
+    ]
+  },
+  {
+    "french": "Scriptural",
+    "tamazight": [
+      "irayan"
+    ]
+  },
+  {
+    "french": "Secondaire",
+    "tamazight": [
+      "awissin"
+    ]
+  },
+  {
+    "french": "Segment",
+    "tamazight": [
+      "tibḍi"
+    ]
+  },
+  {
+    "french": "Segmental",
+    "tamazight": [
+      "imibḍi"
+    ]
+  },
+  {
+    "french": "Segmentation",
+    "tamazight": [
+      "beṭṭu"
+    ]
+  },
+  {
+    "french": "Selectif",
+    "tamazight": [
+      "ufrin"
+    ]
+  },
+  {
+    "french": "Selection",
+    "tamazight": [
+      "tiferni"
+    ]
+  },
+  {
+    "french": "Sémantème",
+    "tamazight": [
+      "amnamek"
+    ]
+  },
+  {
+    "french": "Sémantique (n.f)",
+    "tamazight": [
+      "tasnamekt"
+    ]
+  },
+  {
+    "french": "sémantique (adj)",
+    "tamazight": [
+      "asnamkan"
+    ]
+  },
+  {
+    "french": "Sémantisme",
+    "tamazight": [
+      "tanamka"
+    ]
+  },
+  {
+    "french": "Sémasiologie",
+    "tamazight": [
+      "tagminamekt"
+    ]
+  },
+  {
+    "french": "Sème",
+    "tamazight": [
+      "anmek ; Pl inmak"
+    ]
+  },
+  {
+    "french": "Sémelfactif (aspect)",
+    "tamazight": [
+      "tantikelt"
+    ]
+  },
+  {
+    "french": "Sémème",
+    "tamazight": [
+      "azdinmek"
+    ]
+  },
+  {
+    "french": "Semi-auxiliaire",
+    "tamazight": [
+      "azegn-amalal"
+    ]
+  },
+  {
+    "french": "Semi-consonne",
+    "tamazight": [
+      "tazegn-argalt"
+    ]
+  },
+  {
+    "french": "Semi-fermé",
+    "tamazight": [
+      "azegnurgil"
+    ]
+  },
+  {
+    "french": "Semi-occlusive",
+    "tamazight": [
+      "azegnaggaɣ"
+    ]
+  },
+  {
+    "french": "Sémiologie",
+    "tamazight": [
+      "asnazmul"
+    ]
+  },
+  {
+    "french": "Sémiotique",
+    "tamazight": [
+      "iẓruzmul"
+    ]
+  },
+  {
+    "french": "Semi-ouvert",
+    "tamazight": [
+      "azgen-amildi"
+    ]
+  },
+  {
+    "french": "Sémique",
+    "tamazight": [
+      "anemkan"
+    ]
+  },
+  {
+    "french": "Semi-voyelle",
+    "tamazight": [
+      "azgeniɣri"
+    ]
+  },
+  {
+    "french": "Sens",
+    "tamazight": [
+      "anamek"
+    ]
+  },
+  {
+    "french": "Sentiment linguistique",
+    "tamazight": [
+      "afra utlayan"
+    ]
+  },
+  {
+    "french": "Séparable",
+    "tamazight": [
+      "amtterẓem"
+    ]
+  },
+  {
+    "french": "Séquence",
+    "tamazight": [
+      "asartu"
+    ]
+  },
+  {
+    "french": "Série",
+    "tamazight": [
+      "amazrar"
+    ]
+  },
+  {
+    "french": "Shifter",
+    "tamazight": [
+      "adgizen"
+    ]
+  },
+  {
+    "french": "Sifflante",
+    "tamazight": [
+      "azefzaf"
+    ]
+  },
+  {
+    "french": "Sigle",
+    "tamazight": [
+      "awzal"
+    ]
+  },
+  {
+    "french": "Signal",
+    "tamazight": [
+      "tamuli"
+    ]
+  },
+  {
+    "french": "Signe",
+    "tamazight": [
+      "azmul"
+    ]
+  },
+  {
+    "french": "Signifiant",
+    "tamazight": [
+      "ummsil"
+    ]
+  },
+  {
+    "french": "Signification",
+    "tamazight": [
+      "alnamek"
+    ]
+  },
+  {
+    "french": "Signifié",
+    "tamazight": [
+      "unmik"
+    ]
+  },
+  {
+    "french": "Simple",
+    "tamazight": [
+      "aḥerfi"
+    ]
+  },
+  {
+    "french": "Simplicité",
+    "tamazight": [
+      "tiḥerfit"
+    ]
+  },
+  {
+    "french": "Singularité",
+    "tamazight": [
+      "tusaft"
+    ]
+  },
+  {
+    "french": "Singulier",
+    "tamazight": [
+      "asuf"
+    ]
+  },
+  {
+    "french": "Situation",
+    "tamazight": [
+      "timella"
+    ]
+  },
+  {
+    "french": "Sociatif",
+    "tamazight": [
+      "adidan"
+    ]
+  },
+  {
+    "french": "Sociolinguistique",
+    "tamazight": [
+      "tasnilesmettit"
+    ]
+  },
+  {
+    "french": "Sociologie du langage",
+    "tamazight": [
+      "tasnametti n umeslay"
+    ]
+  },
+  {
+    "french": "Sombre",
+    "tamazight": [
+      "arnifu"
+    ]
+  },
+  {
+    "french": "Son",
+    "tamazight": [
+      "imesli"
+    ]
+  },
+  {
+    "french": "Sonante",
+    "tamazight": [
+      "aṭenṭun"
+    ]
+  },
+  {
+    "french": "Sonore",
+    "tamazight": [
+      "imɣer"
+    ]
+  },
+  {
+    "french": "Sonorisation",
+    "tamazight": [
+      "agimɣer"
+    ]
+  },
+  {
+    "french": "Sonorité",
+    "tamazight": [
+      "taɣrit"
+    ]
+  },
+  {
+    "french": "Soufflante",
+    "tamazight": [
+      "azefzaf"
+    ]
+  },
+  {
+    "french": "Source (langue)",
+    "tamazight": [
+      "taɣbalut (tutlayt)"
+    ]
+  },
+  {
+    "french": "Sourd",
+    "tamazight": [
+      "asusam"
+    ]
+  },
+  {
+    "french": "Surdité",
+    "tamazight": [
+      "tasusmi"
+    ]
+  },
+  {
+    "french": "Sous-adresse",
+    "tamazight": [
+      "tadunsa"
+    ]
+  },
+  {
+    "french": "Sous-catégorie",
+    "tamazight": [
+      "aduggay"
+    ]
+  },
+  {
+    "french": "Sous-catégorisation",
+    "tamazight": [
+      "agduggay"
+    ]
+  },
+  {
+    "french": "Sous-code",
+    "tamazight": [
+      "adungal"
+    ]
+  },
+  {
+    "french": "Sous-entendu",
+    "tamazight": [
+      "uffir"
+    ]
+  },
+  {
+    "french": "Sous-famille",
+    "tamazight": [
+      "tadwacult"
+    ]
+  },
+  {
+    "french": "Sous-genre",
+    "tamazight": [
+      "tadawsit"
+    ]
+  },
+  {
+    "french": "Sous-jacent",
+    "tamazight": [
+      "amuffir"
+    ]
+  },
+  {
+    "french": "Spirante",
+    "tamazight": [
+      "ameryan"
+    ]
+  },
+  {
+    "french": "Spirantisation",
+    "tamazight": [
+      "agmeryan"
+    ]
+  },
+  {
+    "french": "Standard",
+    "tamazight": [
+      "amezday"
+    ]
+  },
+  {
+    "french": "Statif",
+    "tamazight": [
+      "atiman"
+    ]
+  },
+  {
+    "french": "Statique",
+    "tamazight": [
+      "aglugal"
+    ]
+  },
+  {
+    "french": "Statistique lexicale",
+    "tamazight": [
+      "asiḍenwal"
+    ]
+  },
+  {
+    "french": "Statut",
+    "tamazight": [
+      "aẓayer"
+    ]
+  },
+  {
+    "french": "Stemma",
+    "tamazight": [
+      "amseklu"
+    ]
+  },
+  {
+    "french": "Strate",
+    "tamazight": [
+      "taswert"
+    ]
+  },
+  {
+    "french": "Stridente",
+    "tamazight": [
+      "azenzun"
+    ]
+  },
+  {
+    "french": "Strophe",
+    "tamazight": [
+      "taẓuni"
+    ]
+  },
+  {
+    "french": "Structural",
+    "tamazight": [
+      "iẓrimsukan"
+    ]
+  },
+  {
+    "french": "Structuralisme",
+    "tamazight": [
+      "iẓrimsuk"
+    ]
+  },
+  {
+    "french": "Structure",
+    "tamazight": [
+      "tamsukt"
+    ]
+  },
+  {
+    "french": "Structurel",
+    "tamazight": [
+      "amsukan"
+    ]
+  },
+  {
+    "french": "Style",
+    "tamazight": [
+      "aɣanib"
+    ]
+  },
+  {
+    "french": "Stylistique",
+    "tamazight": [
+      "tasnaɣanibt"
+    ]
+  },
+  {
+    "french": "Subjectif",
+    "tamazight": [
+      "amgayan"
+    ]
+  },
+  {
+    "french": "Subjectivité",
+    "tamazight": [
+      "timgeyt"
+    ]
+  },
+  {
+    "french": "Subjonctif",
+    "tamazight": [
+      "amurdu"
+    ]
+  },
+  {
+    "french": "Subordination",
+    "tamazight": [
+      "asagel"
+    ]
+  },
+  {
+    "french": "Subordonnant",
+    "tamazight": [
+      "amsagel"
+    ]
+  },
+  {
+    "french": "Subordonné",
+    "tamazight": [
+      "amugil"
+    ]
+  },
+  {
+    "french": "Substance",
+    "tamazight": [
+      "tumast"
+    ]
+  },
+  {
+    "french": "Substantif",
+    "tamazight": [
+      "anumas"
+    ]
+  },
+  {
+    "french": "Substantivé",
+    "tamazight": [
+      "agnumsan"
+    ]
+  },
+  {
+    "french": "Substituabilité",
+    "tamazight": [
+      "attwakser"
+    ]
+  },
+  {
+    "french": "Substitut",
+    "tamazight": [
+      "ukksir"
+    ]
+  },
+  {
+    "french": "Substitution",
+    "tamazight": [
+      "akksar"
+    ]
+  },
+  {
+    "french": "Substrat",
+    "tamazight": [
+      "anadday"
+    ]
+  },
+  {
+    "french": "Suffixe",
+    "tamazight": [
+      "adfir"
+    ]
+  },
+  {
+    "french": "Suite",
+    "tamazight": [
+      "asartu"
+    ]
+  },
+  {
+    "french": "Sujet",
+    "tamazight": [
+      "amgay"
+    ]
+  },
+  {
+    "french": "Sujet parlant",
+    "tamazight": [
+      "imsiwel"
+    ]
+  },
+  {
+    "french": "Superficiel",
+    "tamazight": [
+      "ajumman"
+    ]
+  },
+  {
+    "french": "Superlatif",
+    "tamazight": [
+      "asemyagar"
+    ]
+  },
+  {
+    "french": "Supradental",
+    "tamazight": [
+      "uttil"
+    ]
+  },
+  {
+    "french": "Suprasegmental",
+    "tamazight": [
+      "armibḍi"
+    ]
+  },
+  {
+    "french": "Surcomposé",
+    "tamazight": [
+      "afluddis"
+    ]
+  },
+  {
+    "french": "Surface (structure de)",
+    "tamazight": [
+      "ajumman"
+    ]
+  },
+  {
+    "french": "Survivance",
+    "tamazight": [
+      "agaluz"
+    ]
+  },
+  {
+    "french": "Suspension",
+    "tamazight": [
+      "agal"
+    ]
+  },
+  {
+    "french": "Syllabaire",
+    "tamazight": [
+      "asunṭiq"
+    ]
+  },
+  {
+    "french": "Syllabation",
+    "tamazight": [
+      "agunṭiq"
+    ]
+  },
+  {
+    "french": "Syllabe",
+    "tamazight": [
+      "tunṭiqt"
+    ]
+  },
+  {
+    "french": "Syllabème",
+    "tamazight": [
+      "alemsunṭiq"
+    ]
+  },
+  {
+    "french": "Syllabique",
+    "tamazight": [
+      "unṭiqan"
+    ]
+  },
+  {
+    "french": "Symbole",
+    "tamazight": [
+      "azamul"
+    ]
+  },
+  {
+    "french": "Symbolisme phonique",
+    "tamazight": [
+      "iẓruzamul anmesli"
+    ]
+  },
+  {
+    "french": "Synalèphe",
+    "tamazight": [
+      "asertiɣra"
+    ]
+  },
+  {
+    "french": "Synapsie",
+    "tamazight": [
+      "tadukelt"
+    ]
+  },
+  {
+    "french": "Synchronie",
+    "tamazight": [
+      "ayunkud"
+    ]
+  },
+  {
+    "french": "Synchronique",
+    "tamazight": [
+      "ayunkudan"
+    ]
+  },
+  {
+    "french": "Syncope",
+    "tamazight": [
+      "taḍuri"
+    ]
+  },
+  {
+    "french": "Synecdoque",
+    "tamazight": [
+      "uẓul"
+    ]
+  },
+  {
+    "french": "Synonyme",
+    "tamazight": [
+      "amegdu"
+    ]
+  },
+  {
+    "french": "Synonymie",
+    "tamazight": [
+      "timegdiwt"
+    ]
+  },
+  {
+    "french": "Syntagmatique",
+    "tamazight": [
+      "anudus"
+    ]
+  },
+  {
+    "french": "Syntagme",
+    "tamazight": [
+      "udus"
+    ]
+  },
+  {
+    "french": "Syntaxe",
+    "tamazight": [
+      "taseddast"
+    ]
+  },
+  {
+    "french": "Syntaxique",
+    "tamazight": [
+      "anseddas"
+    ]
+  },
+  {
+    "french": "Synthème",
+    "tamazight": [
+      "amyunwal"
+    ]
+  },
+  {
+    "french": "Synthèse",
+    "tamazight": [
+      "tasemlilt"
+    ]
+  },
+  {
+    "french": "Synthétique",
+    "tamazight": [
+      "asemlal"
+    ]
+  },
+  {
+    "french": "Système",
+    "tamazight": [
+      "anagraw"
+    ]
+  },
+  {
+    "french": "Tabou",
+    "tamazight": [
+      "tagdelt"
+    ]
+  },
+  {
+    "french": "Tautologie",
+    "tamazight": [
+      "alsakti"
+    ]
+  },
+  {
+    "french": "Temps",
+    "tamazight": [
+      "akud"
+    ]
+  },
+  {
+    "french": "Tendance",
+    "tamazight": [
+      "anezzuɣ"
+    ]
+  },
+  {
+    "french": "Tendu",
+    "tamazight": [
+      "ussid"
+    ]
+  },
+  {
+    "french": "Tension",
+    "tamazight": [
+      "tussda"
+    ]
+  },
+  {
+    "french": "Tenue",
+    "tamazight": [
+      "tuṭṭfa"
+    ]
+  },
+  {
+    "french": "Ténu",
+    "tamazight": [
+      "usdid"
+    ]
+  },
+  {
+    "french": "Terme",
+    "tamazight": [
+      "irem"
+    ]
+  },
+  {
+    "french": "Terminatif",
+    "tamazight": [
+      "aniɣef"
+    ]
+  },
+  {
+    "french": "Terminologie",
+    "tamazight": [
+      "tasniremt"
+    ]
+  },
+  {
+    "french": "Tête",
+    "tamazight": [
+      "iɣef"
+    ]
+  },
+  {
+    "french": "Texte",
+    "tamazight": [
+      "aḍris"
+    ]
+  },
+  {
+    "french": "Thématique",
+    "tamazight": [
+      "asnetlan"
+    ]
+  },
+  {
+    "french": "Thème",
+    "tamazight": [
+      "asentel"
+    ]
+  },
+  {
+    "french": "Tilde",
+    "tamazight": [
+      "imdeswel"
+    ]
+  },
+  {
+    "french": "Timbre",
+    "tamazight": [
+      "aseɣmu"
+    ]
+  },
+  {
+    "french": "Tiret",
+    "tamazight": [
+      "tisreḍt"
+    ]
+  },
+  {
+    "french": "Ton",
+    "tamazight": [
+      "tiqqrit"
+    ]
+  },
+  {
+    "french": "Tonal",
+    "tamazight": [
+      "aniqqri"
+    ]
+  },
+  {
+    "french": "Tonalité",
+    "tamazight": [
+      "tattayt"
+    ]
+  },
+  {
+    "french": "Tonème",
+    "tamazight": [
+      "tiqqrict"
+    ]
+  },
+  {
+    "french": "Tonique",
+    "tamazight": [
+      "anattay"
+    ]
+  },
+  {
+    "french": "Topicalisation",
+    "tamazight": [
+      "agfellas"
+    ]
+  },
+  {
+    "french": "Topique",
+    "tamazight": [
+      "afellas"
+    ]
+  },
+  {
+    "french": "Toponymie",
+    "tamazight": [
+      "ismideg"
+    ]
+  },
+  {
+    "french": "Traduction",
+    "tamazight": [
+      "asuɣel"
+    ]
+  },
+  {
+    "french": "Traduire",
+    "tamazight": [
+      "suɣel"
+    ]
+  },
+  {
+    "french": "Trait",
+    "tamazight": [
+      "attwel"
+    ]
+  },
+  {
+    "french": "Trait (sémantique)",
+    "tamazight": [
+      "anmek"
+    ]
+  },
+  {
+    "french": "Transcription",
+    "tamazight": [
+      "aseskel"
+    ]
+  },
+  {
+    "french": "Transformation",
+    "tamazight": [
+      "alsileɣ"
+    ]
+  },
+  {
+    "french": "Transformationnel",
+    "tamazight": [
+      "alsileɣan"
+    ]
+  },
+  {
+    "french": "Transitif",
+    "tamazight": [
+      "amsukk"
+    ]
+  },
+  {
+    "french": "Transition",
+    "tamazight": [
+      "asaka"
+    ]
+  },
+  {
+    "french": "Transitivité",
+    "tamazight": [
+      "asukku"
+    ]
+  },
+  {
+    "french": "Translatif",
+    "tamazight": [
+      "unkiz"
+    ]
+  },
+  {
+    "french": "Translation",
+    "tamazight": [
+      "ankaz"
+    ]
+  },
+  {
+    "french": "Translittération",
+    "tamazight": [
+      "arweskil"
+    ]
+  },
+  {
+    "french": "Transparence",
+    "tamazight": [
+      "asuseɣ"
+    ]
+  },
+  {
+    "french": "Transphrastique",
+    "tamazight": [
+      "angafyir"
+    ]
+  },
+  {
+    "french": "Transposition",
+    "tamazight": [
+      "ankaz"
+    ]
+  },
+  {
+    "french": "Trésor",
+    "tamazight": [
+      "agerruj"
+    ]
+  },
+  {
+    "french": "Triangulaire",
+    "tamazight": [
+      "akerdisan"
+    ]
+  },
+  {
+    "french": "Triel",
+    "tamazight": [
+      "akraḍan"
+    ]
+  },
+  {
+    "french": "Trilitère",
+    "tamazight": [
+      "akreḍergal"
+    ]
+  },
+  {
+    "french": "Triphtongue",
+    "tamazight": [
+      "akreḍiɣri"
+    ]
+  },
+  {
+    "french": "Triptote",
+    "tamazight": [
+      "akreḍakka"
+    ]
+  },
+  {
+    "french": "Trivial",
+    "tamazight": [
+      "ayar"
+    ]
+  },
+  {
+    "french": "Troncation",
+    "tamazight": [
+      "tubbya"
+    ]
+  },
+  {
+    "french": "Trope",
+    "tamazight": [
+      "unuḍ"
+    ]
+  },
+  {
+    "french": "Type",
+    "tamazight": [
+      "azun"
+    ]
+  },
+  {
+    "french": "Type / token",
+    "tamazight": [
+      "azun / aɣrud"
+    ]
+  },
+  {
+    "french": "Typologie",
+    "tamazight": [
+      "asnazun"
+    ]
+  },
+  {
+    "french": "Typologique",
+    "tamazight": [
+      "asnazunan"
+    ]
+  },
+  {
+    "french": "Umlaut",
+    "tamazight": [
+      "aneflusel"
+    ]
+  },
+  {
+    "french": "Unilatéral",
+    "tamazight": [
+      "ayundis"
+    ]
+  },
+  {
+    "french": "Unilingue",
+    "tamazight": [
+      "aynutlayan"
+    ]
+  },
+  {
+    "french": "Union",
+    "tamazight": [
+      "tadukli"
+    ]
+  },
+  {
+    "french": "Unipersonnel",
+    "tamazight": [
+      "ayundem"
+    ]
+  },
+  {
+    "french": "Unité",
+    "tamazight": [
+      "tayunt"
+    ]
+  },
+  {
+    "french": "Univers",
+    "tamazight": [
+      "ameɣrud"
+    ]
+  },
+  {
+    "french": "Universaux (du langage)",
+    "tamazight": [
+      "inmeɣrad (n umeslay)"
+    ]
+  },
+  {
+    "french": "Univocité",
+    "tamazight": [
+      "aynazmul"
+    ]
+  },
+  {
+    "french": "Urbanisme",
+    "tamazight": [
+      "aɣerman"
+    ]
+  },
+  {
+    "french": "Usage",
+    "tamazight": [
+      "aseqdec"
+    ]
+  },
+  {
+    "french": "Uvulaire",
+    "tamazight": [
+      "ileḍṭan"
+    ]
+  },
+  {
+    "french": "Valeur",
+    "tamazight": [
+      "azal"
+    ]
+  },
+  {
+    "french": "Variable",
+    "tamazight": [
+      "amattay"
+    ]
+  },
+  {
+    "french": "Variante",
+    "tamazight": [
+      "amcalay"
+    ]
+  },
+  {
+    "french": "Variation",
+    "tamazight": [
+      "acali"
+    ]
+  },
+  {
+    "french": "Vedette",
+    "tamazight": [
+      "takcemt"
+    ]
+  },
+  {
+    "french": "Véhiculaire",
+    "tamazight": [
+      "anigzi"
+    ]
+  },
+  {
+    "french": "Vélaire",
+    "tamazight": [
+      "ulwiɣan"
+    ]
+  },
+  {
+    "french": "Vélarisation",
+    "tamazight": [
+      "agulwiɣan"
+    ]
+  },
+  {
+    "french": "Verbal",
+    "tamazight": [
+      "amyagan"
+    ]
+  },
+  {
+    "french": "Verbe",
+    "tamazight": [
+      "amyag"
+    ]
+  },
+  {
+    "french": "Versus",
+    "tamazight": [
+      "ugmiḍ"
+    ]
+  },
+  {
+    "french": "Vers",
+    "tamazight": [
+      "afir"
+    ]
+  },
+  {
+    "french": "Vibrante",
+    "tamazight": [
+      "asmamay"
+    ]
+  },
+  {
+    "french": "Vide",
+    "tamazight": [
+      "ilem"
+    ]
+  },
+  {
+    "french": "Vieux, vieilli",
+    "tamazight": [
+      "awesran"
+    ]
+  },
+  {
+    "french": "Virgule",
+    "tamazight": [
+      "ticcert"
+    ]
+  },
+  {
+    "french": "Virtuel",
+    "tamazight": [
+      "azemran ; Pl :izemranen"
+    ]
+  },
+  {
+    "french": "Virtuème",
+    "tamazight": [
+      "akzemran"
+    ]
+  },
+  {
+    "french": "Vivant",
+    "tamazight": [
+      "yeddren"
+    ]
+  },
+  {
+    "french": "vocable",
+    "tamazight": [
+      "ansiwel"
+    ]
+  },
+  {
+    "french": "Vocabulaire",
+    "tamazight": [
+      "tinsiwalt"
+    ]
+  },
+  {
+    "french": "Vocal",
+    "tamazight": [
+      "timiyant"
+    ]
+  },
+  {
+    "french": "Vocalique",
+    "tamazight": [
+      "aniɣri"
+    ]
+  },
+  {
+    "french": "Vocalisation",
+    "tamazight": [
+      "agtiɣri"
+    ]
+  },
+  {
+    "french": "Vocalisme",
+    "tamazight": [
+      "tiɣrat"
+    ]
+  },
+  {
+    "french": "Vocatif",
+    "tamazight": [
+      "amini"
+    ]
+  },
+  {
+    "french": "Voile du palais",
+    "tamazight": [
+      "ulwiɣ"
+    ]
+  },
+  {
+    "french": "Voisé",
+    "tamazight": [
+      "imɣer"
+    ]
+  },
+  {
+    "french": "Voisement",
+    "tamazight": [
+      "taɣrit"
+    ]
+  },
+  {
+    "french": "Voix1",
+    "tamazight": [
+      "iɣri"
+    ]
+  },
+  {
+    "french": "Voix2",
+    "tamazight": [
+      "ammek"
+    ]
+  },
+  {
+    "french": "Voyelle",
+    "tamazight": [
+      "tiɣri"
+    ]
+  },
+  {
+    "french": "Whorf- Sapir (hypothèse de)",
+    "tamazight": [
+      "whorf-sapir (turda n)"
+    ]
+  },
+  {
+    "french": "Yod",
+    "tamazight": [
+      "ya"
+    ]
+  },
+  {
+    "french": "Yodisation",
+    "tamazight": [
+      "agya"
+    ]
+  },
+  {
+    "french": "Zéro",
+    "tamazight": [
+      "ulac"
+    ]
+  },
+  {
+    "french": "Zétasisme",
+    "tamazight": [
+      "agza"
+    ]
+  },
+  {
+    "french": "Zeugma, zeugme",
+    "tamazight": [
+      "azda"
+    ]
+  },
+  {
+    "french": "Zipf (loi de)",
+    "tamazight": [
+      "Zipf (asaḍuf n)"
+    ]
+  }
+]

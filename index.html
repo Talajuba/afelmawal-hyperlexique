@@ -4,10 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>AFELMAWAL – Amawal ameqran Tafransist >< Tamaziɣt</title>
-    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche avec filtres, suggestions, 5 lexiques, mode sombre, interface bilingue.">
+    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche avec filtres, suggestions, 7 lexiques, mode sombre, interface bilingue.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        /* (Le CSS est identique à la version précédente, pas de changement) */
         * {
             box-sizing: border-box;
             transition: background-color 0.3s ease, color 0.2s ease, border-color 0.2s ease;
@@ -568,18 +567,20 @@
     </div>
 
     <footer>
-        <span id="footerText">Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ.</span>
+        <span id="footerText">Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B.</span>
     </footer>
 </div>
 
 <script>
-    // ======================= SOURCES =======================
+    // ======================= SOURCES (7 lexiques) =======================
     const SOURCES = [
         { id: "histoire", nom_tm: "Asnirem n umezruy – H.A.M.", nom_fr: "Terminologie de l'histoire – H.A.M.", urlJson: "data/terminologie_histoire.json", pdfUrl: "https://talajuba.github.io/terminologie-histoire" },
         { id: "inventaire", nom_tm: "Asuṭṭen n yiwalnuten – H.A.M.", nom_fr: "Inventaire des néologismes – H.A.M.", urlJson: "data/inventaire.json", pdfUrl: "https://talajuba.github.io/inventaire-neologismes" },
         { id: "informatique", nom_tm: "Amawal n tsenselkimt – S.S.B.", nom_fr: "Lexique d'informatique – S.S.B.", urlJson: "data/informatique.json", pdfUrl: "https://talajuba.github.io/lexique-informatique" },
         { id: "doctorat_bh", nom_tm: "Tazrawt n Doctorat – B.H.", nom_fr: "Thèse de Doctorat – B.H.", urlJson: "data/doctorathb.json", pdfUrl: "https://talajuba.github.io/doctorat-bhamek" },
-        { id: "doctorat_ydj", nom_tm: "Tazrawt n Doctorat – Y.DJ.", nom_fr: "Thèse de Doctorat – Y.DJ.", urlJson: "data/doctoratydj.json", pdfUrl: "https://talajuba.github.io/doctorat-ydjouadi" }
+        { id: "doctorat_ydj", nom_tm: "Tazrawt n Doctorat – Y.DJ.", nom_fr: "Thèse de Doctorat – Y.DJ.", urlJson: "data/doctoratydj.json", pdfUrl: "https://talajuba.github.io/doctorat-ydjouadi" },
+        { id: "verbes", nom_tm: "Taseftit n umyag – K.N.Z.", nom_fr: "Conjugaison des verbes – K.N.Z.", urlJson: "data/verbes.json", pdfUrl: "https://talajuba.github.io/conjugaison-kabyle" },
+        { id: "tasnilest", nom_tm: "Amawal n tesnilest – A.B.", nom_fr: "Lexique de linguistique – A.B.", urlJson: "data/tasnilestab.json", pdfUrl: "https://talajuba.github.io/lexique-linguistique" }
     ];
 
     let masterDictionary = [];
@@ -834,8 +835,8 @@
             }
         }
         document.getElementById('footerText').innerText = lang === "tm" 
-            ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ."
-            : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique informatique – S.S.B. | Thèse de Doctorat – B.H. | Thèse de Doctorat – Y.DJ.";
+            ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B."
+            : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique d'informatique – S.S.B. | Thèse de Doctorat – B.H. | Thèse de Doctorat – Y.DJ. | Conjugaison des verbes – K.N.Z. | Lexique de linguistique – A.B.";
         const welcomeDiv = document.getElementById('welcomeMsg');
         if (welcomeDiv) {
             welcomeDiv.innerText = lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨";
