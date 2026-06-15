@@ -1080,6 +1080,12 @@
     ]
   },
   {
+    "french": "BISSECTRICE",
+    "tamazight": [
+      "TAMẒUNT"
+    ]
+  },
+  {
     "french": "BITANGENTE",
     "tamazight": [
       "ASENMASLAY"
@@ -1869,6 +1875,12 @@
     ]
   },
   {
+    "french": "CONE",
+    "tamazight": [
+      "AKASWAR"
+    ]
+  },
+  {
     "french": "CONFIANCE",
     "tamazight": [
       "TAFLEST"
@@ -2074,6 +2086,12 @@
     "french": "CONTRAINTE",
     "tamazight": [
       "TAMARA"
+    ]
+  },
+  {
+    "french": "CONTRAIRE",
+    "tamazight": [
+      "ANEMGAL"
     ]
   },
   {
