@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>AFELMAWAL – Amawal ameqran Tafransist >< Tamaziɣt</title>
-    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche avec filtres, suggestions, 11 lexiques, mode sombre, interface bilingue.">
+    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche avec filtres, suggestions, 12 lexiques, mode sombre, interface bilingue.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        /* (Le CSS est identique à la version précédente, pas de changement) */
+        /* (Le CSS est strictement identique à la version précédente, pas de changement) */
         * {
             box-sizing: border-box;
             transition: background-color 0.3s ease, color 0.2s ease, border-color 0.2s ease;
@@ -568,12 +568,12 @@
     </div>
 
     <footer>
-        <span id="footerText">Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B. | Tazrawt n Master II – DJ.S. | Amawal n Dallet – J.M.D | Amawal Azerfan – M.Z.B | Amawal n tesnalmudt – M.M.</span>
+        <span id="footerText">Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B. | Tazrawt n Master II – DJ.S. | Amawal n Dallet – J.M.D | Amawal Azerfan – M.Z.B | Amawal n tesnalmudt – M.M. | Amawal n Tusnakt</span>
     </footer>
 </div>
 
 <script>
-    // ======================= SOURCES (11 lexiques) =======================
+    // ======================= SOURCES (12 lexiques) =======================
     const SOURCES = [
         { id: "histoire", nom_tm: "Asnirem n umezruy – H.A.M.", nom_fr: "Terminologie de l'histoire – H.A.M.", urlJson: "data/terminologie_histoire.json", pdfUrl: "https://talajuba.github.io/terminologie-histoire" },
         { id: "inventaire", nom_tm: "Asuṭṭen n yiwalnuten – H.A.M.", nom_fr: "Inventaire des néologismes – H.A.M.", urlJson: "data/inventaire.json", pdfUrl: "https://talajuba.github.io/inventaire-neologismes" },
@@ -585,7 +585,8 @@
         { id: "master", nom_tm: "Tazrawt n Master II – DJ.S.", nom_fr: "Mémoire Master II – DJ.S.", urlJson: "data/vocableduc.json", pdfUrl: "https://talajuba.github.io/vocabulaire-education" },
         { id: "dallet", nom_tm: "Amawal n Dallet – J.M.D", nom_fr: "Dictionnaire de Dallet – J.M.D", urlJson: "data/dallet.json", pdfUrl: "https://talajuba.github.io/dictionnaire-dallet" },
         { id: "juridique", nom_tm: "Amawal Azerfan – M.Z.B", nom_fr: "Lexique Juridique – M.Z.B", urlJson: "data/judiciaire.json", pdfUrl: "https://talajuba.github.io/lexique-juridique" },
-        { id: "didactique", nom_tm: "Amawal n tesnalmudt – M.M.", nom_fr: "Lexique de Didactique – M.M.", urlJson: "data/didactique.json", pdfUrl: "https://talajuba.github.io/lexique-didactique" }
+        { id: "didactique", nom_tm: "Amawal n tesnalmudt – M.M.", nom_fr: "Lexique de Didactique – M.M.", urlJson: "data/didactique.json", pdfUrl: "https://talajuba.github.io/lexique-didactique" },
+        { id: "mathematiques", nom_tm: "Amawal n Tusnakt", nom_fr: "Lexique de Mathématiques", urlJson: "data/tusnakt.json", pdfUrl: "https://talajuba.github.io/lexique-mathematiques" }
     ];
 
     let masterDictionary = [];
@@ -593,7 +594,7 @@
     let currentResults = [];
     let currentSearchTerm = "";
 
-    // ======================= CHARGEMENT JSON =======================
+    // ======================= CHARGEMENT JSON (identique) =======================
     async function loadSource(source) {
         try {
             const response = await fetch(source.urlJson);
@@ -601,7 +602,6 @@
             const data = await response.json();
             if (!Array.isArray(data)) throw new Error("Le JSON n'est pas un tableau");
             const entries = data.map(item => {
-                // Gérer french (peut être string ou tableau)
                 let frenchText = "";
                 if (typeof item.french === 'string') {
                     frenchText = item.french.trim();
@@ -610,13 +610,11 @@
                 } else {
                     frenchText = "";
                 }
-                
                 let tamList = [];
                 if (Array.isArray(item.tamazight)) tamList = item.tamazight;
                 else if (typeof item.tamazight === 'string') tamList = [item.tamazight];
                 else tamList = [];
                 tamList = tamList.map(t => t.replace(/\.$/, '').trim());
-                
                 return {
                     french: frenchText,
                     tamazight: tamList,
@@ -851,8 +849,8 @@
             }
         }
         document.getElementById('footerText').innerText = lang === "tm" 
-            ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B. | Tazrawt n Master II – DJ.S. | Amawal n Dallet – J.M.D | Amawal Azerfan – M.Z.B | Amawal n tesnalmudt – M.M."
-            : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique d'informatique – S.S.B. | Thèse de Doctorat – B.H. | Thèse de Doctorat – Y.DJ. | Conjugaison des verbes – K.N.Z. | Lexique de linguistique – A.B. | Mémoire Master II – DJ.S. | Dictionnaire de Dallet – J.M.D | Lexique Juridique – M.Z.B | Lexique de Didactique – M.M.";
+            ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B. | Tazrawt n Master II – DJ.S. | Amawal n Dallet – J.M.D | Amawal Azerfan – M.Z.B | Amawal n tesnalmudt – M.M. | Amawal n Tusnakt"
+            : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique d'informatique – S.S.B. | Thèse de Doctorat – B.H. | Thèse de Doctorat – Y.DJ. | Conjugaison des verbes – K.N.Z. | Lexique de linguistique – A.B. | Mémoire Master II – DJ.S. | Dictionnaire de Dallet – J.M.D | Lexique Juridique – M.Z.B | Lexique de Didactique – M.M. | Lexique de Mathématiques";
         const welcomeDiv = document.getElementById('welcomeMsg');
         if (welcomeDiv) {
             welcomeDiv.innerText = lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨";
