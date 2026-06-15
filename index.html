@@ -7,7 +7,7 @@
     <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche insensible aux accents, filtres, suggestions, 12 lexiques, mode sombre.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        /* ========== STYLES (identiques à la version précédente) ========== */
+        /* ========== STYLES (identique à la version précédente, non modifié) ========== */
         * {
             box-sizing: border-box;
             transition: background-color 0.3s ease, color 0.2s ease, border-color 0.2s ease;
@@ -571,6 +571,12 @@
 </div>
 
 <script>
+    // ========== NORMALISATION (suppression des accents et minuscules) ==========
+    function normalizeString(str) {
+        if (!str) return "";
+        return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
     // ======================= SOURCES (12 lexiques) =======================
     const SOURCES = [
         { id: "histoire", nom_tm: "Asnirem n umezruy – H.A.M.", nom_fr: "Terminologie de l'histoire – H.A.M.", urlJson: "data/terminologie_histoire.json", pdfUrl: "https://talajuba.github.io/terminologie-histoire" },
@@ -591,11 +597,6 @@
     let currentLang = "tm";
     let currentResults = [];
     let currentSearchTerm = "";
-
-    // ========== NORMALISATION (suppression des accents et minuscules) ==========
-    function normalizeString(str) {
-        return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-    }
 
     // ======================= CHARGEMENT JSON =======================
     async function loadSource(source) {
@@ -778,6 +779,7 @@
             for (const entry of group.entries) {
                 let frenchDisplay = entry.french;
                 let tamazightDisplay = entry.tamazight.join(' ; ');
+                // Mise en évidence du terme recherché (normalisé pour la regex)
                 const regex = new RegExp(`(${escapeRegex(searchTerm)})`, 'gi');
                 frenchDisplay = frenchDisplay.replace(regex, `<mark>$1</mark>`);
                 tamazightDisplay = tamazightDisplay.replace(regex, `<mark>$1</mark>`);
