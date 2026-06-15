@@ -1235,6 +1235,18 @@
     ]
   },
   {
+    "french": "CARRE (géométrique)",
+    "tamazight": [
+      "AMKUẒ"
+    ]
+  },
+  {
+    "french": "CARRE (arithmétique)",
+    "tamazight": [
+      "UZMIR-SIN (uzmir-2)"
+    ]
+  },
+  {
     "french": "CARTESIEN",
     "tamazight": [
       "AKAṚTIZYAN",
@@ -7116,6 +7128,19 @@
     ]
   },
   {
+    "french": "PERIMETRE",
+    "tamazight": [
+      "AZZIKIT"
+    ]
+  },
+  {
+    "french": "PERIODE",
+    "tamazight": [
+      "TAWALA",
+      "TALLIT"
+    ]
+  },
+  {
     "french": "PENTE",
     "tamazight": [
       "AZALUL",
@@ -8017,6 +8042,18 @@
     ]
   },
   {
+    "french": "RECTANGLE (n. figure géométrique)",
+    "tamazight": [
+      "ASREM"
+    ]
+  },
+  {
+    "french": "RECTANGLE (adj. droit)",
+    "tamazight": [
+      "AMAƔUD"
+    ]
+  },
+  {
     "french": "RECTANGULAIRE",
     "tamazight": [
       "USRIM"
@@ -8425,10 +8462,9 @@
     ]
   },
   {
-    "french": "REUNION (UNION) 1631",
+    "french": "réunion infinie",
     "tamazight": [
-      "AZDUKEL yeffḍen",
-      "AZDUKEL yenmezzin"
+      "azdukel yeffḍen"
     ]
   },
   {
@@ -8998,7 +9034,7 @@
     ]
   },
   {
-    "french": "SPHERE 1738",
+    "french": "SPHERE",
     "tamazight": [
       "TABLULEƔT",
       "tagnummayt — AMAḌAL"
@@ -9007,7 +9043,7 @@
   {
     "french": "SPHERIQUE",
     "tamazight": [
-      "(agfunnay, cfernernay NZB) — AMAḌAL",
+      "(agfunnay, cfernernay MZB) — AMAḌAL",
       "ABLALAƔ",
       "AKURAN"
     ]
@@ -9563,7 +9599,7 @@
     ]
   },
   {
-    "french": "TIGE 1",
+    "french": "TIGE",
     "tamazight": [
       "AƔEDDU"
     ]
@@ -10094,7 +10130,7 @@
     ]
   },
   {
-    "french": "UNITE 1",
+    "french": "UNITE",
     "tamazight": [
       "TIGGET"
     ]
