@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>AFELMAWAL – Amawal ameqran Tafransist >< Tamaziɣt</title>
-    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche avec filtres, suggestions, 12 lexiques, mode sombre, interface bilingue.">
+    <meta name="description" content="AFELMAWAL : dictionnaire bilingue français-tamazight. Recherche insensible aux accents, filtres, suggestions, 12 lexiques, mode sombre.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
-        /* (Le CSS est strictement identique à la version précédente, pas de changement) */
+        /* ========== STYLES (identiques à la version précédente) ========== */
         * {
             box-sizing: border-box;
             transition: background-color 0.3s ease, color 0.2s ease, border-color 0.2s ease;
@@ -516,10 +516,8 @@
     </div>
 
     <header id="mainHeader">
-        <h1>
-            <i class="fas fa-book-open"></i> AFELMAWAL
-        </h1>
-        <p id="subtitle" title="Grand Lexique Français >< Tamazight">Amawal ameqran Tafransist >< Tamaziɣt</p>
+        <h1><i class="fas fa-book-open"></i> AFELMAWAL</h1>
+        <p id="subtitle">Amawal ameqran Tafransist >< Tamaziɣt</p>
         <div class="tifinagh-watermark">
             <span>ⴰⴼⴻⵍⵎⴰⵡⴰⵍ</span>
             <span id="watermarkRight">HYPERLEXIQUE</span>
@@ -594,7 +592,12 @@
     let currentResults = [];
     let currentSearchTerm = "";
 
-    // ======================= CHARGEMENT JSON (identique) =======================
+    // ========== NORMALISATION (suppression des accents et minuscules) ==========
+    function normalizeString(str) {
+        return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    // ======================= CHARGEMENT JSON =======================
     async function loadSource(source) {
         try {
             const response = await fetch(source.urlJson);
@@ -663,21 +666,25 @@
         return document.getElementById('sourceSelect').value;
     }
 
-    // ======================= RECHERCHE =======================
+    // ======================= RECHERCHE (avec normalisation) =======================
     function matches(entry, lowerTerm, mode, lang) {
+        const normalizedTerm = normalizeString(lowerTerm);
+        const normalizedFrench = normalizeString(entry.french);
+        const normalizedTamList = entry.tamazight.map(tz => normalizeString(tz));
         if (mode === 'exact') {
-            if (lang === 'french') return entry.french.toLowerCase() === lowerTerm;
-            if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase() === lowerTerm);
-            return entry.french.toLowerCase() === lowerTerm || entry.tamazight.some(tz => tz.toLowerCase() === lowerTerm);
+            if (lang === 'french') return normalizedFrench === normalizedTerm;
+            if (lang === 'tamazight') return normalizedTamList.some(tz => tz === normalizedTerm);
+            return normalizedFrench === normalizedTerm || normalizedTamList.some(tz => tz === normalizedTerm);
         }
         if (mode === 'startsWith') {
-            if (lang === 'french') return entry.french.toLowerCase().startsWith(lowerTerm);
-            if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase().startsWith(lowerTerm));
-            return entry.french.toLowerCase().startsWith(lowerTerm) || entry.tamazight.some(tz => tz.toLowerCase().startsWith(lowerTerm));
+            if (lang === 'french') return normalizedFrench.startsWith(normalizedTerm);
+            if (lang === 'tamazight') return normalizedTamList.some(tz => tz.startsWith(normalizedTerm));
+            return normalizedFrench.startsWith(normalizedTerm) || normalizedTamList.some(tz => tz.startsWith(normalizedTerm));
         }
-        if (lang === 'french') return entry.french.toLowerCase().includes(lowerTerm);
-        if (lang === 'tamazight') return entry.tamazight.some(tz => tz.toLowerCase().includes(lowerTerm));
-        return entry.french.toLowerCase().includes(lowerTerm) || entry.tamazight.some(tz => tz.toLowerCase().includes(lowerTerm));
+        // mode 'contains'
+        if (lang === 'french') return normalizedFrench.includes(normalizedTerm);
+        if (lang === 'tamazight') return normalizedTamList.some(tz => tz.includes(normalizedTerm));
+        return normalizedFrench.includes(normalizedTerm) || normalizedTamList.some(tz => tz.includes(normalizedTerm));
     }
 
     function searchFiltered(term) {
@@ -692,7 +699,7 @@
         });
     }
 
-    // ======================= SUGGESTIONS =======================
+    // ======================= SUGGESTIONS (normalisées) =======================
     function updateSuggestions() {
         const term = document.getElementById('searchInput').value;
         const suggDiv = document.getElementById('suggestions');
@@ -700,18 +707,18 @@
             suggDiv.style.display = 'none';
             return;
         }
-        const lowerTerm = term.trim().toLowerCase();
+        const normalizedTerm = normalizeString(term);
         const lang = document.getElementById('langFilter').value;
         const selectedSource = getSelectedSourceId();
         const matchesSet = new Set();
         for (let entry of masterDictionary) {
             if (selectedSource !== 'all' && entry.sourceId !== selectedSource) continue;
             if (lang === 'french' || lang === 'both') {
-                if (entry.french.toLowerCase().startsWith(lowerTerm)) matchesSet.add(entry.french);
+                if (normalizeString(entry.french).startsWith(normalizedTerm)) matchesSet.add(entry.french);
             }
             if (lang === 'tamazight' || lang === 'both') {
                 for (let tz of entry.tamazight) {
-                    if (tz.toLowerCase().startsWith(lowerTerm)) matchesSet.add(tz);
+                    if (normalizeString(tz).startsWith(normalizedTerm)) matchesSet.add(tz);
                 }
             }
         }
@@ -819,11 +826,8 @@
         currentLang = lang;
         localStorage.setItem('appLang', lang);
         const header = document.getElementById('mainHeader');
-        if (lang === 'fr') {
-            header.classList.add('fr-mode');
-        } else {
-            header.classList.remove('fr-mode');
-        }
+        if (lang === 'fr') header.classList.add('fr-mode');
+        else header.classList.remove('fr-mode');
         document.getElementById('subtitle').innerText = lang === "tm" ? "Amawal ameqran Tafransist >< Tamaziɣt" : "HYPERLEXIQUE. Grand dictionnaire français >< tamazight";
         document.getElementById('searchLabel').innerText = lang === "tm" ? "Ssekcem awal s tefransist neɣ s tmaziɣt" : "Saisissez un mot en français ou en tamazight";
         document.getElementById('searchInput').placeholder = lang === "tm" ? "Amedya : tagrawla, anmezruy, amgaru..." : "Ex. : révolution, guerre, dictionnaire...";
@@ -852,14 +856,10 @@
             ? "Iɣbula : Asnirem n umezruy – H.A.M. | Asuṭṭen n yiwalnuten – H.A.M. | Amawal n tsenselkimt – S.S.B. | Tazrawt n Doctorat – B.H. | Tazrawt n Doctorat – Y.DJ. | Taseftit n umyag – K.N.Z. | Amawal n tesnilest – A.B. | Tazrawt n Master II – DJ.S. | Amawal n Dallet – J.M.D | Amawal Azerfan – M.Z.B | Amawal n tesnalmudt – M.M. | Amawal n Tusnakt"
             : "Sources : Terminologie de l'histoire – H.A.M. | Inventaire des néologismes – H.A.M. | Lexique d'informatique – S.S.B. | Thèse de Doctorat – B.H. | Thèse de Doctorat – Y.DJ. | Conjugaison des verbes – K.N.Z. | Lexique de linguistique – A.B. | Mémoire Master II – DJ.S. | Dictionnaire de Dallet – J.M.D | Lexique Juridique – M.Z.B | Lexique de Didactique – M.M. | Lexique de Mathématiques";
         const welcomeDiv = document.getElementById('welcomeMsg');
-        if (welcomeDiv) {
-            welcomeDiv.innerText = lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨";
-        }
-        if (currentSearchTerm && currentSearchTerm.trim() !== "") {
-            displayResults(currentResults, currentSearchTerm);
-        } else if (masterDictionary.length > 0) {
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = `<div class="no-results">${lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨"}</div>`;
+        if (welcomeDiv) welcomeDiv.innerText = lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨";
+        if (currentSearchTerm && currentSearchTerm.trim() !== "") displayResults(currentResults, currentSearchTerm);
+        else if (masterDictionary.length > 0) {
+            document.getElementById('results').innerHTML = `<div class="no-results">${lang === "tm" ? "✨ Anadi ilelli – ssekcem awal ✨" : "✨ Recherche libre – saisissez un mot ✨"}</div>`;
             updateStatsText(masterDictionary.length, 0, "");
         }
     }
@@ -891,11 +891,8 @@
     }
 
     function toggleFullscreen() {
-        if (!document.fullscreenElement) {
-            document.documentElement.requestFullscreen().catch(e => console.warn(e));
-        } else {
-            document.exitFullscreen();
-        }
+        if (!document.fullscreenElement) document.documentElement.requestFullscreen().catch(e => console.warn(e));
+        else document.exitFullscreen();
     }
 
     function initDarkMode() {
@@ -903,13 +900,11 @@
         if (saved === 'dark') {
             document.body.classList.add('dark-mode');
             document.body.classList.remove('light-mode');
-            const icon = document.querySelector('#darkModeToggle i');
-            if (icon) icon.className = 'fas fa-sun';
+            document.querySelector('#darkModeToggle i').className = 'fas fa-sun';
         } else {
             document.body.classList.add('light-mode');
             document.body.classList.remove('dark-mode');
-            const icon = document.querySelector('#darkModeToggle i');
-            if (icon) icon.className = 'fas fa-moon';
+            document.querySelector('#darkModeToggle i').className = 'fas fa-moon';
         }
     }
 
@@ -918,27 +913,20 @@
             document.body.classList.remove('dark-mode');
             document.body.classList.add('light-mode');
             localStorage.setItem('theme', 'light');
-            const icon = document.querySelector('#darkModeToggle i');
-            if (icon) icon.className = 'fas fa-moon';
+            document.querySelector('#darkModeToggle i').className = 'fas fa-moon';
         } else {
             document.body.classList.remove('light-mode');
             document.body.classList.add('dark-mode');
             localStorage.setItem('theme', 'dark');
-            const icon = document.querySelector('#darkModeToggle i');
-            if (icon) icon.className = 'fas fa-sun';
+            document.querySelector('#darkModeToggle i').className = 'fas fa-sun';
         }
     }
 
     // ======================= INITIALISATION =======================
     document.addEventListener('DOMContentLoaded', async () => {
         await loadAllSources();
-
         const savedLang = localStorage.getItem('appLang');
-        if (savedLang === 'fr' || savedLang === 'tm') {
-            setLanguage(savedLang);
-        } else {
-            setLanguage('tm');
-        }
+        setLanguage((savedLang === 'fr' || savedLang === 'tm') ? savedLang : 'tm');
 
         const searchInput = document.getElementById('searchInput');
         const searchBtn = document.getElementById('searchBtn');
@@ -950,27 +938,20 @@
         const sourceSelect = document.getElementById('sourceSelect');
 
         searchBtn.addEventListener('click', performSearch);
-        searchInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') performSearch(); });
+        searchInput.addEventListener('keypress', e => { if (e.key === 'Enter') performSearch(); });
         searchInput.addEventListener('input', updateSuggestions);
-        document.addEventListener('click', function(e) {
+        document.addEventListener('click', e => {
             const suggDiv = document.getElementById('suggestions');
-            if (suggDiv && !suggDiv.contains(e.target) && e.target !== searchInput) {
-                suggDiv.style.display = 'none';
-            }
+            if (suggDiv && !suggDiv.contains(e.target) && e.target !== searchInput) suggDiv.style.display = 'none';
         });
-
         [searchMode, langFilter, sourceSelect].forEach(filter => {
-            if (filter) filter.addEventListener('change', () => {
-                if (searchInput.value.trim()) performSearch();
-            });
+            if (filter) filter.addEventListener('change', () => { if (searchInput.value.trim()) performSearch(); });
         });
-
-        if (fullscreenBtn) fullscreenBtn.addEventListener('click', (e) => { e.preventDefault(); toggleFullscreen(); });
-        if (darkToggle) darkToggle.addEventListener('click', (e) => { e.preventDefault(); toggleDarkMode(); });
-        if (langToggle) langToggle.addEventListener('click', (e) => {
+        if (fullscreenBtn) fullscreenBtn.addEventListener('click', e => { e.preventDefault(); toggleFullscreen(); });
+        if (darkToggle) darkToggle.addEventListener('click', e => { e.preventDefault(); toggleDarkMode(); });
+        if (langToggle) langToggle.addEventListener('click', e => {
             e.preventDefault();
-            const newLang = currentLang === "tm" ? "fr" : "tm";
-            setLanguage(newLang);
+            setLanguage(currentLang === "tm" ? "fr" : "tm");
         });
         initDarkMode();
     });
