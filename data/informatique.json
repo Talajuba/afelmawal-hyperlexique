@@ -16078,5 +16078,2993 @@
     "tamazight": [
       "Zoom ɣer sdat"
     ]
+  },
+  {
+    "french": "Abaque (abacus)",
+    "tamazight": [
+      "Tafelwit"
+    ]
+  },
+  {
+    "french": "Abonné (subscriber)",
+    "tamazight": [
+      "Ameltaɣ"
+    ]
+  },
+  {
+    "french": "Abrégé (abstract)",
+    "tamazight": [
+      "Agzul"
+    ]
+  },
+  {
+    "french": "Abréviation (abbreviation)",
+    "tamazight": [
+      "Tazegzilt"
+    ]
+  },
+  {
+    "french": "Accélérateur (accelerator)",
+    "tamazight": [
+      "Ameckaḍ"
+    ]
+  },
+  {
+    "french": "Acheminer (to forward)",
+    "tamazight": [
+      "Seḍfeṛ"
+    ]
+  },
+  {
+    "french": "Activation (activation)",
+    "tamazight": [
+      "Asermed"
+    ]
+  },
+  {
+    "french": "Activité (activity)",
+    "tamazight": [
+      "Armud"
+    ]
+  },
+  {
+    "french": "Actualiser (to update)",
+    "tamazight": [
+      "Mucceḍ"
+    ]
+  },
+  {
+    "french": "Adaptateur (Adapter, Adaptor)",
+    "tamazight": [
+      "Amezgay"
+    ]
+  },
+  {
+    "french": "Administration (administration)",
+    "tamazight": [
+      "Tadbelt"
+    ]
+  },
+  {
+    "french": "Adressage (addressing)",
+    "tamazight": [
+      "Asenki"
+    ]
+  },
+  {
+    "french": "Adresser (to address)",
+    "tamazight": [
+      "Senkey"
+    ]
+  },
+  {
+    "french": "Affaiblissement (attenuation)",
+    "tamazight": [
+      "Anzaf"
+    ]
+  },
+  {
+    "french": "Affectation (assignment)",
+    "tamazight": [
+      "Asdukel"
+    ]
+  },
+  {
+    "french": "Agent (agent)",
+    "tamazight": [
+      "Ameggi"
+    ]
+  },
+  {
+    "french": "Aiguillage (switch)",
+    "tamazight": [
+      "Aseḍren"
+    ]
+  },
+  {
+    "french": "Alphabet (alphabet)",
+    "tamazight": [
+      "Agemmay"
+    ]
+  },
+  {
+    "french": "Alphagéométrique (alphageometric)",
+    "tamazight": [
+      "Agmanzeggan"
+    ]
+  },
+  {
+    "french": "Amorce (bootstrap)",
+    "tamazight": [
+      "Awel"
+    ]
+  },
+  {
+    "french": "Amplificateur (amplifier)",
+    "tamazight": [
+      "Asedfay"
+    ]
+  },
+  {
+    "french": "Analyseur (analyzer)",
+    "tamazight": [
+      "Amsisleḍ"
+    ]
+  },
+  {
+    "french": "Ancre (anchor)",
+    "tamazight": [
+      "Tamdeyt"
+    ]
+  },
+  {
+    "french": "Anonyme (anonymous)",
+    "tamazight": [
+      "Udrig"
+    ]
+  },
+  {
+    "french": "Antenne (antenna)",
+    "tamazight": [
+      "Taska"
+    ]
+  },
+  {
+    "french": "Applet (applette)",
+    "tamazight": [
+      "Tappleṭ"
+    ]
+  },
+  {
+    "french": "Application (application)",
+    "tamazight": [
+      "Asnas"
+    ]
+  },
+  {
+    "french": "Apprentissage (learning)",
+    "tamazight": [
+      "Almad"
+    ]
+  },
+  {
+    "french": "Architecte (architect)",
+    "tamazight": [
+      "Amasdag"
+    ]
+  },
+  {
+    "french": "Archivage (archiving)",
+    "tamazight": [
+      "Aɣbaṛ"
+    ]
+  },
+  {
+    "french": "Argument (argument)",
+    "tamazight": [
+      "Tiɣiret"
+    ]
+  },
+  {
+    "french": "Arrière plan (background)",
+    "tamazight": [
+      "Agilal"
+    ]
+  },
+  {
+    "french": "Article (item, record)",
+    "tamazight": [
+      "Amagrad"
+    ]
+  },
+  {
+    "french": "Arête (edge)",
+    "tamazight": [
+      "Amder"
+    ]
+  },
+  {
+    "french": "Assemblage (assembly)",
+    "tamazight": [
+      "Asemlili"
+    ]
+  },
+  {
+    "french": "Assembleur (assembler)",
+    "tamazight": [
+      "Asemlellay"
+    ]
+  },
+  {
+    "french": "Assistance (backup)",
+    "tamazight": [
+      "Tadhelt"
+    ]
+  },
+  {
+    "french": "Attribut biométrique (biometric modality)",
+    "tamazight": [
+      "Imyerr abiyumiteṛ"
+    ]
+  },
+  {
+    "french": "Autocode (autocode)",
+    "tamazight": [
+      "Tangalmant"
+    ]
+  },
+  {
+    "french": "Autocodeur (autocoder)",
+    "tamazight": [
+      "Asettengalman"
+    ]
+  },
+  {
+    "french": "Autocommutateur (autoswitch)",
+    "tamazight": [
+      "Asenfelman"
+    ]
+  },
+  {
+    "french": "Automate (automaton)",
+    "tamazight": [
+      "Awurman"
+    ]
+  },
+  {
+    "french": "Automatiser (to automate)",
+    "tamazight": [
+      "Swurmen"
+    ]
+  },
+  {
+    "french": "Bit (binary digit)",
+    "tamazight": [
+      "Abit"
+    ]
+  },
+  {
+    "french": "Bloc (block)",
+    "tamazight": [
+      "Iḥder"
+    ]
+  },
+  {
+    "french": "Blocage (blocking)",
+    "tamazight": [
+      "Akyaf"
+    ]
+  },
+  {
+    "french": "Blocage (compression, blocking)",
+    "tamazight": [
+      "Asekkussem ; Tussda (voir compression)"
+    ]
+  },
+  {
+    "french": "Bordereau (form)",
+    "tamazight": [
+      "Tiferkit"
+    ]
+  },
+  {
+    "french": "Broche (pin)",
+    "tamazight": [
+      "Abṛim"
+    ]
+  },
+  {
+    "french": "CFAO (Conception et Fabrication Assistées par Ordinateur, CAD/CAM)",
+    "tamazight": [
+      "Asali d uɣaraf s uselkim"
+    ]
+  },
+  {
+    "french": "Cadrage (justification)",
+    "tamazight": [
+      "Tarigla"
+    ]
+  },
+  {
+    "french": "Calcul (computation)",
+    "tamazight": [
+      "Asiḍen"
+    ]
+  },
+  {
+    "french": "Calculateur (computer)",
+    "tamazight": [
+      "Aselkim"
+    ]
+  },
+  {
+    "french": "Capacité (capacity)",
+    "tamazight": [
+      "Akettur"
+    ]
+  },
+  {
+    "french": "Carte (card)",
+    "tamazight": [
+      "Takarḍa"
+    ]
+  },
+  {
+    "french": "Cassette de bande magnétique (magnetic tape cassette)",
+    "tamazight": [
+      "Takasiṭ n tesfift tadkirant"
+    ]
+  },
+  {
+    "french": "Chemin (path)",
+    "tamazight": [
+      "Abrid"
+    ]
+  },
+  {
+    "french": "Chiffre (digit)",
+    "tamazight": [
+      "Azwil"
+    ]
+  },
+  {
+    "french": "Chiffrer (encrypt)",
+    "tamazight": [
+      "Wgelhen"
+    ]
+  },
+  {
+    "french": "Chèque (check)",
+    "tamazight": [
+      "Ccik"
+    ]
+  },
+  {
+    "french": "Circuit (circuit)",
+    "tamazight": [
+      "Amnenniḍ"
+    ]
+  },
+  {
+    "french": "Clavier (keyboard)",
+    "tamazight": [
+      "Anasiw"
+    ]
+  },
+  {
+    "french": "Cluster (cluster)",
+    "tamazight": [
+      "Agazi ; Tasekkunt (voir grappe)"
+    ]
+  },
+  {
+    "french": "Code (code)",
+    "tamazight": [
+      "Tangalt"
+    ]
+  },
+  {
+    "french": "Coder (to encode)",
+    "tamazight": [
+      "Settengel"
+    ]
+  },
+  {
+    "french": "Codeur (encoder)",
+    "tamazight": [
+      "Asettengal"
+    ]
+  },
+  {
+    "french": "Codification (codification)",
+    "tamazight": [
+      "Asengel"
+    ]
+  },
+  {
+    "french": "Commentaire (comment)",
+    "tamazight": [
+      "Awennit"
+    ]
+  },
+  {
+    "french": "Communication (communication)",
+    "tamazight": [
+      "Taɣwalt"
+    ]
+  },
+  {
+    "french": "Compactage (compression)",
+    "tamazight": [
+      "Asekkussem ; Tussda (voir compression)"
+    ]
+  },
+  {
+    "french": "Comparateur (comparator)",
+    "tamazight": [
+      "Asnemhal"
+    ]
+  },
+  {
+    "french": "Compilateur (compiler)",
+    "tamazight": [
+      "Asefsay"
+    ]
+  },
+  {
+    "french": "Complémentaire (adj)",
+    "tamazight": [
+      "Asemmadan"
+    ]
+  },
+  {
+    "french": "Complémentaire (nom.)",
+    "tamazight": [
+      "Asemmad"
+    ]
+  },
+  {
+    "french": "Composant (component)",
+    "tamazight": [
+      "Isger"
+    ]
+  },
+  {
+    "french": "Comptabilité (accounting)",
+    "tamazight": [
+      "Tasiḍent"
+    ]
+  },
+  {
+    "french": "Comptable (accountant)",
+    "tamazight": [
+      "Amessiḍan"
+    ]
+  },
+  {
+    "french": "Compteur (counter)",
+    "tamazight": [
+      "Amessḍan"
+    ]
+  },
+  {
+    "french": "Conception (design)",
+    "tamazight": [
+      "Asali"
+    ]
+  },
+  {
+    "french": "Concevoir (to design)",
+    "tamazight": [
+      "Ssali"
+    ]
+  },
+  {
+    "french": "Condensation (packing)",
+    "tamazight": [
+      "Amḥurçeç"
+    ]
+  },
+  {
+    "french": "Configurer (to configure)",
+    "tamazight": [
+      "Swel"
+    ]
+  },
+  {
+    "french": "Console (console)",
+    "tamazight": [
+      "Tadiwent"
+    ]
+  },
+  {
+    "french": "Constante (constant)",
+    "tamazight": [
+      "Timezgit"
+    ]
+  },
+  {
+    "french": "Constructeur (constructor)",
+    "tamazight": [
+      "Amakras"
+    ]
+  },
+  {
+    "french": "Contention (contention)",
+    "tamazight": [
+      "Amgirred"
+    ]
+  },
+  {
+    "french": "Contexte (context)",
+    "tamazight": [
+      "Tawennaṭ"
+    ]
+  },
+  {
+    "french": "Contournement (bypass)",
+    "tamazight": [
+      "Azizdew"
+    ]
+  },
+  {
+    "french": "Contrôler (to control, to check)",
+    "tamazight": [
+      "Senqed"
+    ]
+  },
+  {
+    "french": "Convertisseur (converter)",
+    "tamazight": [
+      "Aselkat"
+    ]
+  },
+  {
+    "french": "Coordonnée (coordinate)",
+    "tamazight": [
+      "Amsideg"
+    ]
+  },
+  {
+    "french": "Copyright (copyright)",
+    "tamazight": [
+      "Copyright"
+    ]
+  },
+  {
+    "french": "Corpus (corpus)",
+    "tamazight": [
+      "Akuṛpis"
+    ]
+  },
+  {
+    "french": "Correction (debugging)",
+    "tamazight": [
+      "Aseɣti"
+    ]
+  },
+  {
+    "french": "Courbe (curve)",
+    "tamazight": [
+      "Azlig"
+    ]
+  },
+  {
+    "french": "Crayon optique / électronique (light pen)",
+    "tamazight": [
+      "Amru aliktṛunan ; Aɣanib aẓarunay"
+    ]
+  },
+  {
+    "french": "Crypter (to encrypt)",
+    "tamazight": [
+      "Wgelhen"
+    ]
+  },
+  {
+    "french": "Cryptogramme (cryptogram)",
+    "tamazight": [
+      "Awal uffir"
+    ]
+  },
+  {
+    "french": "Datagramme (datagram)",
+    "tamazight": [
+      "Ameqqun"
+    ]
+  },
+  {
+    "french": "Demi-soustracteur (half-substracter)",
+    "tamazight": [
+      "Azgenmakkas"
+    ]
+  },
+  {
+    "french": "Densité (density)",
+    "tamazight": [
+      "Taneẓẓi"
+    ]
+  },
+  {
+    "french": "Descripteur (descriptor)",
+    "tamazight": [
+      "Aneglam"
+    ]
+  },
+  {
+    "french": "Dessin (line drawing)",
+    "tamazight": [
+      "Unuɣ"
+    ]
+  },
+  {
+    "french": "Destinataire (receiver)",
+    "tamazight": [
+      "Anermas"
+    ]
+  },
+  {
+    "french": "Destination (destination)",
+    "tamazight": [
+      "Aserken"
+    ]
+  },
+  {
+    "french": "Diaphonie (cross-talk)",
+    "tamazight": [
+      "Amlilmeslay"
+    ]
+  },
+  {
+    "french": "Dictionnaire (dictionary)",
+    "tamazight": [
+      "Amawal"
+    ]
+  },
+  {
+    "french": "Didacticiel (teachware, lessonware)",
+    "tamazight": [
+      "Almedẓan"
+    ]
+  },
+  {
+    "french": "Digit (digit)",
+    "tamazight": [
+      "Azwil"
+    ]
+  },
+  {
+    "french": "Dimension (dimension)",
+    "tamazight": [
+      "Tasekta"
+    ]
+  },
+  {
+    "french": "Discrétisation (digitizing)",
+    "tamazight": [
+      "Afruri"
+    ]
+  },
+  {
+    "french": "Disponibilité (availability)",
+    "tamazight": [
+      "Astufu"
+    ]
+  },
+  {
+    "french": "Disponible (available)",
+    "tamazight": [
+      "Yestufan"
+    ]
+  },
+  {
+    "french": "Disque (disk)",
+    "tamazight": [
+      "Aḍebsi"
+    ]
+  },
+  {
+    "french": "Distorsion (distortion)",
+    "tamazight": [
+      "Azlag"
+    ]
+  },
+  {
+    "french": "Distribution (au sens statistique, distribution)",
+    "tamazight": [
+      "Tiski"
+    ]
+  },
+  {
+    "french": "Distribution (distribution)",
+    "tamazight": [
+      "Asedger"
+    ]
+  },
+  {
+    "french": "Domaine (domain, field)",
+    "tamazight": [
+      "Taɣult"
+    ]
+  },
+  {
+    "french": "Donnée (datum, pl. data)",
+    "tamazight": [
+      "Asefku"
+    ]
+  },
+  {
+    "french": "Dossier (directory, folder)",
+    "tamazight": [
+      "Akaram"
+    ]
+  },
+  {
+    "french": "Débit (throughput)",
+    "tamazight": [
+      "Aktum"
+    ]
+  },
+  {
+    "french": "Décaler (to shift)",
+    "tamazight": [
+      "Sekḥer"
+    ]
+  },
+  {
+    "french": "Déclaration (declaration)",
+    "tamazight": [
+      "Alɣu"
+    ]
+  },
+  {
+    "french": "Déclenchement (trigger)",
+    "tamazight": [
+      "Andaḥ"
+    ]
+  },
+  {
+    "french": "Déclencher (to trigger)",
+    "tamazight": [
+      "Ndeḥ"
+    ]
+  },
+  {
+    "french": "Déclencheur (trigger)",
+    "tamazight": [
+      "Aneddaḥ"
+    ]
+  },
+  {
+    "french": "Décompilation (decompiling)",
+    "tamazight": [
+      "Aseflali"
+    ]
+  },
+  {
+    "french": "Décompiler (to decompile)",
+    "tamazight": [
+      "Seflali"
+    ]
+  },
+  {
+    "french": "Décryptage (decryption)",
+    "tamazight": [
+      "Azmak"
+    ]
+  },
+  {
+    "french": "Défiler (to scroll)",
+    "tamazight": [
+      "Drurem"
+    ]
+  },
+  {
+    "french": "Définition (definition)",
+    "tamazight": [
+      "Tabadut ; Tarusi"
+    ]
+  },
+  {
+    "french": "Définition (resolution)",
+    "tamazight": [
+      "Tabadut"
+    ]
+  },
+  {
+    "french": "Dégénérescence (degeneracy)",
+    "tamazight": [
+      "Asegrurej"
+    ]
+  },
+  {
+    "french": "Démarrage (starting, startup)",
+    "tamazight": [
+      "Asekkar"
+    ]
+  },
+  {
+    "french": "Démarrer (to start)",
+    "tamazight": [
+      "Sekker"
+    ]
+  },
+  {
+    "french": "Démasquage (unmask)",
+    "tamazight": [
+      "Afatal"
+    ]
+  },
+  {
+    "french": "Démasquer (to unmask)",
+    "tamazight": [
+      "Ftel"
+    ]
+  },
+  {
+    "french": "Déroutement (trap, exception)",
+    "tamazight": [
+      "Tasureft"
+    ]
+  },
+  {
+    "french": "Désactivation (a disable)",
+    "tamazight": [
+      "Asensi"
+    ]
+  },
+  {
+    "french": "Désactiver (to disable)",
+    "tamazight": [
+      "Ssens"
+    ]
+  },
+  {
+    "french": "Désassemblage (desassembly)",
+    "tamazight": [
+      "Asentuter"
+    ]
+  },
+  {
+    "french": "Désassembler (to desassembly)",
+    "tamazight": [
+      "Sentuter"
+    ]
+  },
+  {
+    "french": "Détection (detection)",
+    "tamazight": [
+      "Tifin"
+    ]
+  },
+  {
+    "french": "Développer (to develope)",
+    "tamazight": [
+      "Snefli"
+    ]
+  },
+  {
+    "french": "Développeur (developer)",
+    "tamazight": [
+      "Aneflay"
+    ]
+  },
+  {
+    "french": "ET (AND)",
+    "tamazight": [
+      "D"
+    ]
+  },
+  {
+    "french": "Ecart (difference, spacing)",
+    "tamazight": [
+      "Iceṛṛiq"
+    ]
+  },
+  {
+    "french": "Echange (swapping)",
+    "tamazight": [
+      "Asemmeskel"
+    ]
+  },
+  {
+    "french": "Echantillonnage (sampling)",
+    "tamazight": [
+      "Alemmec"
+    ]
+  },
+  {
+    "french": "Eclatement (splitting)",
+    "tamazight": [
+      "Asefxes"
+    ]
+  },
+  {
+    "french": "Ecran (screen)",
+    "tamazight": [
+      "Agdil"
+    ]
+  },
+  {
+    "french": "Ecriture (writing)",
+    "tamazight": [
+      "Tira"
+    ]
+  },
+  {
+    "french": "Edition (editing)",
+    "tamazight": [
+      "Taẓrigt"
+    ]
+  },
+  {
+    "french": "Effacement (erasure, cleaning)",
+    "tamazight": [
+      "Asfaḍ"
+    ]
+  },
+  {
+    "french": "Egalisateur (equalizer)",
+    "tamazight": [
+      "Asegday"
+    ]
+  },
+  {
+    "french": "Egalisation (equalization)",
+    "tamazight": [
+      "Asegdu"
+    ]
+  },
+  {
+    "french": "Emplacement (location)",
+    "tamazight": [
+      "Asun"
+    ]
+  },
+  {
+    "french": "Emulateur (emulator)",
+    "tamazight": [
+      "Amtellal"
+    ]
+  },
+  {
+    "french": "Emulation (emulation)",
+    "tamazight": [
+      "Atellel"
+    ]
+  },
+  {
+    "french": "Emuler (to emulate)",
+    "tamazight": [
+      "Talal"
+    ]
+  },
+  {
+    "french": "Encapsulation (encapsulation)",
+    "tamazight": [
+      "Akwbal"
+    ]
+  },
+  {
+    "french": "Encapsuler (to encapsulate)",
+    "tamazight": [
+      "Kwbel"
+    ]
+  },
+  {
+    "french": "Encodage (encoding)",
+    "tamazight": [
+      "Asettengel"
+    ]
+  },
+  {
+    "french": "Encodeur (encoder)",
+    "tamazight": [
+      "Asettengal"
+    ]
+  },
+  {
+    "french": "Equipement (equipment)",
+    "tamazight": [
+      "Asgalef"
+    ]
+  },
+  {
+    "french": "Equité (fairness)",
+    "tamazight": [
+      "Warmeḥyaf"
+    ]
+  },
+  {
+    "french": "Etat (state, status)",
+    "tamazight": [
+      "Addad"
+    ]
+  },
+  {
+    "french": "Etiquette (label, tag)",
+    "tamazight": [
+      "Tabzimt"
+    ]
+  },
+  {
+    "french": "Evénement (event)",
+    "tamazight": [
+      "Tadyant"
+    ]
+  },
+  {
+    "french": "Exception (déroutement, exception)",
+    "tamazight": [
+      "Tasureft"
+    ]
+  },
+  {
+    "french": "Explorateur (explorer)",
+    "tamazight": [
+      "Anaram"
+    ]
+  },
+  {
+    "french": "Exporter (to export)",
+    "tamazight": [
+      "Sifeḍ"
+    ]
+  },
+  {
+    "french": "Exposant (exponent)",
+    "tamazight": [
+      "Taɣalaṭ"
+    ]
+  },
+  {
+    "french": "Expression (expression)",
+    "tamazight": [
+      "Tanfalit"
+    ]
+  },
+  {
+    "french": "Extension (extension)",
+    "tamazight": [
+      "Asiɣzef"
+    ]
+  },
+  {
+    "french": "Facteur",
+    "tamazight": [
+      "Ameskar"
+    ]
+  },
+  {
+    "french": "Fichier (data set, file)",
+    "tamazight": [
+      "Afaylu"
+    ]
+  },
+  {
+    "french": "Firewall (firewall)",
+    "tamazight": [
+      "Firewall"
+    ]
+  },
+  {
+    "french": "Flot (stream)",
+    "tamazight": [
+      "Arag"
+    ]
+  },
+  {
+    "french": "Flux (stream)",
+    "tamazight": [
+      "Asuddem"
+    ]
+  },
+  {
+    "french": "Focalisation (focusing)",
+    "tamazight": [
+      "Asaḍes"
+    ]
+  },
+  {
+    "french": "Focus (focus)",
+    "tamazight": [
+      "Asaḍas"
+    ]
+  },
+  {
+    "french": "Fonction (function)",
+    "tamazight": [
+      "Tasɣent"
+    ]
+  },
+  {
+    "french": "Format (format)",
+    "tamazight": [
+      "Amasal"
+    ]
+  },
+  {
+    "french": "Formatage (formatting)",
+    "tamazight": [
+      "Amsal"
+    ]
+  },
+  {
+    "french": "Formel (formal)",
+    "tamazight": [
+      "Alɣawan"
+    ]
+  },
+  {
+    "french": "Formulaire (form)",
+    "tamazight": [
+      "Tiferkit"
+    ]
+  },
+  {
+    "french": "Fraudeur (fraudster)",
+    "tamazight": [
+      "Amednus"
+    ]
+  },
+  {
+    "french": "Fréquence (frequency)",
+    "tamazight": [
+      "Asnagar"
+    ]
+  },
+  {
+    "french": "Gamme (range)",
+    "tamazight": [
+      "Taseddaṛt"
+    ]
+  },
+  {
+    "french": "Gestion (management)",
+    "tamazight": [
+      "Asefrek"
+    ]
+  },
+  {
+    "french": "Gestionnaire (manager)",
+    "tamazight": [
+      "Asefrak"
+    ]
+  },
+  {
+    "french": "Grain (grain)",
+    "tamazight": [
+      "Aɛeqqa"
+    ]
+  },
+  {
+    "french": "Grammaire (grammar)",
+    "tamazight": [
+      "Tajeṛṛumt"
+    ]
+  },
+  {
+    "french": "Graphe (graph)",
+    "tamazight": [
+      "Udem"
+    ]
+  },
+  {
+    "french": "Groupage (blocking)",
+    "tamazight": [
+      "Asegrew"
+    ]
+  },
+  {
+    "french": "Gène (gene)",
+    "tamazight": [
+      "Ajin"
+    ]
+  },
+  {
+    "french": "Générateur (generator)",
+    "tamazight": [
+      "Asaraw"
+    ]
+  },
+  {
+    "french": "Géographie (geography)",
+    "tamazight": [
+      "Tamaḍlarut"
+    ]
+  },
+  {
+    "french": "Hachurer (to hatch)",
+    "tamazight": [
+      "Zerreg"
+    ]
+  },
+  {
+    "french": "Hameçonnage (phishing)",
+    "tamazight": [
+      "Ticeṛket"
+    ]
+  },
+  {
+    "french": "Haute disponibilité à (fault tolerant)",
+    "tamazight": [
+      "Yezmer i tṛuẓi"
+    ]
+  },
+  {
+    "french": "Hiérarchie (hierarchy)",
+    "tamazight": [
+      "Amyellel"
+    ]
+  },
+  {
+    "french": "Horloge (clock)",
+    "tamazight": [
+      "Tamrint"
+    ]
+  },
+  {
+    "french": "Horodatage (timestamping)",
+    "tamazight": [
+      "Azemzakud"
+    ]
+  },
+  {
+    "french": "Hors service (down)",
+    "tamazight": [
+      "Ufsid"
+    ]
+  },
+  {
+    "french": "Hypercanal (hyperchannel)",
+    "tamazight": [
+      "Afelbadu"
+    ]
+  },
+  {
+    "french": "Hypercube (hypercube)",
+    "tamazight": [
+      "Afelgasas"
+    ]
+  },
+  {
+    "french": "Hypermédia (hypermedia)",
+    "tamazight": [
+      "Afelmedia"
+    ]
+  },
+  {
+    "french": "Identificateur (identifier)",
+    "tamazight": [
+      "Asulay"
+    ]
+  },
+  {
+    "french": "Identification (identification, pick)",
+    "tamazight": [
+      "Asulu"
+    ]
+  },
+  {
+    "french": "Imagerie (imagery)",
+    "tamazight": [
+      "Tissugent"
+    ]
+  },
+  {
+    "french": "Imbrication (nesting)",
+    "tamazight": [
+      "Aseddegiri"
+    ]
+  },
+  {
+    "french": "Imbriquer (to nest)",
+    "tamazight": [
+      "Seddegiret"
+    ]
+  },
+  {
+    "french": "Implémentation (implementation)",
+    "tamazight": [
+      "Uẓẓu"
+    ]
+  },
+  {
+    "french": "Implémenter (to implement)",
+    "tamazight": [
+      "Ẓẓu"
+    ]
+  },
+  {
+    "french": "Importer (to import)",
+    "tamazight": [
+      "Kter"
+    ]
+  },
+  {
+    "french": "Impression (printing)",
+    "tamazight": [
+      "Asiggez"
+    ]
+  },
+  {
+    "french": "Imprimante (printer)",
+    "tamazight": [
+      "Tasaggazt"
+    ]
+  },
+  {
+    "french": "Incompatibilité (incompatibility)",
+    "tamazight": [
+      "Amyagwi"
+    ]
+  },
+  {
+    "french": "Incrément (increment)",
+    "tamazight": [
+      "Tifest"
+    ]
+  },
+  {
+    "french": "Indentation (indentation)",
+    "tamazight": [
+      "Asiẓi"
+    ]
+  },
+  {
+    "french": "Index (index)",
+    "tamazight": [
+      "Amatar"
+    ]
+  },
+  {
+    "french": "Ingénierie (engineering)",
+    "tamazight": [
+      "Tijjenyeṛt"
+    ]
+  },
+  {
+    "french": "Initialisation (initialization)",
+    "tamazight": [
+      "Awennez"
+    ]
+  },
+  {
+    "french": "Installation (Set up)",
+    "tamazight": [
+      "Asbeddi"
+    ]
+  },
+  {
+    "french": "Instance (instance)",
+    "tamazight": [
+      "Tummant"
+    ]
+  },
+  {
+    "french": "Instruction (statement)",
+    "tamazight": [
+      "Tanaṭ"
+    ]
+  },
+  {
+    "french": "Insérer (to insert)",
+    "tamazight": [
+      "Ger"
+    ]
+  },
+  {
+    "french": "Intelligence (intelligence)",
+    "tamazight": [
+      "Tigzi"
+    ]
+  },
+  {
+    "french": "Interactif (interactive)",
+    "tamazight": [
+      "Asdawan"
+    ]
+  },
+  {
+    "french": "Interactivité (interactivity)",
+    "tamazight": [
+      "Amyermud"
+    ]
+  },
+  {
+    "french": "Interface (interface)",
+    "tamazight": [
+      "Agrudem"
+    ]
+  },
+  {
+    "french": "Interpolation (interpolation)",
+    "tamazight": [
+      "Asenṭeḍ"
+    ]
+  },
+  {
+    "french": "Interrupteur (switch)",
+    "tamazight": [
+      "Agezzam"
+    ]
+  },
+  {
+    "french": "Interruptible (interruptible)",
+    "tamazight": [
+      "Yettnegziyen"
+    ]
+  },
+  {
+    "french": "Interruption d’émission (Transmitter interrupt)",
+    "tamazight": [
+      "Tasnegzit n tesgilt"
+    ]
+  },
+  {
+    "french": "Interruption (interrupt)",
+    "tamazight": [
+      "Tasnegzit ; Tasemmeɣtest"
+    ]
+  },
+  {
+    "french": "Interruption (action d'interrompre)",
+    "tamazight": [
+      "Asnegzi ; Asemmeɣtes"
+    ]
+  },
+  {
+    "french": "Intervalle",
+    "tamazight": [
+      "Azilal"
+    ]
+  },
+  {
+    "french": "Intégration (integration)",
+    "tamazight": [
+      "Aseddu"
+    ]
+  },
+  {
+    "french": "Inverseur (inverter, reverser)",
+    "tamazight": [
+      "Amettay"
+    ]
+  },
+  {
+    "french": "Invite (prompt)",
+    "tamazight": [
+      "Aneftaɣ"
+    ]
+  },
+  {
+    "french": "Jeton (token)",
+    "tamazight": [
+      "Tiddest"
+    ]
+  },
+  {
+    "french": "Jeu (set)",
+    "tamazight": [
+      "Tagrumma"
+    ]
+  },
+  {
+    "french": "Jonction (junction)",
+    "tamazight": [
+      "Asemyagger"
+    ]
+  },
+  {
+    "french": "Journal (journal, log)",
+    "tamazight": [
+      "Aɣmis"
+    ]
+  },
+  {
+    "french": "Journalisation (logging)",
+    "tamazight": [
+      "Asniɣmes"
+    ]
+  },
+  {
+    "french": "K (Kilo)",
+    "tamazight": [
+      "Kilu"
+    ]
+  },
+  {
+    "french": "Karnaugh (tableau de, Karnaugh)",
+    "tamazight": [
+      "Tafelwit n Karnaugh"
+    ]
+  },
+  {
+    "french": "Label (label)",
+    "tamazight": [
+      "Tabzimt"
+    ]
+  },
+  {
+    "french": "Lecteur (reader)",
+    "tamazight": [
+      "Ameɣri"
+    ]
+  },
+  {
+    "french": "Lecture (read-out)",
+    "tamazight": [
+      "Taɣuri"
+    ]
+  },
+  {
+    "french": "Lexical (lexical)",
+    "tamazight": [
+      "Amawal"
+    ]
+  },
+  {
+    "french": "Liaison (link)",
+    "tamazight": [
+      "Arruz"
+    ]
+  },
+  {
+    "french": "Licence (license)",
+    "tamazight": [
+      "Turagt"
+    ]
+  },
+  {
+    "french": "Lissage (smoothing)",
+    "tamazight": [
+      "Amzay"
+    ]
+  },
+  {
+    "french": "Liste (listing)",
+    "tamazight": [
+      "Amulas"
+    ]
+  },
+  {
+    "french": "Local (adj., local)",
+    "tamazight": [
+      "Adigan"
+    ]
+  },
+  {
+    "french": "Localité (locality)",
+    "tamazight": [
+      "Tadigent"
+    ]
+  },
+  {
+    "french": "Logiciel (software)",
+    "tamazight": [
+      "Aseɣẓan"
+    ]
+  },
+  {
+    "french": "MOS (Metal Oxide Semi-conductor)",
+    "tamazight": [
+      "MOS"
+    ]
+  },
+  {
+    "french": "Machine (machine)",
+    "tamazight": [
+      "Tamacint"
+    ]
+  },
+  {
+    "french": "Macro (macro)",
+    "tamazight": [
+      "Amɣer"
+    ]
+  },
+  {
+    "french": "Macroassembleur (macroassembler)",
+    "tamazight": [
+      "Amɣersemlellay"
+    ]
+  },
+  {
+    "french": "Magnétisation (magnetization)",
+    "tamazight": [
+      "Tasedkert"
+    ]
+  },
+  {
+    "french": "Manipuler (to manipulate)",
+    "tamazight": [
+      "Sqerdec"
+    ]
+  },
+  {
+    "french": "Mantisse (mantissa)",
+    "tamazight": [
+      "Tisigert"
+    ]
+  },
+  {
+    "french": "Marquage (markup)",
+    "tamazight": [
+      "Acraḍ"
+    ]
+  },
+  {
+    "french": "Marque (tag HTML, mark)",
+    "tamazight": [
+      "Ticṛeṭ"
+    ]
+  },
+  {
+    "french": "Marquer (to mark)",
+    "tamazight": [
+      "Creḍ"
+    ]
+  },
+  {
+    "french": "Masque (mask)",
+    "tamazight": [
+      "Tagelmust"
+    ]
+  },
+  {
+    "french": "Masquer (to mask, to hide)",
+    "tamazight": [
+      "Seggelmes"
+    ]
+  },
+  {
+    "french": "Menace (threat)",
+    "tamazight": [
+      "Asḥillef"
+    ]
+  },
+  {
+    "french": "Menu (menu)",
+    "tamazight": [
+      "Umuɣ"
+    ]
+  },
+  {
+    "french": "Mettre (to put)",
+    "tamazight": [
+      "Sers"
+    ]
+  },
+  {
+    "french": "Micro-ordinateur (microcomputer)",
+    "tamazight": [
+      "Amikṛuselkim"
+    ]
+  },
+  {
+    "french": "Microlangage (microlanguage)",
+    "tamazight": [
+      "Tamikṛumeslayt"
+    ]
+  },
+  {
+    "french": "Microprogrammation (microprogramming)",
+    "tamazight": [
+      "Amikṛusihel"
+    ]
+  },
+  {
+    "french": "Microprogramme (microprogram)",
+    "tamazight": [
+      "Amikṛuhil"
+    ]
+  },
+  {
+    "french": "Mille (one thousand)",
+    "tamazight": [
+      "Agim"
+    ]
+  },
+  {
+    "french": "Millier (thousands)",
+    "tamazight": [
+      "Agim"
+    ]
+  },
+  {
+    "french": "Mis à jour (updated)",
+    "tamazight": [
+      "Yemucceḍ"
+    ]
+  },
+  {
+    "french": "Mise au point (debugging)",
+    "tamazight": [
+      "Aseɣti (voir correction)"
+    ]
+  },
+  {
+    "french": "Mise à jour (updating)",
+    "tamazight": [
+      "Amucceḍ"
+    ]
+  },
+  {
+    "french": "Modem (de modulateur-démodulateur)",
+    "tamazight": [
+      "Anajkas ; Anajmak-aksejmak ; Modem"
+    ]
+  },
+  {
+    "french": "Module binaire (binary deck)",
+    "tamazight": [
+      "Azegrir imisin"
+    ]
+  },
+  {
+    "french": "Modulateur (modulator)",
+    "tamazight": [
+      "Anajmak"
+    ]
+  },
+  {
+    "french": "Moduler (to modulate)",
+    "tamazight": [
+      "Jmek"
+    ]
+  },
+  {
+    "french": "Modèle (model)",
+    "tamazight": [
+      "Tamudemt"
+    ]
+  },
+  {
+    "french": "Monolithique (du gr. monos)",
+    "tamazight": [
+      "Aynazṛut"
+    ]
+  },
+  {
+    "french": "Monoprocesseur (one processor unit)",
+    "tamazight": [
+      "Ayensekkar"
+    ]
+  },
+  {
+    "french": "Moteur (engine)",
+    "tamazight": [
+      "Amsadday"
+    ]
+  },
+  {
+    "french": "Multiligne (multiline)",
+    "tamazight": [
+      "Agetzirig"
+    ]
+  },
+  {
+    "french": "Multimédia (multimedia)",
+    "tamazight": [
+      "Agetmedia"
+    ]
+  },
+  {
+    "french": "Multiplex (multiplex)",
+    "tamazight": [
+      "Ufti"
+    ]
+  },
+  {
+    "french": "Multiplexer (to multiplex)",
+    "tamazight": [
+      "Ssefti"
+    ]
+  },
+  {
+    "french": "Multivoie (multichannel)",
+    "tamazight": [
+      "Agetbadu"
+    ]
+  },
+  {
+    "french": "Méga (Mega)",
+    "tamazight": [
+      "Mega"
+    ]
+  },
+  {
+    "french": "Mémorisation (storage)",
+    "tamazight": [
+      "Aḥraz"
+    ]
+  },
+  {
+    "french": "Métabase (metabase)",
+    "tamazight": [
+      "Adferzadur"
+    ]
+  },
+  {
+    "french": "Méthode (method)",
+    "tamazight": [
+      "Tarrayt"
+    ]
+  },
+  {
+    "french": "NON (NOT)",
+    "tamazight": [
+      "Ur"
+    ]
+  },
+  {
+    "french": "Navigation (sur le Web, surfing)",
+    "tamazight": [
+      "Tunigin"
+    ]
+  },
+  {
+    "french": "Normaliser (to standardize)",
+    "tamazight": [
+      "Slugen"
+    ]
+  },
+  {
+    "french": "Norme (standard)",
+    "tamazight": [
+      "Alugen"
+    ]
+  },
+  {
+    "french": "Noyau (kernel)",
+    "tamazight": [
+      "Iɣes"
+    ]
+  },
+  {
+    "french": "Numérisation (digitizing)",
+    "tamazight": [
+      "Asemḍen"
+    ]
+  },
+  {
+    "french": "Négation (negation)",
+    "tamazight": [
+      "Tabawt"
+    ]
+  },
+  {
+    "french": "Objet (object)",
+    "tamazight": [
+      "Taɣawsa"
+    ]
+  },
+  {
+    "french": "Octal (adj., octal)",
+    "tamazight": [
+      "Atamḍan"
+    ]
+  },
+  {
+    "french": "Offset (offset)",
+    "tamazight": [
+      "Tiggit ; Anakaz (voir déplacement)"
+    ]
+  },
+  {
+    "french": "Ombre (shadow)",
+    "tamazight": [
+      "Tili"
+    ]
+  },
+  {
+    "french": "Onde (wave)",
+    "tamazight": [
+      "Tayyugt"
+    ]
+  },
+  {
+    "french": "Optimisation (optimization)",
+    "tamazight": [
+      "Asekkey"
+    ]
+  },
+  {
+    "french": "Optimiseur (optimizer)",
+    "tamazight": [
+      "Asekkay"
+    ]
+  },
+  {
+    "french": "Option (option)",
+    "tamazight": [
+      "Taxtiṛit"
+    ]
+  },
+  {
+    "french": "Optionnel (optional)",
+    "tamazight": [
+      "Axetṛan"
+    ]
+  },
+  {
+    "french": "Options (options)",
+    "tamazight": [
+      "Tixtiṛiyin"
+    ]
+  },
+  {
+    "french": "Opérande (operand)",
+    "tamazight": [
+      "Amhil"
+    ]
+  },
+  {
+    "french": "Opération (operation)",
+    "tamazight": [
+      "Tamhelt"
+    ]
+  },
+  {
+    "french": "Ordre (order)",
+    "tamazight": [
+      "Amizzwer"
+    ]
+  },
+  {
+    "french": "Organisation (organization)",
+    "tamazight": [
+      "Tuddsa"
+    ]
+  },
+  {
+    "french": "Page (page)",
+    "tamazight": [
+      "Asebter"
+    ]
+  },
+  {
+    "french": "Paginer (to paginate)",
+    "tamazight": [
+      "Sebter"
+    ]
+  },
+  {
+    "french": "Panne (failure, fault)",
+    "tamazight": [
+      "Taruẓi"
+    ]
+  },
+  {
+    "french": "Panneau (panel)",
+    "tamazight": [
+      "Agalis"
+    ]
+  },
+  {
+    "french": "Parallélisation d'un programme (program parallelization)",
+    "tamazight": [
+      "Asennemudeɣ n wahil"
+    ]
+  },
+  {
+    "french": "Parité (parity)",
+    "tamazight": [
+      "Tayensint"
+    ]
+  },
+  {
+    "french": "Partie adresse (address section)",
+    "tamazight": [
+      "Urti n tansa"
+    ]
+  },
+  {
+    "french": "Partition (partition)",
+    "tamazight": [
+      "Aḥric"
+    ]
+  },
+  {
+    "french": "Passerelle (gateway)",
+    "tamazight": [
+      "Tanezgert"
+    ]
+  },
+  {
+    "french": "Pastille (puce, chip)",
+    "tamazight": [
+      "Aceṛṛun"
+    ]
+  },
+  {
+    "french": "Perceptron (perceptron)",
+    "tamazight": [
+      "perceptron"
+    ]
+  },
+  {
+    "french": "Personnalisation (customizing)",
+    "tamazight": [
+      "Aggan"
+    ]
+  },
+  {
+    "french": "Perte (loss)",
+    "tamazight": [
+      "Asṛuḥu"
+    ]
+  },
+  {
+    "french": "Perturbation (perturbation)",
+    "tamazight": [
+      "Arway"
+    ]
+  },
+  {
+    "french": "Photo (photo)",
+    "tamazight": [
+      "Caccelan"
+    ]
+  },
+  {
+    "french": "Pilote (handler)",
+    "tamazight": [
+      "Anuḍaf"
+    ]
+  },
+  {
+    "french": "Pipe-line (pipeline)",
+    "tamazight": [
+      "Aselda"
+    ]
+  },
+  {
+    "french": "Piratage (fraude, hacking)",
+    "tamazight": [
+      "Tukerḍa"
+    ]
+  },
+  {
+    "french": "Pirate (hacker)",
+    "tamazight": [
+      "Amaker"
+    ]
+  },
+  {
+    "french": "Poids (weight)",
+    "tamazight": [
+      "Taẓayt"
+    ]
+  },
+  {
+    "french": "Pointer (to point)",
+    "tamazight": [
+      "Sweṛ"
+    ]
+  },
+  {
+    "french": "Pointeur (pointer)",
+    "tamazight": [
+      "Asewwaṛ"
+    ]
+  },
+  {
+    "french": "Portabilité (portability)",
+    "tamazight": [
+      "Azgay"
+    ]
+  },
+  {
+    "french": "Porte (gate)",
+    "tamazight": [
+      "Tawwurt"
+    ]
+  },
+  {
+    "french": "Pot de miel (honeypot)",
+    "tamazight": [
+      "Honeypot (Aqbuc n tamment)"
+    ]
+  },
+  {
+    "french": "Pourcentage (percentage)",
+    "tamazight": [
+      "Afmiḍi"
+    ]
+  },
+  {
+    "french": "Priorité (priority)",
+    "tamazight": [
+      "Tazwart"
+    ]
+  },
+  {
+    "french": "Processeur (processor)",
+    "tamazight": [
+      "Asekkar"
+    ]
+  },
+  {
+    "french": "Processus (process, task)",
+    "tamazight": [
+      "Akala"
+    ]
+  },
+  {
+    "french": "Procédure (procedure)",
+    "tamazight": [
+      "Tasekkirt"
+    ]
+  },
+  {
+    "french": "Produit (product)",
+    "tamazight": [
+      "Afaris"
+    ]
+  },
+  {
+    "french": "Programme (program)",
+    "tamazight": [
+      "Ahil"
+    ]
+  },
+  {
+    "french": "Programmeur (programmer)",
+    "tamazight": [
+      "Amessihel"
+    ]
+  },
+  {
+    "french": "Protocole (protocol)",
+    "tamazight": [
+      "Aneggaf"
+    ]
+  },
+  {
+    "french": "Protocole de liaison Internet (Serial Line Internet Protocol, SLIP)",
+    "tamazight": [
+      "Aneggaf SLIP ; Aneggaf n warruz n Internet"
+    ]
+  },
+  {
+    "french": "Précédence (precedence)",
+    "tamazight": [
+      "Amyezzwer"
+    ]
+  },
+  {
+    "french": "Prédicat (precondition)",
+    "tamazight": [
+      "Tazrawtilt"
+    ]
+  },
+  {
+    "french": "Prédéfini (predefined)",
+    "tamazight": [
+      "Azarbadu"
+    ]
+  },
+  {
+    "french": "Préempter (to pre-empt)",
+    "tamazight": [
+      "Snegzi"
+    ]
+  },
+  {
+    "french": "Préemption (pre-emption)",
+    "tamazight": [
+      "Asnegzi"
+    ]
+  },
+  {
+    "french": "Préfixe (champ, tag)",
+    "tamazight": [
+      "Adat"
+    ]
+  },
+  {
+    "french": "Préprocesseur (preprocessor)",
+    "tamazight": [
+      "Azarsekkar"
+    ]
+  },
+  {
+    "french": "Présenter (to present)",
+    "tamazight": [
+      "Smahi"
+    ]
+  },
+  {
+    "french": "Puce (pastille, chip)",
+    "tamazight": [
+      "Aceṛṛun"
+    ]
+  },
+  {
+    "french": "Quadruple (quad)",
+    "tamazight": [
+      "Amakuẓ"
+    ]
+  },
+  {
+    "french": "Qualité",
+    "tamazight": [
+      "Amerkid"
+    ]
+  },
+  {
+    "french": "Quantification (quantizing)",
+    "tamazight": [
+      "Asekket"
+    ]
+  },
+  {
+    "french": "Quantité (quantity)",
+    "tamazight": [
+      "Tasmekta"
+    ]
+  },
+  {
+    "french": "Quartet (four bits byte)",
+    "tamazight": [
+      "Akuzḍan"
+    ]
+  },
+  {
+    "french": "RAM (mémoire à accès aléatoire)",
+    "tamazight": [
+      "Takatut s waddaf agacuran"
+    ]
+  },
+  {
+    "french": "Raccourci (shortcut)",
+    "tamazight": [
+      "Anegzum"
+    ]
+  },
+  {
+    "french": "Raccourcir (to abbreviate)",
+    "tamazight": [
+      "Siwzel"
+    ]
+  },
+  {
+    "french": "Racine (root)",
+    "tamazight": [
+      "Azaṛ"
+    ]
+  },
+  {
+    "french": "Radiocommunications (radiocommunications)",
+    "tamazight": [
+      "Öadyu-taɣwalt"
+    ]
+  },
+  {
+    "french": "Rafraîchissement (refreshing)",
+    "tamazight": [
+      "Asismeḍ"
+    ]
+  },
+  {
+    "french": "Raisonnement (reasoning)",
+    "tamazight": [
+      "Azeɣẓen"
+    ]
+  },
+  {
+    "french": "Rallonge (extender)",
+    "tamazight": [
+      "Asaɣwzaf"
+    ]
+  },
+  {
+    "french": "Rangement (filing)",
+    "tamazight": [
+      "Ajmâ"
+    ]
+  },
+  {
+    "french": "Rappel (recall, reminder)",
+    "tamazight": [
+      "Asektu"
+    ]
+  },
+  {
+    "french": "Rapport (ratio)",
+    "tamazight": [
+      "Assaɣ"
+    ]
+  },
+  {
+    "french": "Registre (register)",
+    "tamazight": [
+      "Aseklas"
+    ]
+  },
+  {
+    "french": "Rejet (reject)",
+    "tamazight": [
+      "Tiririt"
+    ]
+  },
+  {
+    "french": "Relation (relation)",
+    "tamazight": [
+      "Assaɣ"
+    ]
+  },
+  {
+    "french": "Renouvellement (renewal)",
+    "tamazight": [
+      "Asiney"
+    ]
+  },
+  {
+    "french": "Ressource (resource)",
+    "tamazight": [
+      "Taɣbalut"
+    ]
+  },
+  {
+    "french": "Retournement (turnaround)",
+    "tamazight": [
+      "Tuzzya"
+    ]
+  },
+  {
+    "french": "Robot (robot)",
+    "tamazight": [
+      "Aṛubut"
+    ]
+  },
+  {
+    "french": "Routage (routing)",
+    "tamazight": [
+      "Aseglu"
+    ]
+  },
+  {
+    "french": "Routeur (router)",
+    "tamazight": [
+      "Ameglay"
+    ]
+  },
+  {
+    "french": "Routine (procedure)",
+    "tamazight": [
+      "Tasekkirt"
+    ]
+  },
+  {
+    "french": "Récepteur (receiver)",
+    "tamazight": [
+      "Anermas"
+    ]
+  },
+  {
+    "french": "Récursivité (recursion)",
+    "tamazight": [
+      "Asniles"
+    ]
+  },
+  {
+    "french": "Réduire (to minimize, to reduce)",
+    "tamazight": [
+      "Fneẓ"
+    ]
+  },
+  {
+    "french": "Réentrance (re-entrance)",
+    "tamazight": [
+      "Alsekcem"
+    ]
+  },
+  {
+    "french": "Réentrant (reentrant)",
+    "tamazight": [
+      "Alsekcam"
+    ]
+  },
+  {
+    "french": "Réentrer (to reenter)",
+    "tamazight": [
+      "Lsekcem"
+    ]
+  },
+  {
+    "french": "Référence (reference)",
+    "tamazight": [
+      "Tamselɣut"
+    ]
+  },
+  {
+    "french": "Répartiteur (dispatcher)",
+    "tamazight": [
+      "Azuzar"
+    ]
+  },
+  {
+    "french": "Répartition (distribution)",
+    "tamazight": [
+      "Azuzer"
+    ]
+  },
+  {
+    "french": "Répéteur (regénérateur, regenerative repeater)",
+    "tamazight": [
+      "Alsaraw"
+    ]
+  },
+  {
+    "french": "Réseau (network)",
+    "tamazight": [
+      "Azeṭṭa"
+    ]
+  },
+  {
+    "french": "Résident (resident)",
+    "tamazight": [
+      "Amezdaɣ"
+    ]
+  },
+  {
+    "french": "Résolution (resolution)",
+    "tamazight": [
+      "Ferru"
+    ]
+  },
+  {
+    "french": "Résolution (définition, resolution)",
+    "tamazight": [
+      "Tabadut"
+    ]
+  },
+  {
+    "french": "Résolveur (resolver)",
+    "tamazight": [
+      "Amafray"
+    ]
+  },
+  {
+    "french": "Réticule (cross-hair)",
+    "tamazight": [
+      "Ayerbalan"
+    ]
+  },
+  {
+    "french": "Sauvegarde (saving, back-up)",
+    "tamazight": [
+      "Aḥraz"
+    ]
+  },
+  {
+    "french": "Sauvegarder (to save)",
+    "tamazight": [
+      "Ḥrez"
+    ]
+  },
+  {
+    "french": "Schéma (diagram)",
+    "tamazight": [
+      "Azenziɣ"
+    ]
+  },
+  {
+    "french": "Script (script)",
+    "tamazight": [
+      "Askript"
+    ]
+  },
+  {
+    "french": "Scrutation (polling)",
+    "tamazight": [
+      "Tafrent"
+    ]
+  },
+  {
+    "french": "Secteur (sector)",
+    "tamazight": [
+      "Agzum"
+    ]
+  },
+  {
+    "french": "Segment (segment)",
+    "tamazight": [
+      "Iɣil"
+    ]
+  },
+  {
+    "french": "Service (service)",
+    "tamazight": [
+      "Tanfa"
+    ]
+  },
+  {
+    "french": "Signalisation (signalling)",
+    "tamazight": [
+      "Tissuknent"
+    ]
+  },
+  {
+    "french": "Simulateur (emulator)",
+    "tamazight": [
+      "Amtellal"
+    ]
+  },
+  {
+    "french": "Simuler (to simulate)",
+    "tamazight": [
+      "Serwes"
+    ]
+  },
+  {
+    "french": "Simultanéité (concurrency)",
+    "tamazight": [
+      "Anbebber"
+    ]
+  },
+  {
+    "french": "Site (site)",
+    "tamazight": [
+      "Asmel"
+    ]
+  },
+  {
+    "french": "Sockets (sockets)",
+    "tamazight": [
+      "Sockets"
+    ]
+  },
+  {
+    "french": "Sommet (vertex)",
+    "tamazight": [
+      "Taqacuct"
+    ]
+  },
+  {
+    "french": "Sortie (output)",
+    "tamazight": [
+      "Tuffɣa"
+    ]
+  },
+  {
+    "french": "Souligner (to underscore)",
+    "tamazight": [
+      "Derrer"
+    ]
+  },
+  {
+    "french": "Sous-programme (subroutine)",
+    "tamazight": [
+      "Adahil"
+    ]
+  },
+  {
+    "french": "Soustracteur (substracter)",
+    "tamazight": [
+      "Amakkas"
+    ]
+  },
+  {
+    "french": "Spécification (specification)",
+    "tamazight": [
+      "Asefru"
+    ]
+  },
+  {
+    "french": "Spécifier (to specify)",
+    "tamazight": [
+      "Ssefru"
+    ]
+  },
+  {
+    "french": "Station (dedicated terminal, stand alone)",
+    "tamazight": [
+      "Taɣsert"
+    ]
+  },
+  {
+    "french": "Statique (nom, statics)",
+    "tamazight": [
+      "Tadmest"
+    ]
+  },
+  {
+    "french": "Style (style)",
+    "tamazight": [
+      "Aɣanib"
+    ]
+  },
+  {
+    "french": "Superbloc (superblock)",
+    "tamazight": [
+      "Ifleḥder"
+    ]
+  },
+  {
+    "french": "Supercalculateur (supercomputer)",
+    "tamazight": [
+      "Afelselkim"
+    ]
+  },
+  {
+    "french": "Superviseur (supervisor)",
+    "tamazight": [
+      "Anemday"
+    ]
+  },
+  {
+    "french": "Surfer (to surf)",
+    "tamazight": [
+      "Inig"
+    ]
+  },
+  {
+    "french": "Symbole (symbol)",
+    "tamazight": [
+      "Azamul"
+    ]
+  },
+  {
+    "french": "Synchroniser (to synchronize)",
+    "tamazight": [
+      "Semtawi"
+    ]
+  },
+  {
+    "french": "Syntaxe (syntax)",
+    "tamazight": [
+      "Taseddast"
+    ]
+  },
+  {
+    "french": "Synthèse",
+    "tamazight": [
+      "Taneɣruft"
+    ]
+  },
+  {
+    "french": "Synthétiser (to synthesize)",
+    "tamazight": [
+      "Sneɣref"
+    ]
+  },
+  {
+    "french": "Synthétiseur (de parole, synthesizer)",
+    "tamazight": [
+      "Aneɣraf"
+    ]
+  },
+  {
+    "french": "Système (system)",
+    "tamazight": [
+      "Anagraw"
+    ]
+  },
+  {
+    "french": "Sécuriser (to secure)",
+    "tamazight": [
+      "Sɣelles"
+    ]
+  },
+  {
+    "french": "Sémantique (semantics)",
+    "tamazight": [
+      "Tanamekt"
+    ]
+  },
+  {
+    "french": "Sémaphore (semaphore)",
+    "tamazight": [
+      "Tileft"
+    ]
+  },
+  {
+    "french": "Séparateur (separator)",
+    "tamazight": [
+      "Anabraz"
+    ]
+  },
+  {
+    "french": "Séquence (sequence)",
+    "tamazight": [
+      "Talubbayt"
+    ]
+  },
+  {
+    "french": "Séquencement (sequencing)",
+    "tamazight": [
+      "Alkam"
+    ]
+  },
+  {
+    "french": "Séquentiel (serial, sequential)",
+    "tamazight": [
+      "Ulkim"
+    ]
+  },
+  {
+    "french": "Sérialisation (serialization)",
+    "tamazight": [
+      "Asmizrer"
+    ]
+  },
+  {
+    "french": "Sérialiser (to serialize)",
+    "tamazight": [
+      "Smizrer"
+    ]
+  },
+  {
+    "french": "Série (series)",
+    "tamazight": [
+      "Amazrar"
+    ]
+  },
+  {
+    "french": "Tableau (array)",
+    "tamazight": [
+      "Tafelwit"
+    ]
+  },
+  {
+    "french": "Taille (size)",
+    "tamazight": [
+      "Tiddi"
+    ]
+  },
+  {
+    "french": "Tas (heap)",
+    "tamazight": [
+      "Tirect"
+    ]
+  },
+  {
+    "french": "Taux (rate)",
+    "tamazight": [
+      "Atug"
+    ]
+  },
+  {
+    "french": "Technique (adj., technical)",
+    "tamazight": [
+      "Atiknit"
+    ]
+  },
+  {
+    "french": "Technique (nom, technique)",
+    "tamazight": [
+      "Tatiknit"
+    ]
+  },
+  {
+    "french": "Temps (time)",
+    "tamazight": [
+      "Akud"
+    ]
+  },
+  {
+    "french": "Test (test)",
+    "tamazight": [
+      "Akayad"
+    ]
+  },
+  {
+    "french": "Topologie (topology)",
+    "tamazight": [
+      "Taɣessa"
+    ]
+  },
+  {
+    "french": "Tore (core)",
+    "tamazight": [
+      "Akruri"
+    ]
+  },
+  {
+    "french": "Tortue (tortoise)",
+    "tamazight": [
+      "Ifker"
+    ]
+  },
+  {
+    "french": "Touche (key)",
+    "tamazight": [
+      "Taqeffalt"
+    ]
+  },
+  {
+    "french": "Traducteur (translator)",
+    "tamazight": [
+      "Amessuɣal"
+    ]
+  },
+  {
+    "french": "Traduction (du lat. traducere, translation)",
+    "tamazight": [
+      "Tasuqilt"
+    ]
+  },
+  {
+    "french": "Traitement (processing)",
+    "tamazight": [
+      "Asefser"
+    ]
+  },
+  {
+    "french": "Trame (frame)",
+    "tamazight": [
+      "Tilmi"
+    ]
+  },
+  {
+    "french": "Transcodage (transcoding)",
+    "tamazight": [
+      "Anigtengel"
+    ]
+  },
+  {
+    "french": "Transit (transit)",
+    "tamazight": [
+      "Asaka"
+    ]
+  },
+  {
+    "french": "Transiter (to send in transit)",
+    "tamazight": [
+      "Ekk"
+    ]
+  },
+  {
+    "french": "Transition (transition)",
+    "tamazight": [
+      "Asaka"
+    ]
+  },
+  {
+    "french": "Translation (relocation)",
+    "tamazight": [
+      "Anakaz"
+    ]
+  },
+  {
+    "french": "Transmettre (to transmit)",
+    "tamazight": [
+      "Azen"
+    ]
+  },
+  {
+    "french": "Transmission (communication, transmission)",
+    "tamazight": [
+      "Tuzzna"
+    ]
+  },
+  {
+    "french": "Transparence (transparency)",
+    "tamazight": [
+      "Amseɣseɣ"
+    ]
+  },
+  {
+    "french": "Transport (transport)",
+    "tamazight": [
+      "Amesni"
+    ]
+  },
+  {
+    "french": "Travail (job)",
+    "tamazight": [
+      "Amahil"
+    ]
+  },
+  {
+    "french": "Tri (sorting)",
+    "tamazight": [
+      "Afran"
+    ]
+  },
+  {
+    "french": "Tube (tube, pipe)",
+    "tamazight": [
+      "Tagwmamt"
+    ]
+  },
+  {
+    "french": "Tâche (task)",
+    "tamazight": [
+      "Tawuri"
+    ]
+  },
+  {
+    "french": "Téléconférence (teleconference)",
+    "tamazight": [
+      "Agagsarag"
+    ]
+  },
+  {
+    "french": "Télécopie (Fac simile, abr. FAX)",
+    "tamazight": [
+      "Fax ; Anɣel agwemmaḍ ; Anɣel anmeggag"
+    ]
+  },
+  {
+    "french": "Unibus (unibus)",
+    "tamazight": [
+      "Aynazrug"
+    ]
+  },
+  {
+    "french": "Unité (unit)",
+    "tamazight": [
+      "Aferdis"
+    ]
+  },
+  {
+    "french": "Valeur (value)",
+    "tamazight": [
+      "Azal"
+    ]
+  },
+  {
+    "french": "Validation (validation)",
+    "tamazight": [
+      "Aseɣbel"
+    ]
+  },
+  {
+    "french": "Validité (validity)",
+    "tamazight": [
+      "Aɣbal"
+    ]
+  },
+  {
+    "french": "Vectorisation (vectorization)",
+    "tamazight": [
+      "Tasmawayt"
+    ]
+  },
+  {
+    "french": "Virgule (point)",
+    "tamazight": [
+      "Ticcert"
+    ]
+  },
+  {
+    "french": "Vision par ordinateur (computer vision)",
+    "tamazight": [
+      "Tamuɣli s uselkim"
+    ]
+  },
+  {
+    "french": "Visualiser (to visualize)",
+    "tamazight": [
+      "Sken"
+    ]
+  },
+  {
+    "french": "Vérificateur (checker)",
+    "tamazight": [
+      "Aselkan"
+    ]
+  },
+  {
+    "french": "Vérification (verification)",
+    "tamazight": [
+      "Aselken"
+    ]
+  },
+  {
+    "french": "Web, présentation hypertextuelle de l'information",
+    "tamazight": [
+      "Web"
+    ]
+  },
+  {
+    "french": "Webmestre (Webmaster)",
+    "tamazight": [
+      "Awebɣella"
+    ]
   }
 ]
