@@ -1,0 +1,4694 @@
+[
+  {
+    "french": "Bassin",
+    "tamazight": [
+      "Abasan ; Lḥuḍ ; aḥḍun"
+    ]
+  },
+  {
+    "french": "Meule",
+    "tamazight": [
+      "Aberray ; Aɣaref"
+    ]
+  },
+  {
+    "french": "Variété d’olive",
+    "tamazight": [
+      "Acemlal"
+    ]
+  },
+  {
+    "french": "Ramasseur d’olive",
+    "tamazight": [
+      "Aɛemmal"
+    ]
+  },
+  {
+    "french": "Tas",
+    "tamazight": [
+      "Aɛemmur ; Tirect"
+    ]
+  },
+  {
+    "french": "Cahute où l’on dépose les olives",
+    "tamazight": [
+      "Aɛric"
+    ]
+  },
+  {
+    "french": "Balayures, ordures",
+    "tamazight": [
+      "Afras"
+    ]
+  },
+  {
+    "french": "Branche",
+    "tamazight": [
+      "Afurek"
+    ]
+  },
+  {
+    "french": "Tuyau",
+    "tamazight": [
+      "Aǧeɛbub"
+    ]
+  },
+  {
+    "french": "Pas encore mûre (olives)",
+    "tamazight": [
+      "Aɣiɣa"
+    ]
+  },
+  {
+    "french": "Bassin de décantation (fabrication de l’huile)",
+    "tamazight": [
+      "Aḥḍun ; Abasan ; lḥuḍ"
+    ]
+  },
+  {
+    "french": "Olivier sauvage",
+    "tamazight": [
+      "Aḥeccad ; Azebbuj"
+    ]
+  },
+  {
+    "french": "Noyau",
+    "tamazight": [
+      "Amegruc ; Iɣes"
+    ]
+  },
+  {
+    "french": "Baguette servant à battre la laine pour la débarrasser de sa poussière",
+    "tamazight": [
+      "Ameḥbak ; Amezway"
+    ]
+  },
+  {
+    "french": "Salarié",
+    "tamazight": [
+      "Amestajer"
+    ]
+  },
+  {
+    "french": "Les olives les plus éloignés de l’arbre",
+    "tamazight": [
+      "Ameṭṭawec"
+    ]
+  },
+  {
+    "french": "Gaule crochue (pour cueillir)",
+    "tamazight": [
+      "Amextaf ; Imelwi"
+    ]
+  },
+  {
+    "french": "Jus noirâtre aqueux qui s’écoule des tas d’olives avant que celles-ci passent au pressoir",
+    "tamazight": [
+      "Amurej"
+    ]
+  },
+  {
+    "french": "Grande corbeille en roseaux, en osier, etc",
+    "tamazight": [
+      "Aqecwal"
+    ]
+  },
+  {
+    "french": "Meule (de moulin)",
+    "tamazight": [
+      "Aɣaref ; Aberray"
+    ]
+  },
+  {
+    "french": "Olives écrasées, pâte d’olive écrasées",
+    "tamazight": [
+      "Arebbuz"
+    ]
+  },
+  {
+    "french": "Variété d’olivier à gros fruit",
+    "tamazight": [
+      "Aserraǧi"
+    ]
+  },
+  {
+    "french": "Rejeton ; nouvelle pousse",
+    "tamazight": [
+      "Axalaf"
+    ]
+  },
+  {
+    "french": "Variété d’olive",
+    "tamazight": [
+      "Azebli"
+    ]
+  },
+  {
+    "french": "Olives. Olivier greffé",
+    "tamazight": [
+      "Azemmur"
+    ]
+  },
+  {
+    "french": "Marchand d’huile d’olive",
+    "tamazight": [
+      "Azeyyat"
+    ]
+  },
+  {
+    "french": "Presser",
+    "tamazight": [
+      "Berres ; Ɛser"
+    ]
+  },
+  {
+    "french": "Branches basses qui pendent",
+    "tamazight": [
+      "Cceṭṭ ; Afurek"
+    ]
+  },
+  {
+    "french": "Egrapper. Effeuiller. Eplucher en tirant de la main fermée",
+    "tamazight": [
+      "Crew"
+    ]
+  },
+  {
+    "french": "Presser, serrer",
+    "tamazight": [
+      "Ɛser ; Berres"
+    ]
+  },
+  {
+    "french": "Moudre",
+    "tamazight": [
+      "Eẓd"
+    ]
+  },
+  {
+    "french": "Enclore de haie",
+    "tamazight": [
+      "Freg ; ẓerreb"
+    ]
+  },
+  {
+    "french": "Emonder ; nettoyer",
+    "tamazight": [
+      "Fres"
+    ]
+  },
+  {
+    "french": "Ruisseau, torrent",
+    "tamazight": [
+      "Igmir"
+    ]
+  },
+  {
+    "french": "Baguette qui sert à battre la lavée",
+    "tamazight": [
+      "Imezwi – amezwi ; Ameḥbak"
+    ]
+  },
+  {
+    "french": "Cuve maçonnée pour écraser les olives",
+    "tamazight": [
+      "Lberka ; Aḥḍun"
+    ]
+  },
+  {
+    "french": "Pressoir à huile",
+    "tamazight": [
+      "Lebris ; Lemɛinsra"
+    ]
+  },
+  {
+    "french": "Décalitre",
+    "tamazight": [
+      "Lɛesra"
+    ]
+  },
+  {
+    "french": "Moulin à huile, qui écrase et triture les olives",
+    "tamazight": [
+      "Lemɛinsra ; Lebris"
+    ]
+  },
+  {
+    "french": "Grands ciseaux. Cisailles. Sécateur",
+    "tamazight": [
+      "Lemqes"
+    ]
+  },
+  {
+    "french": "Greffer. Souder (bout à bout)",
+    "tamazight": [
+      "Leqqem"
+    ]
+  },
+  {
+    "french": "Récolte (olives)",
+    "tamazight": [
+      "Lɣella"
+    ]
+  },
+  {
+    "french": "Bien foncier communal",
+    "tamazight": [
+      "Lmecmel -- ccmel"
+    ]
+  },
+  {
+    "french": "Bouture de figuier, d’arbre fruitier",
+    "tamazight": [
+      "Nnqel"
+    ]
+  },
+  {
+    "french": "Quantité de chose qui vont être traitées d’un coup, en une fois (en travaux agricoles ; gerbe sur l’aire, olive à écraser au moulin)",
+    "tamazight": [
+      "Rremya (ṛṛemya)"
+    ]
+  },
+  {
+    "french": "Grignons",
+    "tamazight": [
+      "Rrisas (ṛṛiṣaṣ)"
+    ]
+  },
+  {
+    "french": "Première quantité d’olive à écraser au moulin",
+    "tamazight": [
+      "Rruma (ṛṛuma)"
+    ]
+  },
+  {
+    "french": "Faire quelque chose fréquemment et en petites quantités (transporter, manger…). Répéter l’opération de la récolte",
+    "tamazight": [
+      "Sniger"
+    ]
+  },
+  {
+    "french": "Récolte abondante",
+    "tamazight": [
+      "Ssaba (ṣṣaba)"
+    ]
+  },
+  {
+    "french": "Grand plat en terre",
+    "tamazight": [
+      "Tabaqit"
+    ]
+  },
+  {
+    "french": "Bouture prélevée sur une branche",
+    "tamazight": [
+      "Tagust ; Nnqel"
+    ]
+  },
+  {
+    "french": "Bassin de décantation (fabrication de l’huile)",
+    "tamazight": [
+      "Taḥḍunt"
+    ]
+  },
+  {
+    "french": "Jeune plant (souvent jeune olivier) greffé",
+    "tamazight": [
+      "Taleqqamt"
+    ]
+  },
+  {
+    "french": "Greffe",
+    "tamazight": [
+      "Taleqqamt ; Taxlalt"
+    ]
+  },
+  {
+    "french": "Hachette",
+    "tamazight": [
+      "Taqabact ; Taferrast"
+    ]
+  },
+  {
+    "french": "Corbeille en roseaux, en osier, etc",
+    "tamazight": [
+      "Taqecwalt"
+    ]
+  },
+  {
+    "french": "Olivier greffé",
+    "tamazight": [
+      "Tazemmurt"
+    ]
+  },
+  {
+    "french": "Peau (de fruit, de légume)",
+    "tamazight": [
+      "Ticlemt"
+    ]
+  },
+  {
+    "french": "Portion de travail agricole (moisson, sarclage, récolte d’olives, etc.)",
+    "tamazight": [
+      "Tirni"
+    ]
+  },
+  {
+    "french": "Couffin en alfa ; scourtin du moulin à olives",
+    "tamazight": [
+      "Tisnit"
+    ]
+  },
+  {
+    "french": "La greffe en écussion",
+    "tamazight": [
+      "Ṭṭabeɛ"
+    ]
+  },
+  {
+    "french": "Terre argileuse",
+    "tamazight": [
+      "Uzwiɣ"
+    ]
+  },
+  {
+    "french": "Presser. Serrer pour extraire le jus",
+    "tamazight": [
+      "Ẓmi ; Berres ; ɛser"
+    ]
+  },
+  {
+    "french": "Gauler ; secouer",
+    "tamazight": [
+      "Zwi"
+    ]
+  },
+  {
+    "french": "Huile d’olive",
+    "tamazight": [
+      "Zzit"
+    ]
+  },
+  {
+    "french": "Raisin",
+    "tamazight": [
+      "Aḍil ; Tiẓurin"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil ameski"
+    ]
+  },
+  {
+    "french": "Raisin-dattier (variété",
+    "tamazight": [
+      "long, blanc) : Aḍil n leɛdari"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil n uzger"
+    ]
+  },
+  {
+    "french": "Variété de raisin (blanc, petit, aux grains serrés, sucré)",
+    "tamazight": [
+      "Aḍil n wafrara"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil timessasin"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil tizeggaɣin"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil uberkan"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil umellal"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Aḍil umeqqran"
+    ]
+  },
+  {
+    "french": "Berceau de vigne, treille placée sur des piquets",
+    "tamazight": [
+      "Aɛric"
+    ]
+  },
+  {
+    "french": "Grappe de raisin",
+    "tamazight": [
+      "Agazu -- agazi"
+    ]
+  },
+  {
+    "french": "Vigne grimpant sur un arbre",
+    "tamazight": [
+      "Ajgagal"
+    ]
+  },
+  {
+    "french": "Variété de raisin noir",
+    "tamazight": [
+      "Axaled"
+    ]
+  },
+  {
+    "french": "Débroussaillage, taille des arbres, émondage",
+    "tamazight": [
+      "Aẓbar"
+    ]
+  },
+  {
+    "french": "Raisin vert",
+    "tamazight": [
+      "Aẓberbur"
+    ]
+  },
+  {
+    "french": "Vigne sauvage. Lambruche",
+    "tamazight": [
+      "Aẓberbur"
+    ]
+  },
+  {
+    "french": "vigne (qui ne se cultive généralement qu’en treille sur des piquets ou grimpant sur un arbre)",
+    "tamazight": [
+      "Ddalya"
+    ]
+  },
+  {
+    "french": "Bourgeon de vigne",
+    "tamazight": [
+      "Lɛin"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Leḥmer buɛemmer"
+    ]
+  },
+  {
+    "french": "Vinaigre",
+    "tamazight": [
+      "Lxeld"
+    ]
+  },
+  {
+    "french": "Vigne basse, non grimpante",
+    "tamazight": [
+      "Taferrant (tafeṛṛant)"
+    ]
+  },
+  {
+    "french": "Variété de raisin",
+    "tamazight": [
+      "Tibbucin n temcict"
+    ]
+  },
+  {
+    "french": "Raisin (coll.). Treille de vigne",
+    "tamazight": [
+      "Tiẓurin ; Aḍil"
+    ]
+  },
+  {
+    "french": "Variété de raisin petit et sucré",
+    "tamazight": [
+      "Tiẓurin n tferrant"
+    ]
+  },
+  {
+    "french": "Raisin sec",
+    "tamazight": [
+      "Zbib"
+    ]
+  },
+  {
+    "french": "Débroussailler",
+    "tamazight": [
+      "Ẓebber"
+    ]
+  },
+  {
+    "french": "Variété de figue précoce ; figue-fleur",
+    "tamazight": [
+      "Abakur"
+    ]
+  },
+  {
+    "french": "Variété précoce dite précoce noire",
+    "tamazight": [
+      "Abakur aberkan"
+    ]
+  },
+  {
+    "french": "Variété précoce dite précoce blanche",
+    "tamazight": [
+      "Abakur amellal"
+    ]
+  },
+  {
+    "french": "Excavation",
+    "tamazight": [
+      "Abeḥbuḥ ; Axjiḍ"
+    ]
+  },
+  {
+    "french": "Variété de figues noire allongée",
+    "tamazight": [
+      "Abelɣenǧur ; Abuɛenqiq"
+    ]
+  },
+  {
+    "french": "Nom d’un figuier dont le fruit, malgré sa maturité, apparait extérieurement vert",
+    "tamazight": [
+      "Aberzegzaw"
+    ]
+  },
+  {
+    "french": "Nom d’un figuier dont le fruit a une peau épaisse et rugueuse",
+    "tamazight": [
+      "Abuḥercaw"
+    ]
+  },
+  {
+    "french": "Nom d’un figuier dont la chair du fruit est rouge, sanguine (grenat)",
+    "tamazight": [
+      "Aburemman"
+    ]
+  },
+  {
+    "french": "Petites pousses de figuier ou de frêne",
+    "tamazight": [
+      "Abusker"
+    ]
+  },
+  {
+    "french": "Nom d’un figuier dont la peau du fruit est rougeâtre",
+    "tamazight": [
+      "Abuzeggaɣ"
+    ]
+  },
+  {
+    "french": "Variété de figuier",
+    "tamazight": [
+      "Acamlal"
+    ]
+  },
+  {
+    "french": "Double panier en sparterie pour transport sur bête de somme",
+    "tamazight": [
+      "Acwari"
+    ]
+  },
+  {
+    "french": "Fécondation des figuiers",
+    "tamazight": [
+      "Adekker"
+    ]
+  },
+  {
+    "french": "Figues mâles, caprifiguiers",
+    "tamazight": [
+      "Adekkar"
+    ]
+  },
+  {
+    "french": "Alignement, arrangement, étalage",
+    "tamazight": [
+      "Aderrec"
+    ]
+  },
+  {
+    "french": "pédoncule, pédicule, régime, grappe (Queue d’une figue, d’un fruit en général)",
+    "tamazight": [
+      "Aɛenqud"
+    ]
+  },
+  {
+    "french": "Rangée, série discontinue de choses diverses en relief ; un rang de fèves ; les dénis d’un peigne à coiffer claie de roseau",
+    "tamazight": [
+      "Aferrug ; Tadnect"
+    ]
+  },
+  {
+    "french": "Balayures, ordures",
+    "tamazight": [
+      "Afrasen"
+    ]
+  },
+  {
+    "french": "Roseau",
+    "tamazight": [
+      "Aɣanim"
+    ]
+  },
+  {
+    "french": "Variété de figues blanches",
+    "tamazight": [
+      "Aɣanim"
+    ]
+  },
+  {
+    "french": "Acheter les denrées de première nécessité (céréales, légumes secs, figues, huile, sel)",
+    "tamazight": [
+      "Aǧǧew – ajew"
+    ]
+  },
+  {
+    "french": "Etre creux ; être desséché intérieurement et extérieurement (fruit)",
+    "tamazight": [
+      "Aɣujaj"
+    ]
+  },
+  {
+    "french": "Figue sèche non tendre",
+    "tamazight": [
+      "Aɣulal"
+    ]
+  },
+  {
+    "french": "Figue sèche",
+    "tamazight": [
+      "Aḥbub ; iniɣem"
+    ]
+  },
+  {
+    "french": "Variété de figues",
+    "tamazight": [
+      "Aḥerri"
+    ]
+  },
+  {
+    "french": "Variété de figues noires très appréciées",
+    "tamazight": [
+      "Ajanǧar -- ajenjar"
+    ]
+  },
+  {
+    "french": "Jarre à provisions sèches (orge, fèves, caroubes, figues)",
+    "tamazight": [
+      "Akufi"
+    ]
+  },
+  {
+    "french": "Chapelet",
+    "tamazight": [
+      "Ameɛlaq"
+    ]
+  },
+  {
+    "french": "Construction en roseau dans laquelle on met les figues avant de les rentrer",
+    "tamazight": [
+      "Amisur (amiṣuṛ)"
+    ]
+  },
+  {
+    "french": "Figues pas mûre",
+    "tamazight": [
+      "Aqerquc"
+    ]
+  },
+  {
+    "french": "Défaire, étirer (la laine) ; étaler (les claies sur le séchoir)",
+    "tamazight": [
+      "Asefsu"
+    ]
+  },
+  {
+    "french": "Variété de figues",
+    "tamazight": [
+      "Aselṭani"
+    ]
+  },
+  {
+    "french": "Vilaines petites figues",
+    "tamazight": [
+      "Axerbuc"
+    ]
+  },
+  {
+    "french": "D’automne",
+    "tamazight": [
+      "Axerfi"
+    ]
+  },
+  {
+    "french": "Variété de figues noires",
+    "tamazight": [
+      "Azagur n yilef"
+    ]
+  },
+  {
+    "french": "Variété de figues",
+    "tamazight": [
+      "Azɛic"
+    ]
+  },
+  {
+    "french": "Figues mâles. Figuiers mâles",
+    "tamazight": [
+      "Ddekkar"
+    ]
+  },
+  {
+    "french": "Féconder les figuiers, accrocher des caprifiguiers pour la fécondation",
+    "tamazight": [
+      "Dekker"
+    ]
+  },
+  {
+    "french": "Déchausser les figuiers",
+    "tamazight": [
+      "Ɛerri"
+    ]
+  },
+  {
+    "french": "Tisser. Tresser",
+    "tamazight": [
+      "Ezḍ"
+    ]
+  },
+  {
+    "french": "Etre égrené ; émietté",
+    "tamazight": [
+      "Fruri"
+    ]
+  },
+  {
+    "french": "Défaire ; étirer (la laine)",
+    "tamazight": [
+      "Fsu"
+    ]
+  },
+  {
+    "french": "Claie de roseaux, de baguettes de grenadier, d’olivier sauvage, utilisée pour le séchage des figues ; couverture de chaume contre la pluie",
+    "tamazight": [
+      "Idni -- adni"
+    ]
+  },
+  {
+    "french": "Trou",
+    "tamazight": [
+      "Amruj"
+    ]
+  },
+  {
+    "french": "Scabieuse",
+    "tamazight": [
+      "Imettizwel"
+    ]
+  },
+  {
+    "french": "Figue sèche",
+    "tamazight": [
+      "Iniɣem ; Aɛeqqa n tazart ; aḥbub"
+    ]
+  },
+  {
+    "french": "Jardin. Verger",
+    "tamazight": [
+      "Lejnan"
+    ]
+  },
+  {
+    "french": "Aiguille grosse et longue munie d’un chas pour enfiler sur un lien souple (ameɛlaq) des morceaux de viande",
+    "tamazight": [
+      "Lemcek -- lemcekk"
+    ]
+  },
+  {
+    "french": "Différents genres de figuiers particulièrement aẓɛic, abuḥercaw, abuzeggaɣ, etc",
+    "tamazight": [
+      "Lerḥayeḍ"
+    ]
+  },
+  {
+    "french": "Figues fraîches",
+    "tamazight": [
+      "Lexrif ; Tibexsisin"
+    ]
+  },
+  {
+    "french": "Sève. Latex du figuier",
+    "tamazight": [
+      "Lliqa"
+    ]
+  },
+  {
+    "french": "Glaner. Ramasser (olive, figues)",
+    "tamazight": [
+      "Lqeḍ"
+    ]
+  },
+  {
+    "french": "Graisse fondue du mouton de la fête",
+    "tamazight": [
+      "Lwetk"
+    ]
+  },
+  {
+    "french": "Cueillir (des fruits)",
+    "tamazight": [
+      "Lwi"
+    ]
+  },
+  {
+    "french": "Gaule pour cueillir des figues, terminée par un crochet",
+    "tamazight": [
+      "Melwi -- imelwi ; Amextaf"
+    ]
+  },
+  {
+    "french": "Variété de figues noires",
+    "tamazight": [
+      "Mm zzit"
+    ]
+  },
+  {
+    "french": "Produire plus ou meilleur qu’un autre. Regorger, déborder",
+    "tamazight": [
+      "Nhel"
+    ]
+  },
+  {
+    "french": "Plant repiqué",
+    "tamazight": [
+      "Nneqla"
+    ]
+  },
+  {
+    "french": "Rafler, prendre en totalité. Etre épuisé, vidé, nettoyé",
+    "tamazight": [
+      "Qucc"
+    ]
+  },
+  {
+    "french": "Défaire ; étirer (la laine) ; étaler (les claies sur les séchoir)",
+    "tamazight": [
+      "Sefsu"
+    ]
+  },
+  {
+    "french": "Commencer â être mûre, mûrir de bonne heure (fruit), débuter, commencer par",
+    "tamazight": [
+      "Semḍi"
+    ]
+  },
+  {
+    "french": "Placer, mettre les claies les unes sur les autres",
+    "tamazight": [
+      "Semnenni"
+    ]
+  },
+  {
+    "french": "Transvaser, vidé, versé le. contenu d’une claie sur une autre claie",
+    "tamazight": [
+      "Semrureg"
+    ]
+  },
+  {
+    "french": "Etre attaqué par les vers ; être véreux",
+    "tamazight": [
+      "Sleb (ṣleb)"
+    ]
+  },
+  {
+    "french": "Protéger",
+    "tamazight": [
+      "Sun (Ṣun)"
+    ]
+  },
+  {
+    "french": "Le figuier qui donne les figues précoce ; figues-fleurs",
+    "tamazight": [
+      "Tabakurt"
+    ]
+  },
+  {
+    "french": "Variété de figuier (donne des figues petites)",
+    "tamazight": [
+      "Tabelluḍt"
+    ]
+  },
+  {
+    "french": "Figue fraîche",
+    "tamazight": [
+      "Tabexsist"
+    ]
+  },
+  {
+    "french": "Variété de petites figues",
+    "tamazight": [
+      "Tabuskurt"
+    ]
+  },
+  {
+    "french": "Variété de figues plates",
+    "tamazight": [
+      "Tabuyeḥbult"
+    ]
+  },
+  {
+    "french": "Figuier mâle",
+    "tamazight": [
+      "Tadekkart"
+    ]
+  },
+  {
+    "french": "Nome d’un figuier dont le fruit en pleine maturité est de couleur cendrée",
+    "tamazight": [
+      "Taḍfayt -- taḍfit"
+    ]
+  },
+  {
+    "french": "Variété de belles figues blanches qui se font sécher",
+    "tamazight": [
+      "Taɛemrit -- taɛrmriwt"
+    ]
+  },
+  {
+    "french": "Variété de figues (un peu plus petite que l’espèce appelée aɣanim)",
+    "tamazight": [
+      "Taɣanimt"
+    ]
+  },
+  {
+    "french": "Variété de figues blanches à peau épaisse",
+    "tamazight": [
+      "Taɣliḍt"
+    ]
+  },
+  {
+    "french": "Figuier",
+    "tamazight": [
+      "Tameɣrust"
+    ]
+  },
+  {
+    "french": "Plantation",
+    "tamazight": [
+      "Tamɣersit"
+    ]
+  },
+  {
+    "french": "Figuier",
+    "tamazight": [
+      "Taneqlet ; Tameɣrust"
+    ]
+  },
+  {
+    "french": "Début de la récolte des figues",
+    "tamazight": [
+      "Tasemḍit"
+    ]
+  },
+  {
+    "french": "Aiguille de bois épine servant d’épingle. Ardillon de bouche de ceinture",
+    "tamazight": [
+      "Taxellalt"
+    ]
+  },
+  {
+    "french": "Maladie de figuier qui se dessèche",
+    "tamazight": [
+      "Tayilalt"
+    ]
+  },
+  {
+    "french": "Figues sèches",
+    "tamazight": [
+      "Tazart ; Iniɣem ; aḥbub"
+    ]
+  },
+  {
+    "french": "Figue qui se vend à des fins industrielles",
+    "tamazight": [
+      "Tazart n leɛraqi"
+    ]
+  },
+  {
+    "french": "Différents figuiers azɛic abuḥercaw, abuzeggaɣ... dont le fruit mûrissant assez tôt n’est recherché que pour être consommé frais",
+    "tamazight": [
+      "Tazart n lerḥayeḍ"
+    ]
+  },
+  {
+    "french": "Figues destinées à la consommation familiale",
+    "tamazight": [
+      "Tazart n lɛula"
+    ]
+  },
+  {
+    "french": "Variété de figues",
+    "tamazight": [
+      "Taẓayect"
+    ]
+  },
+  {
+    "french": "Pile de claies pour le séchage des figues. Ensemble de claies rassemblées en un endroit",
+    "tamazight": [
+      "Tiɣbirt"
+    ]
+  },
+  {
+    "french": "Bordure",
+    "tamazight": [
+      "Timetrurut"
+    ]
+  },
+  {
+    "french": "Couche (de quelque chose qu’on étend ou qui recouvre)",
+    "tamazight": [
+      "Tisi -- tissi"
+    ]
+  },
+  {
+    "french": "Parcelle de terrain plat pour culture ou pour séchoir de figues",
+    "tamazight": [
+      "Ṭṭerḥa"
+    ]
+  },
+  {
+    "french": "Variété d’herbe qui entre dans la composition du plat appelé taqfalt",
+    "tamazight": [
+      "Tuẓẓimt"
+    ]
+  },
+  {
+    "french": "Figues hâtives",
+    "tamazight": [
+      "Urgal -- urgel"
+    ]
+  },
+  {
+    "french": "Verger, particulièrement de figuiers",
+    "tamazight": [
+      "Urti"
+    ]
+  },
+  {
+    "french": "Cueillir, manger des figues fraîches",
+    "tamazight": [
+      "Xerref"
+    ]
+  },
+  {
+    "french": "Presser, mettre sous presse",
+    "tamazight": [
+      "Zdem"
+    ]
+  },
+  {
+    "french": "Duvet, poil, moisissures",
+    "tamazight": [
+      "Zɣeb cciṭan"
+    ]
+  },
+  {
+    "french": "Suc qui coule au nombril de la figue fraîche et qui reste durci sur la figue sèche",
+    "tamazight": [
+      "Zzgig"
+    ]
+  },
+  {
+    "french": "Tirage d’origine",
+    "tamazight": [
+      "Acettel"
+    ]
+  },
+  {
+    "french": "Branche (d’arbre). Branche porte-rameaux",
+    "tamazight": [
+      "Afurek"
+    ]
+  },
+  {
+    "french": "Régime de dattes",
+    "tamazight": [
+      "Aɛerjun"
+    ]
+  },
+  {
+    "french": "Tige, pousse, longue tige, jeune branche",
+    "tamazight": [
+      "Agaḍer"
+    ]
+  },
+  {
+    "french": "Jeune arbre, jeune rejeton d’arbre",
+    "tamazight": [
+      "Aleclac"
+    ]
+  },
+  {
+    "french": "Greffage",
+    "tamazight": [
+      "Aleqqem"
+    ]
+  },
+  {
+    "french": "Tuteur porteur de branches très chargées de fruits",
+    "tamazight": [
+      "Amejdar"
+    ]
+  },
+  {
+    "french": "Tardif (fruit, récolte ; enfant, etc)",
+    "tamazight": [
+      "Aqlib"
+    ]
+  },
+  {
+    "french": "Commencer à produire (arbre)",
+    "tamazight": [
+      "Ɛellem"
+    ]
+  },
+  {
+    "french": "Tirer son origine ; descendre de",
+    "tamazight": [
+      "Cettel"
+    ]
+  },
+  {
+    "french": "Branche coupée assez courte. (tige de céréale ; anneau d’oreille.)",
+    "tamazight": [
+      "Ileɣ -- illeɣ"
+    ]
+  },
+  {
+    "french": "Fil de fer (assez fin). Baguette de grenadier",
+    "tamazight": [
+      "Ileẓwi"
+    ]
+  },
+  {
+    "french": "Jeune pousse",
+    "tamazight": [
+      "Isegmi"
+    ]
+  },
+  {
+    "french": "Cerisier non greffé ; merisier, et fruits",
+    "tamazight": [
+      "Areḍlim -- aneḍrim -- aneṭrim"
+    ]
+  },
+  {
+    "french": "Frêne",
+    "tamazight": [
+      "Aslen"
+    ]
+  },
+  {
+    "french": "Racine",
+    "tamazight": [
+      "Aẓar"
+    ]
+  },
+  {
+    "french": "Branches garnies de feuilles, branchages",
+    "tamazight": [
+      "Ccḍeb"
+    ]
+  },
+  {
+    "french": "Salade",
+    "tamazight": [
+      "Cclaḍa"
+    ]
+  },
+  {
+    "french": "Oranges. Orangers",
+    "tamazight": [
+      "Ččina"
+    ]
+  },
+  {
+    "french": "Cerises. Cerisiers",
+    "tamazight": [
+      "Ḥeblemluk"
+    ]
+  },
+  {
+    "french": "Etre sauvage, non fieffé (arbre). Ere improductif. Ne pas profiter de la nourriture ; rester malingre, chétif",
+    "tamazight": [
+      "Ḥecced"
+    ]
+  },
+  {
+    "french": "Aubépine",
+    "tamazight": [
+      "Idmim"
+    ]
+  },
+  {
+    "french": "Feuilles, feuillage",
+    "tamazight": [
+      "Ifer"
+    ]
+  },
+  {
+    "french": "Prunes",
+    "tamazight": [
+      "Lberquq"
+    ]
+  },
+  {
+    "french": "Prunes sauvages ; prunellier",
+    "tamazight": [
+      "Lberquq n wuccen"
+    ]
+  },
+  {
+    "french": "Tronc d’arbre",
+    "tamazight": [
+      "Lǧedra"
+    ]
+  },
+  {
+    "french": "Plantation de jeunes figuiers",
+    "tamazight": [
+      "Lɣers"
+    ]
+  },
+  {
+    "french": "Fruit",
+    "tamazight": [
+      "Lfakya"
+    ]
+  },
+  {
+    "french": "Alfa ; sparte (graminacée",
+    "tamazight": [
+      "stipa tenacissima : Lḥelfa"
+    ]
+  },
+  {
+    "french": "Citron",
+    "tamazight": [
+      "Llim"
+    ]
+  },
+  {
+    "french": "Abricots. Abricotiers",
+    "tamazight": [
+      "Lmecmac"
+    ]
+  },
+  {
+    "french": "Noix",
+    "tamazight": [
+      "Lǧuz"
+    ]
+  },
+  {
+    "french": "Amandes",
+    "tamazight": [
+      "Lluz"
+    ]
+  },
+  {
+    "french": "Pêches. Pêchers",
+    "tamazight": [
+      "Lxux"
+    ]
+  },
+  {
+    "french": "Marcottes, tiges tendre de feuilles ou de fleurs de courge",
+    "tamazight": [
+      "Leqlum"
+    ]
+  },
+  {
+    "french": "Marcotter",
+    "tamazight": [
+      "Rekkel"
+    ]
+  },
+  {
+    "french": "Grenade, fruit. Grenadier",
+    "tamazight": [
+      "Rremman"
+    ]
+  },
+  {
+    "french": "Grain, unité d’espèce",
+    "tamazight": [
+      "Taɛeqqayt"
+    ]
+  },
+  {
+    "french": "Coing. Cognassier, arbre fruitier",
+    "tamazight": [
+      "Taktuniya"
+    ]
+  },
+  {
+    "french": "Marcottage",
+    "tamazight": [
+      "Tterkil"
+    ]
+  },
+  {
+    "french": "Arbre",
+    "tamazight": [
+      "Ttejra"
+    ]
+  },
+  {
+    "french": "Poirier ; poire",
+    "tamazight": [
+      "Tifirest"
+    ]
+  },
+  {
+    "french": "Petite pousse d’arbre, branchette, bouture (notamment de figuier)",
+    "tamazight": [
+      "Tiskert"
+    ]
+  },
+  {
+    "french": "Etre gorgé de suc (fruit)",
+    "tamazight": [
+      "Tmer"
+    ]
+  },
+  {
+    "french": "Pommes",
+    "tamazight": [
+      "Tteffaḥ"
+    ]
+  },
+  {
+    "french": "Greffe ; action de greffer",
+    "tamazight": [
+      "Ttelqim"
+    ]
+  },
+  {
+    "french": "Planter",
+    "tamazight": [
+      "Ẓẓu"
+    ]
+  },
+  {
+    "french": "Chose situé dans la propriété d’un autre et réservée lors d’un partage ou d’une vente",
+    "tamazight": [
+      "Abandu"
+    ]
+  },
+  {
+    "french": "Bon jardinier, spécialiste (rare)",
+    "tamazight": [
+      "Abeḥḥar"
+    ]
+  },
+  {
+    "french": "Bottelage",
+    "tamazight": [
+      "Abewweṭ ; Amerres ; Tuqqna"
+    ]
+  },
+  {
+    "french": "Non arrosé, sans eau, qui n’a pas besoin d’eau",
+    "tamazight": [
+      "Abeɛli"
+    ]
+  },
+  {
+    "french": "Hivernal ; d’hiver",
+    "tamazight": [
+      "Acetwi"
+    ]
+  },
+  {
+    "french": "Fleur",
+    "tamazight": [
+      "Ajeǧǧig"
+    ]
+  },
+  {
+    "french": "Terre en friche",
+    "tamazight": [
+      "Asuki"
+    ]
+  },
+  {
+    "french": "Jeune pousse",
+    "tamazight": [
+      "Aweqwaq"
+    ]
+  },
+  {
+    "french": "Olivette. Champ d’olivier",
+    "tamazight": [
+      "Aɛerqub"
+    ]
+  },
+  {
+    "french": "Tige tendre de certaines plantes",
+    "tamazight": [
+      "Aɣeddu"
+    ]
+  },
+  {
+    "french": "Jeun pousse",
+    "tamazight": [
+      "Ageṭṭum"
+    ]
+  },
+  {
+    "french": "Marchand de bâts. fabricant de bâts (on dit plus souvent bu tbardiwin)",
+    "tamazight": [
+      "Abradɛi"
+    ]
+  },
+  {
+    "french": "Maladroit, malhabile",
+    "tamazight": [
+      "Abujad"
+    ]
+  },
+  {
+    "french": "Farine faite d’un mélange de gland et d’orge",
+    "tamazight": [
+      "Abumexluḍ"
+    ]
+  },
+  {
+    "french": "Grande hache",
+    "tamazight": [
+      "Acaqur"
+    ]
+  },
+  {
+    "french": "Coupe avant maturité (orge pour fourrage, cardons, roseaux, etc.)",
+    "tamazight": [
+      "Acerref"
+    ]
+  },
+  {
+    "french": "Hache pour élaguer",
+    "tamazight": [
+      "Aceṭṭab – aceṭṭabi"
+    ]
+  },
+  {
+    "french": "Vaccination",
+    "tamazight": [
+      "Acraḍ"
+    ]
+  },
+  {
+    "french": "Chaume",
+    "tamazight": [
+      "Adellas"
+    ]
+  },
+  {
+    "french": "les céréales épis avec leurs tiges (c’est-à-dire non encore dépiquées)",
+    "tamazight": [
+      "Adɣen"
+    ]
+  },
+  {
+    "french": "Traçage à la charrue du sillon préparatoire pour délimiter la parcelle à labourer",
+    "tamazight": [
+      "Aḍerref"
+    ]
+  },
+  {
+    "french": "Forgeage",
+    "tamazight": [
+      "Aḍerreq ; Asemsed"
+    ]
+  },
+  {
+    "french": "Application de la bouse de vache sur les bourgeons du figuier pour les protéger des bêtes",
+    "tamazight": [
+      "Aḍfay"
+    ]
+  },
+  {
+    "french": "Sillon. Sillon préparatoire du labourer pour délimiter les parcelles à labourer. Labour",
+    "tamazight": [
+      "Aḍref"
+    ]
+  },
+  {
+    "french": "Pâturage dans l’orge fraiche",
+    "tamazight": [
+      "Aɛdar"
+    ]
+  },
+  {
+    "french": "Engraissé",
+    "tamazight": [
+      "Aɛellaf"
+    ]
+  },
+  {
+    "french": "Allumage de grands feux contre les brouillards",
+    "tamazight": [
+      "Aɛensel (aɛenṣel)"
+    ]
+  },
+  {
+    "french": "Berceau d’herbe et de feuillage aménagé dans un arbre pour y faire la sieste ou déposer des figues",
+    "tamazight": [
+      "Aɛric"
+    ]
+  },
+  {
+    "french": "Action de passer le collier aux bœufs",
+    "tamazight": [
+      "Afekkel"
+    ]
+  },
+  {
+    "french": "Agriculteur, ouvrier agricole",
+    "tamazight": [
+      "Afellaḥ"
+    ]
+  },
+  {
+    "french": "Melon",
+    "tamazight": [
+      "Afeqqus"
+    ]
+  },
+  {
+    "french": "Plantation au bord d’une rivière",
+    "tamazight": [
+      "Afettes"
+    ]
+  },
+  {
+    "french": "Emondage, nettoyage",
+    "tamazight": [
+      "Afras"
+    ]
+  },
+  {
+    "french": "Mancheron",
+    "tamazight": [
+      "Afus n tsilet"
+    ]
+  },
+  {
+    "french": "Talus, terrain en forte déclivité. Escarpement",
+    "tamazight": [
+      "Agadir"
+    ]
+  },
+  {
+    "french": "Champ à céréales",
+    "tamazight": [
+      "Agdal"
+    ]
+  },
+  {
+    "french": "Fumer (un terrain). Salir de fumier ; salir",
+    "tamazight": [
+      "Aɣebber"
+    ]
+  },
+  {
+    "french": "Pioche",
+    "tamazight": [
+      "Agelzim"
+    ]
+  },
+  {
+    "french": "Tas ; amoncellement",
+    "tamazight": [
+      "Agemmun ; Ddersa"
+    ]
+  },
+  {
+    "french": "Tige. Fane de fèves, de petits pois, etc",
+    "tamazight": [
+      "Aɣeryun"
+    ]
+  },
+  {
+    "french": "Transport, charge",
+    "tamazight": [
+      "Aggay"
+    ]
+  },
+  {
+    "french": "Plateau",
+    "tamazight": [
+      "Agni"
+    ]
+  },
+  {
+    "french": "Sécheresse, aridité",
+    "tamazight": [
+      "Aɣurar"
+    ]
+  },
+  {
+    "french": "Bande de terrain non labouré. Parcelle d’un champ labouré oubliée par la charrue",
+    "tamazight": [
+      "Agzir -- awzir"
+    ]
+  },
+  {
+    "french": "Dépôt de détritus organique et déjection animales, qui deviennent fumier et engrais pour les jardins",
+    "tamazight": [
+      "Agudu"
+    ]
+  },
+  {
+    "french": "Cueillette, action d’amasser",
+    "tamazight": [
+      "Aḥebbeb"
+    ]
+  },
+  {
+    "french": "Laboureur",
+    "tamazight": [
+      "Aḥerrat"
+    ]
+  },
+  {
+    "french": "Faire des carrés, des planches de culture",
+    "tamazight": [
+      "Aḥewweḍ"
+    ]
+  },
+  {
+    "french": "Corde qui sert à porter une charge",
+    "tamazight": [
+      "Aḥmil ; Aseɣwen"
+    ]
+  },
+  {
+    "french": "Ce qui reste sur pied quand le fourrage a été coupé, que le bétail mange sur place. Foin",
+    "tamazight": [
+      "Ahicur"
+    ]
+  },
+  {
+    "french": "Maquis, boqueteau",
+    "tamazight": [
+      "Aḥriq"
+    ]
+  },
+  {
+    "french": "Action de couper de l’herbe, action de faucher",
+    "tamazight": [
+      "Aḥuccu"
+    ]
+  },
+  {
+    "french": "Carré, planche de culture",
+    "tamazight": [
+      "Aḥwiḍ"
+    ]
+  },
+  {
+    "french": "Tige de courge, melon ou autre",
+    "tamazight": [
+      "Ajarur"
+    ]
+  },
+  {
+    "french": "Grosse cheville qui traverse l’extrémité antérieur du timon de la charrue. C’est par elle qu’on fixe le timon au joug",
+    "tamazight": [
+      "Ajebbad"
+    ]
+  },
+  {
+    "french": "Variété de pois allongés qui ne se mangent que secs, écrasés en farine et mélangés à de la semoule",
+    "tamazight": [
+      "Ajilban"
+    ]
+  },
+  {
+    "french": "Terre (élément, matière). Sole. Bien, propriété foncière",
+    "tamazight": [
+      "Akal"
+    ]
+  },
+  {
+    "french": "Terre rugueuse",
+    "tamazight": [
+      "Akal aḥercaw"
+    ]
+  },
+  {
+    "french": "Terre boueuse",
+    "tamazight": [
+      "Akal ameqqran"
+    ]
+  },
+  {
+    "french": "Terrain très humide",
+    "tamazight": [
+      "Akal n lmerja"
+    ]
+  },
+  {
+    "french": "Maïs",
+    "tamazight": [
+      "Akbal"
+    ]
+  },
+  {
+    "french": "Déchets ; ce qui reste sur l’aire après le battage",
+    "tamazight": [
+      "Akerfa"
+    ]
+  },
+  {
+    "french": "Labourage",
+    "tamazight": [
+      "Akraz"
+    ]
+  },
+  {
+    "french": "Echeveau de laine. Cabochon de bague",
+    "tamazight": [
+      "Akubab"
+    ]
+  },
+  {
+    "french": "Bourgeonner. Produire une croûte sèche (plaie)",
+    "tamazight": [
+      "Akubbas"
+    ]
+  },
+  {
+    "french": "Bourgeonner. Produire une croûte sèche (plaie)",
+    "tamazight": [
+      "Akubes"
+    ]
+  },
+  {
+    "french": "Paille broyée (par le battage)",
+    "tamazight": [
+      "Alim"
+    ]
+  },
+  {
+    "french": "Recommencement, deuxième labour",
+    "tamazight": [
+      "Allus"
+    ]
+  },
+  {
+    "french": "Maillet ou gros bâton qui sert à décortiquer des glands, égrener du maïs",
+    "tamazight": [
+      "Amaddaz"
+    ]
+  },
+  {
+    "french": "Non dressé au labour, têtu",
+    "tamazight": [
+      "Amanun"
+    ]
+  },
+  {
+    "french": "Bœuf qui attelé à la charrue, a la mauvaise habitude de se coucher de temps à autre sous le joug",
+    "tamazight": [
+      "Amedlus"
+    ]
+  },
+  {
+    "french": "Forme d’entraide par échange de travail",
+    "tamazight": [
+      "Amedwel"
+    ]
+  },
+  {
+    "french": "Faire un second labour",
+    "tamazight": [
+      "Ameyyel (ameggel)"
+    ]
+  },
+  {
+    "french": "Berger",
+    "tamazight": [
+      "Ameksa"
+    ]
+  },
+  {
+    "french": "Pioche, outil pour piocher",
+    "tamazight": [
+      "Amenɣac -- amenqac"
+    ]
+  },
+  {
+    "french": "Mettre en tas, en botte",
+    "tamazight": [
+      "Amerres"
+    ]
+  },
+  {
+    "french": "Personne qui sarcle",
+    "tamazight": [
+      "Amessusay"
+    ]
+  },
+  {
+    "french": "Journalier ; salarié",
+    "tamazight": [
+      "Amestajer"
+    ]
+  },
+  {
+    "french": "Labour sans semailles. terrain défriché nomn ensemencé",
+    "tamazight": [
+      "Ameyyal (ameggal)"
+    ]
+  },
+  {
+    "french": "Fauchard, faucille ou serpe à long manche pour ébrancher, débroussaillé",
+    "tamazight": [
+      "Ameẓber"
+    ]
+  },
+  {
+    "french": "Sorte de versoir de charrue ou brise-mottes, deux chevilles pour écarter les mottes, élargir le sillon",
+    "tamazight": [
+      "Ameẓẓuɣ ; Asemmasu"
+    ]
+  },
+  {
+    "french": "Partie antérieur du corps de la charrue, taillée en biseau ou vient s’ajouter le soc",
+    "tamazight": [
+      "Amgarsu"
+    ]
+  },
+  {
+    "french": "Faucille à lame striée pour couper l’herbe",
+    "tamazight": [
+      "Amger"
+    ]
+  },
+  {
+    "french": "Faucille à lame striée pour couper l’herbe",
+    "tamazight": [
+      "Amger n urumi"
+    ]
+  },
+  {
+    "french": "Contrat de travail agricole par échange",
+    "tamazight": [
+      "Amriri"
+    ]
+  },
+  {
+    "french": "Pierre à aiguiser les faux, les faucilles",
+    "tamazight": [
+      "Amsed ; Lmileq"
+    ]
+  },
+  {
+    "french": "Mesure de capacité pour denrées sèches, surtout les céréales, orge, blé, d’une contenance d’environ 5 litres",
+    "tamazight": [
+      "Amud"
+    ]
+  },
+  {
+    "french": "Machine à puiser, élever l’eau ; noria. Treuil. Roue ; vis. ; ruse, hypocrisie, méchanceté sournoise, machination",
+    "tamazight": [
+      "Anaɛur -- nnaɛur ; Tagunt"
+    ]
+  },
+  {
+    "french": "Récolte du miel",
+    "tamazight": [
+      "Aneḥḥel"
+    ]
+  },
+  {
+    "french": "Fauchage",
+    "tamazight": [
+      "Anejruḍ (anejṛuḍ)"
+    ]
+  },
+  {
+    "french": "Transport, déplacement, transplantation",
+    "tamazight": [
+      "Aneqqel"
+    ]
+  },
+  {
+    "french": "Nettoyage, curetage",
+    "tamazight": [
+      "Aneqqi"
+    ]
+  },
+  {
+    "french": "Aire à battre",
+    "tamazight": [
+      "Annar"
+    ]
+  },
+  {
+    "french": "Piochage",
+    "tamazight": [
+      "Anqac"
+    ]
+  },
+  {
+    "french": "Aiguillon, long bâton avec lequel les fellahs font marcher les bœufs",
+    "tamazight": [
+      "Anzel"
+    ]
+  },
+  {
+    "french": "Pioche",
+    "tamazight": [
+      "Aqabac"
+    ]
+  },
+  {
+    "french": "Roseau fendu à une extrémité pour cueillir les figues de barbarie",
+    "tamazight": [
+      "Aqerrac"
+    ]
+  },
+  {
+    "french": "Mesure de céréales (boisseau, double décalitre)",
+    "tamazight": [
+      "Aqerwi"
+    ]
+  },
+  {
+    "french": "Gros paquet de gerbes ficelées ensembles pour être transportées à dos d’homme ou de bête de somme sur l’aire",
+    "tamazight": [
+      "Aqettun"
+    ]
+  },
+  {
+    "french": "Dernier labour, dernier ensemencement",
+    "tamazight": [
+      "Aqlib"
+    ]
+  },
+  {
+    "french": "Petit jardin sous les murs d’un village pour le jardinage de quelques légumes",
+    "tamazight": [
+      "Aqwir"
+    ]
+  },
+  {
+    "french": "Taureau ; taurillon",
+    "tamazight": [
+      "Aramul (aṛamul)"
+    ]
+  },
+  {
+    "french": "Culture faite au printemps",
+    "tamazight": [
+      "Arebɛi"
+    ]
+  },
+  {
+    "french": "Farine d’orge ou de blé grillé. (se mange avec de l’huile d’olive et du sucre.)",
+    "tamazight": [
+      "Arkul"
+    ]
+  },
+  {
+    "french": "Dépiquage, battage de céréales",
+    "tamazight": [
+      "Arwa -- aserwet"
+    ]
+  },
+  {
+    "french": "Labours préparatoires",
+    "tamazight": [
+      "Arẓu"
+    ]
+  },
+  {
+    "french": "Abondant",
+    "tamazight": [
+      "Asabi (aṣabi)"
+    ]
+  },
+  {
+    "french": "Dépouillement",
+    "tamazight": [
+      "Asḍar"
+    ]
+  },
+  {
+    "french": "Engraissage",
+    "tamazight": [
+      "Aseɛlef"
+    ]
+  },
+  {
+    "french": "Egrener, écossé, émietté. Produire",
+    "tamazight": [
+      "Asefruri"
+    ]
+  },
+  {
+    "french": "Musette-mangeoire, on la passe au cou d’un âne ou d’un cheval",
+    "tamazight": [
+      "Asegres"
+    ]
+  },
+  {
+    "french": "Corde, lien végétal",
+    "tamazight": [
+      "Aseɣwen"
+    ]
+  },
+  {
+    "french": "Battre une seconde fois les épis de blé, débarassé d’une plus grande partie de sa paille",
+    "tamazight": [
+      "Aseɣyez"
+    ]
+  },
+  {
+    "french": "Tamisage",
+    "tamazight": [
+      "Asiffi"
+    ]
+  },
+  {
+    "french": "Hutte à fourrage, à paille",
+    "tamazight": [
+      "Atemmu"
+    ]
+  },
+  {
+    "french": "Timon de la charrue",
+    "tamazight": [
+      "Atmun"
+    ]
+  },
+  {
+    "french": "Celui qui participe à une tiwizi",
+    "tamazight": [
+      "Awaziw"
+    ]
+  },
+  {
+    "french": "Période et cérémonies traditionnelles du commencement des labours",
+    "tamazight": [
+      "Aweǧǧeb"
+    ]
+  },
+  {
+    "french": "Ouvrier agricole qui obtient un cinquième",
+    "tamazight": [
+      "Axemmas"
+    ]
+  },
+  {
+    "french": "Travail sous contrat de khemmassat ; travailler chez autrui",
+    "tamazight": [
+      "Axemmes"
+    ]
+  },
+  {
+    "french": "Anneau de fixation de soc sur la charrue",
+    "tamazight": [
+      "Azag"
+    ]
+  },
+  {
+    "french": "Plaine sèche",
+    "tamazight": [
+      "Azaɣar"
+    ]
+  },
+  {
+    "french": "Joug",
+    "tamazight": [
+      "Azaglu"
+    ]
+  },
+  {
+    "french": "Massue en bois pour damer. Maillet",
+    "tamazight": [
+      "Azduz"
+    ]
+  },
+  {
+    "french": "Récolte encore verte, non mûre",
+    "tamazight": [
+      "Azegza"
+    ]
+  },
+  {
+    "french": "Epi cueilli avant maturité et grillé",
+    "tamazight": [
+      "Azellaf"
+    ]
+  },
+  {
+    "french": "Grand panier double en alfa qu’on met sur l’âne ou sur le mulet pour le transport du fumier",
+    "tamazight": [
+      "Azembil"
+    ]
+  },
+  {
+    "french": "Brindille",
+    "tamazight": [
+      "Azemẓum"
+    ]
+  },
+  {
+    "french": "Action de clôturer",
+    "tamazight": [
+      "Aẓerreb"
+    ]
+  },
+  {
+    "french": "Tenons qui relient la courroie fixant le joug au timon da la charrue",
+    "tamazight": [
+      "Azkuk"
+    ]
+  },
+  {
+    "french": "Action de semer, de répandre",
+    "tamazight": [
+      "Azraɛ"
+    ]
+  },
+  {
+    "french": "Gaulage",
+    "tamazight": [
+      "Azway"
+    ]
+  },
+  {
+    "french": "Mettre le bât de charge, bâter",
+    "tamazight": [
+      "Berdeɛ"
+    ]
+  },
+  {
+    "french": "Limer",
+    "tamazight": [
+      "Berred ; Ssemsed"
+    ]
+  },
+  {
+    "french": "Mettre en botes ; bottler (paille, fourrage)",
+    "tamazight": [
+      "Bewweṭ"
+    ]
+  },
+  {
+    "french": "Hiver",
+    "tamazight": [
+      "Ccetwa"
+    ]
+  },
+  {
+    "french": "Couper, cueillir des épis sur pied. ; Frotter",
+    "tamazight": [
+      "Cellef"
+    ]
+  },
+  {
+    "french": "Couper au pied",
+    "tamazight": [
+      "Cerref"
+    ]
+  },
+  {
+    "french": "Pastèque",
+    "tamazight": [
+      "Ddellaɛ"
+    ]
+  },
+  {
+    "french": "Quantité de ce qu’on va piler ou qu’on a pilé",
+    "tamazight": [
+      "Ddersa"
+    ]
+  },
+  {
+    "french": "Poitrail ; sangle de poitrail, pièce de harnais (mulet, cheval",
+    "tamazight": [
+      "Ddir – ddayer"
+    ]
+  },
+  {
+    "french": "Instruments, outils",
+    "tamazight": [
+      "Dduzan"
+    ]
+  },
+  {
+    "french": "Faire paître de bon matin, conduire les animaux aux champs de bon matin",
+    "tamazight": [
+      "Ḍeḥḥi"
+    ]
+  },
+  {
+    "french": "Couvrir en disse",
+    "tamazight": [
+      "Delles"
+    ]
+  },
+  {
+    "french": "Crépir, couvrir l’aire avec une couche de fumier liquide",
+    "tamazight": [
+      "Ḍerri"
+    ]
+  },
+  {
+    "french": "Tracer à la charrue le sllon préparatoire pour délimiter la parcolle à labourer",
+    "tamazight": [
+      "Ḍerref ; Ɛellem"
+    ]
+  },
+  {
+    "french": "Passer le poitrail à une bête de somme",
+    "tamazight": [
+      "Deyyer"
+    ]
+  },
+  {
+    "french": "S’affaisser, se coucher sous le joug (bœuf)",
+    "tamazight": [
+      "Dles"
+    ]
+  },
+  {
+    "french": "Appliquer de la bouse de vache sur les bourgeons du figuier pour les préserver des bêtes, des chèvres surtout",
+    "tamazight": [
+      "Eḍfi"
+    ]
+  },
+  {
+    "french": "Marquer, tracer ; limiter. Strier",
+    "tamazight": [
+      "Ɛellem"
+    ]
+  },
+  {
+    "french": "Engraisser ; nourrir à l’étable. ; Ajouter",
+    "tamazight": [
+      "Ɛlef"
+    ]
+  },
+  {
+    "french": "Fouir ; défoncer, piocher",
+    "tamazight": [
+      "Feyyel (feggel)"
+    ]
+  },
+  {
+    "french": "Nettoyer, balayer, éliminer les saletés. ; Vider",
+    "tamazight": [
+      "Freḍ (fṛeḍ)"
+    ]
+  },
+  {
+    "french": "Examiner les dents d’une bête pour apprécier son âge",
+    "tamazight": [
+      "Furr"
+    ]
+  },
+  {
+    "french": "Fumer (un terrain). Salir de fumier",
+    "tamazight": [
+      "Ɣebber"
+    ]
+  },
+  {
+    "french": "Etre sec, desséché. ; Etre dur, difficile ; fort (maigre et solide)",
+    "tamazight": [
+      "Ḥḍem"
+    ]
+  },
+  {
+    "french": "Butter, remonter la terre autour d’une racine",
+    "tamazight": [
+      "Ḥemmer"
+    ]
+  },
+  {
+    "french": "Etre permis, licite (de droit religieux positif)",
+    "tamazight": [
+      "Ḥlel"
+    ]
+  },
+  {
+    "french": "Etre dressé au labour (bœuf). ; Etre expérimenté ; être formé",
+    "tamazight": [
+      "Ḥret"
+    ]
+  },
+  {
+    "french": "Couper de l’herbe, des feuilles ; faucher",
+    "tamazight": [
+      "Ḥucc"
+    ]
+  },
+  {
+    "french": "Fève",
+    "tamazight": [
+      "Ibiw"
+    ]
+  },
+  {
+    "french": "Argile. terre à potier. Terraine argileux",
+    "tamazight": [
+      "Ideqqi"
+    ]
+  },
+  {
+    "french": "Poivron. Poivre. Piment",
+    "tamazight": [
+      "Ifelefel"
+    ]
+  },
+  {
+    "french": "Champ labouré et ensemencé, champ de céréales",
+    "tamazight": [
+      "Iger"
+    ]
+  },
+  {
+    "french": "Gros paquet d’herbe (forage frais)",
+    "tamazight": [
+      "Akanṭu"
+    ]
+  },
+  {
+    "french": "Emplacement du soc dans une charrue",
+    "tamazight": [
+      "Iles n tsilet"
+    ]
+  },
+  {
+    "french": "Chaume",
+    "tamazight": [
+      "Imeɣlel -- iɣlel"
+    ]
+  },
+  {
+    "french": "Balai de branchages (de romarin, de bruyère, etc.)",
+    "tamazight": [
+      "Imesleḥ"
+    ]
+  },
+  {
+    "french": "Pierre polie qui sert à aiguiser",
+    "tamazight": [
+      "Imileq ; Lmebred"
+    ]
+  },
+  {
+    "french": "Blé",
+    "tamazight": [
+      "Irden"
+    ]
+  },
+  {
+    "french": "Terre glaise, argile",
+    "tamazight": [
+      "Ires ; Akal ameqqran"
+    ]
+  },
+  {
+    "french": "Chevilles d’assemblage du timon de la charrue sur l’âge",
+    "tamazight": [
+      "Isefras ; Tiẓẓeft ; uḍfir ; taẓẓelt"
+    ]
+  },
+  {
+    "french": "Corde en sparte tressé",
+    "tamazight": [
+      "Iziker"
+    ]
+  },
+  {
+    "french": "Paître, faire pacager",
+    "tamazight": [
+      "Kes"
+    ]
+  },
+  {
+    "french": "Labourer",
+    "tamazight": [
+      "Krez"
+    ]
+  },
+  {
+    "french": "Mesurer",
+    "tamazight": [
+      "Ktil"
+    ]
+  },
+  {
+    "french": "Sorgho blanc (graminée alimentaire)",
+    "tamazight": [
+      "Lbecna"
+    ]
+  },
+  {
+    "french": "Plaine, vaste terrain sans arbres",
+    "tamazight": [
+      "Lbeḍḥa"
+    ]
+  },
+  {
+    "french": "Terrain en friche, endroit non labouré",
+    "tamazight": [
+      "Lbur (lbuṛ)"
+    ]
+  },
+  {
+    "french": "Pomme de terre",
+    "tamazight": [
+      "Lbaṭaṭa"
+    ]
+  },
+  {
+    "french": "Terrain en friche ; endroit non labouré",
+    "tamazight": [
+      "Lbur"
+    ]
+  },
+  {
+    "french": "Orge en herbe donnée en fourrage aux bestiaux",
+    "tamazight": [
+      "Lɛedra"
+    ]
+  },
+  {
+    "french": "Oignons",
+    "tamazight": [
+      "Lebsel"
+    ]
+  },
+  {
+    "french": "Jardin, verger",
+    "tamazight": [
+      "Leǧnan"
+    ]
+  },
+  {
+    "french": "Mangeoire fixe formée de trous rectangulaires aménagés dans l’épaisseur de la murette dite tadekkant. On y fait passer le fourrage au bétail",
+    "tamazight": [
+      "Lmedwed"
+    ]
+  },
+  {
+    "french": "Gousses de fèves à peine formées",
+    "tamazight": [
+      "Lemɣud – ileɣmuden"
+    ]
+  },
+  {
+    "french": "Grand ciseaux. Cisailles. Sécateur",
+    "tamazight": [
+      "Lemqess"
+    ]
+  },
+  {
+    "french": "Fumier",
+    "tamazight": [
+      "Leɣbar"
+    ]
+  },
+  {
+    "french": "Germe de pomme de terre ou de courge, pousse de jeune courge",
+    "tamazight": [
+      "Imejji"
+    ]
+  },
+  {
+    "french": "Pousse (plante)",
+    "tamazight": [
+      "Imɣi"
+    ]
+  },
+  {
+    "french": "Grains, baies",
+    "tamazight": [
+      "Lḥebb"
+    ]
+  },
+  {
+    "french": "Fourrage vert qu’on coupe haute",
+    "tamazight": [
+      "Lqerḍ"
+    ]
+  },
+  {
+    "french": "Légumes",
+    "tamazight": [
+      "Lxeḍra"
+    ]
+  },
+  {
+    "french": "Céréale pour alimentation humaine",
+    "tamazight": [
+      "Nneɛma"
+    ]
+  },
+  {
+    "french": "Piocher",
+    "tamazight": [
+      "Nqec"
+    ]
+  },
+  {
+    "french": "Campagne. Champ",
+    "tamazight": [
+      "Lexla"
+    ]
+  },
+  {
+    "french": "Epouvantail pour les oiseaux",
+    "tamazight": [
+      "Lexyal"
+    ]
+  },
+  {
+    "french": "Double décalitre (vingt litres de céréales, orge, blé)",
+    "tamazight": [
+      "Lgelba"
+    ]
+  },
+  {
+    "french": "Grains ; baies. Boutons ; éruption boutons (sur la peau)",
+    "tamazight": [
+      "Lḥebb"
+    ]
+  },
+  {
+    "french": "Pois chiches",
+    "tamazight": [
+      "Lḥemmeẓ"
+    ]
+  },
+  {
+    "french": "Ferme, métairie, exploitation agricole",
+    "tamazight": [
+      "Lḥuc ; Leɛzib"
+    ]
+  },
+  {
+    "french": "Salaire en espèces",
+    "tamazight": [
+      "Lijara"
+    ]
+  },
+  {
+    "french": "Mesure",
+    "tamazight": [
+      "Lkil"
+    ]
+  },
+  {
+    "french": "Navet",
+    "tamazight": [
+      "Lleft"
+    ]
+  },
+  {
+    "french": "Cueillette, ramassage à terre",
+    "tamazight": [
+      "Lleqḍ"
+    ]
+  },
+  {
+    "french": "Tondre",
+    "tamazight": [
+      "Lles"
+    ]
+  },
+  {
+    "french": "Planche. Porte ; battant de porte. Planchette de scribe",
+    "tamazight": [
+      "Lluḥ"
+    ]
+  },
+  {
+    "french": "Charrue",
+    "tamazight": [
+      "Lmaɛun"
+    ]
+  },
+  {
+    "french": "Charrue utilisée pour le labour des terrain montagneux",
+    "tamazight": [
+      "Lmaɛun n udrar"
+    ]
+  },
+  {
+    "french": "charrue utilisée pour le labour des plaines",
+    "tamazight": [
+      "Lmaɛun n uzaɣar"
+    ]
+  },
+  {
+    "french": "charrue moderne",
+    "tamazight": [
+      "Lmaɛun n ufransis"
+    ]
+  },
+  {
+    "french": "Lime à métaux",
+    "tamazight": [
+      "Lmebred ; Amsed ; lmileq"
+    ]
+  },
+  {
+    "french": "Sorte de bat à deux paniers, pour transport",
+    "tamazight": [
+      "Lmeḥmel ; Tineqqalin"
+    ]
+  },
+  {
+    "french": "Terrain, propriété",
+    "tamazight": [
+      "Lmelk"
+    ]
+  },
+  {
+    "french": "Pelle",
+    "tamazight": [
+      "Lmesḥa"
+    ]
+  },
+  {
+    "french": "Sol, terre",
+    "tamazight": [
+      "Lqaɛa"
+    ]
+  },
+  {
+    "french": "Haricots",
+    "tamazight": [
+      "Lubya -- llubyan"
+    ]
+  },
+  {
+    "french": "Mettre en tas, en botte",
+    "tamazight": [
+      "Merres"
+    ]
+  },
+  {
+    "french": "Faire osciller, pencher. ; faire un second labour",
+    "tamazight": [
+      "Meyyel"
+    ]
+  },
+  {
+    "french": "Moissonner ; récolter",
+    "tamazight": [
+      "Mger"
+    ]
+  },
+  {
+    "french": "Germer, lever. Croitre, pousser",
+    "tamazight": [
+      "Mɣi"
+    ]
+  },
+  {
+    "french": "Transporter, déplacer. ; Transplanter ; repiquer",
+    "tamazight": [
+      "Neqqel"
+    ]
+  },
+  {
+    "french": "Meule de paille ; tas de paille",
+    "tamazight": [
+      "Nnader"
+    ]
+  },
+  {
+    "french": "Céréales pour l’alimentation humaine",
+    "tamazight": [
+      "blé, orge, maïs, bechna : Nneɛma"
+    ]
+  },
+  {
+    "french": "Transport de la moisson",
+    "tamazight": [
+      "Nneqla"
+    ]
+  },
+  {
+    "french": "Atteler",
+    "tamazight": [
+      "Qqen"
+    ]
+  },
+  {
+    "french": "Entrave aux pattes du bétail",
+    "tamazight": [
+      "Rrebg"
+    ]
+  },
+  {
+    "french": "Déchets. Eléments hétérogènes ; impuretés",
+    "tamazight": [
+      "Rreks"
+    ]
+  },
+  {
+    "french": "Jeune herbe, printemps",
+    "tamazight": [
+      "Rrbiɛ"
+    ]
+  },
+  {
+    "french": "Les biens par excellence donnés par Dieu, les récoltes ; les ressources alimentaires de base",
+    "tamazight": [
+      "Rrezq"
+    ]
+  },
+  {
+    "french": "Semis de jeunes plants (à repiquer ou non) (oignon, tomate, persil, salade, ail, piment, etc.)",
+    "tamazight": [
+      "Rrus (ṛṛus)"
+    ]
+  },
+  {
+    "french": "Engraisser ; nourrir à l’étable",
+    "tamazight": [
+      "Seɛlef"
+    ]
+  },
+  {
+    "french": "Prendre une terre, la labourer moyennant gage",
+    "tamazight": [
+      "Seqḍeɛ"
+    ]
+  },
+  {
+    "french": "Dépiquer, battre (céréales)",
+    "tamazight": [
+      "Serwet"
+    ]
+  },
+  {
+    "french": "Vendre les provisions essentielles (céréales, huile, beurre, miel…)",
+    "tamazight": [
+      "Siǧǧew"
+    ]
+  },
+  {
+    "french": "Récolte abondante",
+    "tamazight": [
+      "Ssaba"
+    ]
+  },
+  {
+    "french": "Aiguiser, affiler",
+    "tamazight": [
+      "Ssemsed"
+    ]
+  },
+  {
+    "french": "Faire tomber les épis avec un bâton ; dégager les épis de la javelle dont on veut faire du chaume",
+    "tamazight": [
+      "Sseqsem"
+    ]
+  },
+  {
+    "french": "Souffrance, situation intolérable, torture",
+    "tamazight": [
+      "Ssikis"
+    ]
+  },
+  {
+    "french": "Hutte (souvent bâtie en hauteur, sur un arbre, ou des pieux) de gardien de figues au séchage",
+    "tamazight": [
+      "Ssiwan"
+    ]
+  },
+  {
+    "french": "Sarcler",
+    "tamazight": [
+      "Ssusi"
+    ]
+  },
+  {
+    "french": "Plat en terre",
+    "tamazight": [
+      "Tabaqect"
+    ]
+  },
+  {
+    "french": "Paquet de laine dessuintée",
+    "tamazight": [
+      "Tabanta"
+    ]
+  },
+  {
+    "french": "Massete, typha angustifolia ; angustata",
+    "tamazight": [
+      "Tabuda"
+    ]
+  },
+  {
+    "french": "Filet",
+    "tamazight": [
+      "Tacebbakt"
+    ]
+  },
+  {
+    "french": "Vol de récolte sur pied aux champs ou au jardin",
+    "tamazight": [
+      "Tacellaft"
+    ]
+  },
+  {
+    "french": "Sangle de croupière",
+    "tamazight": [
+      "Tacemmirt"
+    ]
+  },
+  {
+    "french": "Bât. ; havresac",
+    "tamazight": [
+      "Tabarda"
+    ]
+  },
+  {
+    "french": "Instrument pour débroussailler (fourche, râteau…)",
+    "tamazight": [
+      "Taferrast ; Tagelzimt"
+    ]
+  },
+  {
+    "french": "Hachette; herminette",
+    "tamazight": [
+      "Tagelzimt ; Taferrast"
+    ]
+  },
+  {
+    "french": "Champ, terrain en bordure de rivière. Terre d’alluvions..",
+    "tamazight": [
+      "Taɣzuyt -- taɣzut"
+    ]
+  },
+  {
+    "french": "Petite pioche. Binette",
+    "tamazight": [
+      "Taqabact"
+    ]
+  },
+  {
+    "french": "Crossette de vigne, tige de courge, tige grimpante",
+    "tamazight": [
+      "Tara"
+    ]
+  },
+  {
+    "french": "Branchette, rameau d’arbre",
+    "tamazight": [
+      "Taseṭṭa"
+    ]
+  },
+  {
+    "french": "Herbe qui repousse dans les endroits humides en automne",
+    "tamazight": [
+      "Taxerfit"
+    ]
+  },
+  {
+    "french": "Jardin potager",
+    "tamazight": [
+      "Tibḥirt"
+    ]
+  },
+  {
+    "french": "Race ; espèce",
+    "tamazight": [
+      "Tacettalt"
+    ]
+  },
+  {
+    "french": "Branche d’arbre. rameau avec feuilles",
+    "tamazight": [
+      "Taciṭa"
+    ]
+  },
+  {
+    "french": "Moitié de gerbe",
+    "tamazight": [
+      "Taddeɣt"
+    ]
+  },
+  {
+    "french": "Petite gerbe ; javelle (ce qu’on tient dans une main)",
+    "tamazight": [
+      "Tadla"
+    ]
+  },
+  {
+    "french": "Petit champ réservé",
+    "tamazight": [
+      "Taɛaezzult"
+    ]
+  },
+  {
+    "french": "Soignage des bœufs",
+    "tamazight": [
+      "Taɛellaft"
+    ]
+  },
+  {
+    "french": "Collier de labour, garniture faite d’un coussinet de toile ou de cuir bourrée de paille ou d’alfa, destinée à protéger le cou du bœuf attelé",
+    "tamazight": [
+      "Tafekkalt"
+    ]
+  },
+  {
+    "french": "Travail des champs",
+    "tamazight": [
+      "Tafellaḥt"
+    ]
+  },
+  {
+    "french": "Champ, parcelle de terrain, terre, propriété",
+    "tamazight": [
+      "Taferka"
+    ]
+  },
+  {
+    "french": "Instrument pour débroussailler",
+    "tamazight": [
+      "Taferrast"
+    ]
+  },
+  {
+    "french": "Amas, tas (bois ou gerbes)",
+    "tamazight": [
+      "Taffa"
+    ]
+  },
+  {
+    "french": "Mancheron de la charrue",
+    "tamazight": [
+      "Tafuset -- tafettust"
+    ]
+  },
+  {
+    "french": "Hachette",
+    "tamazight": [
+      "Tagelzimt"
+    ]
+  },
+  {
+    "french": "Cheville d’assemblage du timon sur l’âge",
+    "tamazight": [
+      "Tagenturt"
+    ]
+  },
+  {
+    "french": "Soc de la charrue",
+    "tamazight": [
+      "Tagersa"
+    ]
+  },
+  {
+    "french": "Talon arrière de l’âge",
+    "tamazight": [
+      "Tagerzet"
+    ]
+  },
+  {
+    "french": "Sac en gros tissage, à double poche pour transporter le blé",
+    "tamazight": [
+      "Taɣrart ; Acwari"
+    ]
+  },
+  {
+    "french": "Ruche traditionnelle kabyle, faite de plaques de liège",
+    "tamazight": [
+      "Taɣrast"
+    ]
+  },
+  {
+    "french": "Grosse mouche à dard ; taon",
+    "tamazight": [
+      "Tagunt ; Nnaɛur"
+    ]
+  },
+  {
+    "french": "Champ, terrain en bordure d’une rivière, terre d’alluvions",
+    "tamazight": [
+      "Taɣzut -- taɣzuyt"
+    ]
+  },
+  {
+    "french": "Petite fête sans musique ni invitations pour mariage ou circoncision",
+    "tamazight": [
+      "Taḥerkukt"
+    ]
+  },
+  {
+    "french": "Grosse cheville qui traverse l’extrémité antérieure du timon de la charrue, c’est à elle qu’on fixe le timon au joug",
+    "tamazight": [
+      "Tajebbadt (ṭ) ; Tazitma ; lmejbed"
+    ]
+  },
+  {
+    "french": "Filet en corde (pour transport d’herbe, de fourrage)",
+    "tamazight": [
+      "Tajemmaɛt ; Tacebbakt"
+    ]
+  },
+  {
+    "french": "Petit pois (frais ou secs)",
+    "tamazight": [
+      "Tajilbant"
+    ]
+  },
+  {
+    "french": "Bouton, pompon rond",
+    "tamazight": [
+      "Takebbust"
+    ]
+  },
+  {
+    "french": "Pâturage, pacage",
+    "tamazight": [
+      "Takessawt"
+    ]
+  },
+  {
+    "french": "Poussière fine et dense provoquée par le battage",
+    "tamazight": [
+      "Takka"
+    ]
+  },
+  {
+    "french": "Muselière, en générale, le petit filet que l’on met aux animaux pour les empêcher d’ouvrir la bouche pour manger ou téter",
+    "tamazight": [
+      "Takmamt"
+    ]
+  },
+  {
+    "french": "Champ ou jardin situé en bordure de village",
+    "tamazight": [
+      "Tamazirt"
+    ]
+  },
+  {
+    "french": "Parcelle de terre comprise entre deux sillons de délimitation de l’encensement qui se fait avant le labour",
+    "tamazight": [
+      "Tamḍirt"
+    ]
+  },
+  {
+    "french": "Moisson, moissonnage",
+    "tamazight": [
+      "Tamegra"
+    ]
+  },
+  {
+    "french": "Terre, terrain",
+    "tamazight": [
+      "Tamurt"
+    ]
+  },
+  {
+    "french": "Goûter ; petit repas qui se prend avant lɛaser, ou au milieu de l’après-midi",
+    "tamazight": [
+      "Tanalt"
+    ]
+  },
+  {
+    "french": "Parcelle de terre renfermant quelques arbres fruitiers",
+    "tamazight": [
+      "Taneqqact"
+    ]
+  },
+  {
+    "french": "Petite pioche",
+    "tamazight": [
+      "Taqabact"
+    ]
+  },
+  {
+    "french": "Pieu, piquet",
+    "tamazight": [
+      "Tasalelt"
+    ]
+  },
+  {
+    "french": "Corps de la charrue ; âge",
+    "tamazight": [
+      "Tasilet -- tisilet"
+    ]
+  },
+  {
+    "french": "Courge. Citrouille",
+    "tamazight": [
+      "Taxsayt"
+    ]
+  },
+  {
+    "french": "Labour",
+    "tamazight": [
+      "Tayirza"
+    ]
+  },
+  {
+    "french": "Outre de peau de mouton débarrassée de sa laine, sert pour provisions sèches, farine, figues…",
+    "tamazight": [
+      "Taylewt"
+    ]
+  },
+  {
+    "french": "Paire de bœuf",
+    "tamazight": [
+      "Tayuga"
+    ]
+  },
+  {
+    "french": "Petite joug",
+    "tamazight": [
+      "Tazaglut"
+    ]
+  },
+  {
+    "french": "Battoir, sert à concasser le blé, les glands",
+    "tamazight": [
+      "Tazduzt"
+    ]
+  },
+  {
+    "french": "Sac de semence",
+    "tamazight": [
+      "Tazerraɛt"
+    ]
+  },
+  {
+    "french": "Grand courroie qui relie le joug au timon de la charrue",
+    "tamazight": [
+      "Tazitma ; Lmejbed ; tajebbadt"
+    ]
+  },
+  {
+    "french": "Petite cheville d’arrêt qui bloque les deux chevilles dites uḍfir et tiẓẓeft",
+    "tamazight": [
+      "Taẓẓelt"
+    ]
+  },
+  {
+    "french": "Fourche",
+    "tamazight": [
+      "Tazzert"
+    ]
+  },
+  {
+    "french": "Epi",
+    "tamazight": [
+      "Tidert -- tiyedret"
+    ]
+  },
+  {
+    "french": "Coté latérale de l’âge",
+    "tamazight": [
+      "Tidmert n tsilet"
+    ]
+  },
+  {
+    "french": "Ogonis angustissima (T.), plante à graines comestible",
+    "tamazight": [
+      "Tifḍasin"
+    ]
+  },
+  {
+    "french": "Vaste terrain en forte culture",
+    "tamazight": [
+      "Tigemmi"
+    ]
+  },
+  {
+    "french": "Partie postérieur du timon de la charrue (atmun) taillée en anneau ouvert ou s’engage la cheville d’assemblage (tagenturt)",
+    "tamazight": [
+      "Tijemmatin"
+    ]
+  },
+  {
+    "french": "Balai de palmier nain du commerce",
+    "tamazight": [
+      "Timesleḥt"
+    ]
+  },
+  {
+    "french": "Orge ; les orges",
+    "tamazight": [
+      "Timẓin"
+    ]
+  },
+  {
+    "french": "Paniers en fer en bois pour transports à dos d’âne (eau ; bois, pierre…)",
+    "tamazight": [
+      "Tineqqalin ; lmeḥmel"
+    ]
+  },
+  {
+    "french": "Tas de céréales ou de légumes secs battus (blé, fèves, lentilles, etc.)",
+    "tamazight": [
+      "Tirect"
+    ]
+  },
+  {
+    "french": "Portion de travail agricole",
+    "tamazight": [
+      "Tirni"
+    ]
+  },
+  {
+    "french": "Corps de la charrue, âge",
+    "tamazight": [
+      "Tisilet"
+    ]
+  },
+  {
+    "french": "Entraide communautaire et gratuite, à charge de retour, pour une tache collective difficile à réaliser sans aide",
+    "tamazight": [
+      "Tiwizi"
+    ]
+  },
+  {
+    "french": "Chevilles de bois qui traversent l’épaisseur du joug et viennent encadrer le cou de la bête de trait",
+    "tamazight": [
+      "Taxlalt – taxellalt"
+    ]
+  },
+  {
+    "french": "Cheville antérieure d’assemblage du timon de la charrue sur l’âge",
+    "tamazight": [
+      "Tiẓẓeft"
+    ]
+  },
+  {
+    "french": "Barbe de graine d’orge. ; brindille",
+    "tamazight": [
+      "Tiẓẓit"
+    ]
+  },
+  {
+    "french": "Préparer",
+    "tamazight": [
+      "Erẓ"
+    ]
+  },
+  {
+    "french": "Passer la croupière à une bête de somme",
+    "tamazight": [
+      "Ṭeffer"
+    ]
+  },
+  {
+    "french": "Croupière (harnais qui tient le bêt en passant sous la queue)",
+    "tamazight": [
+      "Ṭṭfer"
+    ]
+  },
+  {
+    "french": "Tomates (pieds et fruits)",
+    "tamazight": [
+      "Ṭumaṭic"
+    ]
+  },
+  {
+    "french": "Action de mettre, action de lier, action d’attacher",
+    "tamazight": [
+      "Tuqqna"
+    ]
+  },
+  {
+    "french": "Cheville qui fixe le timon à l’âge de la charrue",
+    "tamazight": [
+      "Uḍfir"
+    ]
+  },
+  {
+    "french": "Mal venu, rabougri",
+    "tamazight": [
+      "Ujjiḍ"
+    ]
+  },
+  {
+    "french": "Verger, particulièrement de figuiers",
+    "tamazight": [
+      "Urti"
+    ]
+  },
+  {
+    "french": "Sarclage ; binage",
+    "tamazight": [
+      "Usay"
+    ]
+  },
+  {
+    "french": "Terre argileuse",
+    "tamazight": [
+      "Uzwiɣ -- uzwaɣ"
+    ]
+  },
+  {
+    "french": "Plantation",
+    "tamazight": [
+      "Uẓu"
+    ]
+  },
+  {
+    "french": "Graine, semence",
+    "tamazight": [
+      "Zerriɛa"
+    ]
+  },
+  {
+    "french": "semence d’hiver",
+    "tamazight": [
+      "Zerriɛa ucetwi"
+    ]
+  },
+  {
+    "french": "Semer, répandre",
+    "tamazight": [
+      "Zreɛ"
+    ]
+  },
+  {
+    "french": "Eparpiller",
+    "tamazight": [
+      "Zuzer -- zzuzzer"
+    ]
+  },
+  {
+    "french": "Fumier de bêtes de somme. Bouse",
+    "tamazight": [
+      "Zzbel ; Leɣbar"
+    ]
+  },
+  {
+    "french": "Clôturer ; enclore d’une haine",
+    "tamazight": [
+      "Ẓerreb ; freg"
+    ]
+  },
+  {
+    "french": "Race bovine. Bovins (coll.). Appartenant à la race bovine",
+    "tamazight": [
+      "Abeqri"
+    ]
+  },
+  {
+    "french": "Jeune bouc",
+    "tamazight": [
+      "Aḥuli ; iɣid"
+    ]
+  },
+  {
+    "french": "Veau",
+    "tamazight": [
+      "Agenduz"
+    ]
+  },
+  {
+    "french": "Veau",
+    "tamazight": [
+      "Aɛejmi"
+    ]
+  },
+  {
+    "french": "Ovins (collectif d’espèce)",
+    "tamazight": [
+      "Aɣelmi"
+    ]
+  },
+  {
+    "french": "Cueillette",
+    "tamazight": [
+      "Tagmert"
+    ]
+  },
+  {
+    "french": "Ane",
+    "tamazight": [
+      "Aɣyul"
+    ]
+  },
+  {
+    "french": "Bâtonnet qu’on place en travers de la bouche d’un chevreau ou d’un agneu pour l’empêcher de têter",
+    "tamazight": [
+      "Asadel"
+    ]
+  },
+  {
+    "french": "Mulet",
+    "tamazight": [
+      "Aserdun"
+    ]
+  },
+  {
+    "french": "Bœuf",
+    "tamazight": [
+      "Azger"
+    ]
+  },
+  {
+    "french": "Troupeau (bétail). Troupe (de gens, de chiens, etc.)",
+    "tamazight": [
+      "Aqḍar"
+    ]
+  },
+  {
+    "french": "Bouc",
+    "tamazight": [
+      "Aqelwac"
+    ]
+  },
+  {
+    "french": "Animal qui a perdu quatre dents de lait. .",
+    "tamazight": [
+      "Arbeɛ"
+    ]
+  },
+  {
+    "french": "Animal qui a perdu deux dents de lait. .",
+    "tamazight": [
+      "Atni"
+    ]
+  },
+  {
+    "french": "Mouton",
+    "tamazight": [
+      "Axerfi ; Ikerri"
+    ]
+  },
+  {
+    "french": "Mouton ; précisément, mâle castré pour l’élevage (boucherie)",
+    "tamazight": [
+      "Ikerri"
+    ]
+  },
+  {
+    "french": "Bétail, troupeaux. Bien, richesse",
+    "tamazight": [
+      "Lmal"
+    ]
+  },
+  {
+    "french": "Le petit bétail (chèvre, mouron)",
+    "tamazight": [
+      "Lmal amejṭuḥ"
+    ]
+  },
+  {
+    "french": "Le grand bétail (vache, bœuf, cheval, mulet, âne)",
+    "tamazight": [
+      "Lmal ameqqran"
+    ]
+  },
+  {
+    "french": "Animaux domestiques produisant du lait",
+    "tamazight": [
+      "Lmal n tuẓẓga"
+    ]
+  },
+  {
+    "french": "Animaux domestiques utilisés pour le labour",
+    "tamazight": [
+      "Lmal n tyirza"
+    ]
+  },
+  {
+    "french": "Vache",
+    "tamazight": [
+      "Tafunast"
+    ]
+  },
+  {
+    "french": "Troupeau (plus improtant que taqeḍɛit)",
+    "tamazight": [
+      "Tajlibt"
+    ]
+  },
+  {
+    "french": "Chèvre",
+    "tamazight": [
+      "Taɣaṭ"
+    ]
+  },
+  {
+    "french": "Poule",
+    "tamazight": [
+      "Tayaẓiḍt"
+    ]
+  },
+  {
+    "french": "Vaches",
+    "tamazight": [
+      "Tistan"
+    ]
+  },
+  {
+    "french": "Mouton",
+    "tamazight": [
+      "Ufrik"
+    ]
+  },
+  {
+    "french": "Brebis",
+    "tamazight": [
+      "Ulli"
+    ]
+  },
+  {
+    "french": "Bête de somme ; monture ; souvent mulet",
+    "tamazight": [
+      "Zzayla"
+    ]
+  },
+  {
+    "french": "Sort d’impétigo autour du museau des lapins et autre bétail",
+    "tamazight": [
+      "Abiba"
+    ]
+  },
+  {
+    "french": "Asthme. Essoufflement. .",
+    "tamazight": [
+      "Abuneggaf – buneggaf"
+    ]
+  },
+  {
+    "french": "Loque graisseuse et sale",
+    "tamazight": [
+      "Adellag"
+    ]
+  },
+  {
+    "french": "Ver, vermine, larves",
+    "tamazight": [
+      "Awekkiw"
+    ]
+  },
+  {
+    "french": "Agacé (dents)",
+    "tamazight": [
+      "Aḍerres (aḍeṛṛes)"
+    ]
+  },
+  {
+    "french": "Charbon du blé (maladie cryptogamique)",
+    "tamazight": [
+      "Buḍellu ; Lkeḥla"
+    ]
+  },
+  {
+    "french": "Entérit épizootique (colique de la chèvre)",
+    "tamazight": [
+      "Buferda"
+    ]
+  },
+  {
+    "french": "Maladie des bœufs ; paralysie du train arrière",
+    "tamazight": [
+      "Busalem"
+    ]
+  },
+  {
+    "french": "Pucerons",
+    "tamazight": [
+      "Buseṭṭaf"
+    ]
+  },
+  {
+    "french": "Faiblesse de la vue ; cécité partielle",
+    "tamazight": [
+      "Butellis"
+    ]
+  },
+  {
+    "french": "Pucerons, rougeole",
+    "tamazight": [
+      "Buzzeggaɣ"
+    ]
+  },
+  {
+    "french": "Charançon, pucerons de fève, de pois",
+    "tamazight": [
+      "Ccluc"
+    ]
+  },
+  {
+    "french": "Plante dont les fruits collent à ce qu’ils touchent",
+    "tamazight": [
+      "Ḥenṭeḍ"
+    ]
+  },
+  {
+    "french": "Charbon du blé ou de céréales",
+    "tamazight": [
+      "maladie cryptogamique : Lkeḥla ; Buḍellu"
+    ]
+  },
+  {
+    "french": "Faiblesse de la vue ; cécité partielle",
+    "tamazight": [
+      "Lmeɣla"
+    ]
+  },
+  {
+    "french": "Maladie des figuiers ; ver blanc qui s’attaque aux fihuiers",
+    "tamazight": [
+      "Maras"
+    ]
+  },
+  {
+    "french": "Genre de scarabée qui mange graines et jeunes plants",
+    "tamazight": [
+      "Mcencen"
+    ]
+  },
+  {
+    "french": "Perce-oreille ; insecte",
+    "tamazight": [
+      "Menzel"
+    ]
+  },
+  {
+    "french": "Gros ver blanc qui se trouve dans le tronc des arbres",
+    "tamazight": [
+      "Qawsas"
+    ]
+  },
+  {
+    "french": "Ver (de bois, de viande séchée, etc.)",
+    "tamazight": [
+      "Ssus ; Maras ; tayilalt"
+    ]
+  },
+  {
+    "french": "Maladie due à une infection interne ; cané ou infection",
+    "tamazight": [
+      "Tabeɛɛuct"
+    ]
+  },
+  {
+    "french": "Parasite des ruches qui mange le miel",
+    "tamazight": [
+      "Tanulya"
+    ]
+  },
+  {
+    "french": "Chose qui étrangle, diphtérie, pousse",
+    "tamazight": [
+      "Taxennaqt"
+    ]
+  },
+  {
+    "french": "Maladie de figuier qui de dessèche",
+    "tamazight": [
+      "Tayilalt ; Maras ; ssus"
+    ]
+  },
+  {
+    "french": "Variole",
+    "tamazight": [
+      "Tazerzayt"
+    ]
+  },
+  {
+    "french": "Tournis du mouton",
+    "tamazight": [
+      "Ṭṭaglal"
+    ]
+  },
+  {
+    "french": "Le premier jour de l’été, le 17 mai du calendrier julien",
+    "tamazight": [
+      "Amenzu n unebdu"
+    ]
+  },
+  {
+    "french": "Le premier jour du printemps ; c’est le 15 furar du calendrier solaire agricole traditionnel (julien)",
+    "tamazight": [
+      "Amenzu n tefsut"
+    ]
+  },
+  {
+    "french": "Période de mauvais temps de l’année agricole, une quinzaine de jours (de fin février à début mars) ; habituellement période de foid et de vent",
+    "tamazight": [
+      "Aḥeyyan"
+    ]
+  },
+  {
+    "french": "Nom du dernier jour de janvier (jour prêté par février, suivant la légende, pour se venger de la vieille)",
+    "tamazight": [
+      "Amerḍil"
+    ]
+  },
+  {
+    "french": "Eté. Saison du calendrier agricole commençant le 17 maggu ; elle dure quatre-vingt-douze jours",
+    "tamazight": [
+      "Anebdu"
+    ]
+  },
+  {
+    "french": "Année",
+    "tamazight": [
+      "Aseggas"
+    ]
+  },
+  {
+    "french": "Période pendant laquelle la fève mûrit et se consomme verte",
+    "tamazight": [
+      "Asefruri"
+    ]
+  },
+  {
+    "french": "Mois",
+    "tamazight": [
+      "Ayyur ; Ccher"
+    ]
+  },
+  {
+    "french": "Hiver",
+    "tamazight": [
+      "Ccetwa"
+    ]
+  },
+  {
+    "french": "Semaine",
+    "tamazight": [
+      "Ddurt"
+    ]
+  },
+  {
+    "french": "Février mois du calendrier agricole solaire",
+    "tamazight": [
+      "Furar"
+    ]
+  },
+  {
+    "french": "Août du calendrier agricole solaire",
+    "tamazight": [
+      "Ɣuct"
+    ]
+  },
+  {
+    "french": "Epoque du début des labours d’automne",
+    "tamazight": [
+      "Ḥertadem ; Leḥlal"
+    ]
+  },
+  {
+    "french": "Période de mauvais temps de l’année agricole, une quinzaine de jours (de fin février à début mars) ; période de froid et de vent",
+    "tamazight": [
+      "Iḥeggamen ; Aḥeyyan"
+    ]
+  },
+  {
+    "french": "Période du calendrier agricole kabyle",
+    "tamazight": [
+      "Imellalen"
+    ]
+  },
+  {
+    "french": "Période de l’été où tout est sec",
+    "tamazight": [
+      "Iquranen"
+    ]
+  },
+  {
+    "french": "Période de l’été ou les champs commencent à jaunir",
+    "tamazight": [
+      "Iwraɣen"
+    ]
+  },
+  {
+    "french": "Période de sept jour de l’année agricole, au printemps",
+    "tamazight": [
+      "Izegzawen"
+    ]
+  },
+  {
+    "french": "Octobre (du calendrier agricole solaire)",
+    "tamazight": [
+      "Ktuber -- tuber"
+    ]
+  },
+  {
+    "french": "Licite, permis ; période d’ouverture des labours",
+    "tamazight": [
+      "Leḥlal ; Ḥertadem"
+    ]
+  },
+  {
+    "french": "Période où les laboures débutent officiellement",
+    "tamazight": [
+      "Leḥlal n tyirza"
+    ]
+  },
+  {
+    "french": "Période où les feuilles de figuier peuvent être données au bétail",
+    "tamazight": [
+      "Leḥlal n yifer"
+    ]
+  },
+  {
+    "french": "Période du calendrier agricole kabyle",
+    "tamazight": [
+      "Lemɛinsla (lemɛinṣla)"
+    ]
+  },
+  {
+    "french": "Période du calendrier agricole kabyle",
+    "tamazight": [
+      "Leqwareḥ"
+    ]
+  },
+  {
+    "french": "Automne",
+    "tamazight": [
+      "Lexrif"
+    ]
+  },
+  {
+    "french": "Mai mois du calendrier agricole solaire",
+    "tamazight": [
+      "Mayyu (maggu)"
+    ]
+  },
+  {
+    "french": "Mars du calendrier solaire traditionnel (julien)",
+    "tamazight": [
+      "Meɣres"
+    ]
+  },
+  {
+    "french": "Période de l’année agricole",
+    "tamazight": [
+      "mansion lunaire de sept jours, du 27 yebrir au 3 mayyu : Nnisan"
+    ]
+  },
+  {
+    "french": "Novembre",
+    "tamazight": [
+      "Nunember"
+    ]
+  },
+  {
+    "french": "Allumer des feux contre les brouillards",
+    "tamazight": [
+      "Semɛinsel"
+    ]
+  },
+  {
+    "french": "Période de canicule",
+    "tamazight": [
+      "Ssmayem"
+    ]
+  },
+  {
+    "french": "Période du calendrier agricole kabyle",
+    "tamazight": [
+      "Sswaleḥ"
+    ]
+  },
+  {
+    "french": "Printemps",
+    "tamazight": [
+      "Tafsut"
+    ]
+  },
+  {
+    "french": "Période de l’année agricole traditionnelle",
+    "tamazight": [
+      "Tamɣart"
+    ]
+  },
+  {
+    "french": "Commencement de la saison des figues",
+    "tamazight": [
+      "Tasemḍit"
+    ]
+  },
+  {
+    "french": "Le début de l’année agricole, le moment des premier labours",
+    "tamazight": [
+      "Tawwurt useggas"
+    ]
+  },
+  {
+    "french": "Période du calendrier agricole kabyle",
+    "tamazight": [
+      "Tiftirt"
+    ]
+  },
+  {
+    "french": "Avril mois du calendrier agricole",
+    "tamazight": [
+      "Yebrir -- ibrir"
+    ]
+  },
+  {
+    "french": "Premier mois du calendrier agricole solaire",
+    "tamazight": [
+      "Yennayer"
+    ]
+  },
+  {
+    "french": "Juillet du calendrier agricole solaire",
+    "tamazight": [
+      "Yulyu"
+    ]
+  },
+  {
+    "french": "Juin du calendrier agricole traditionnel (solaire)",
+    "tamazight": [
+      "Yunyu -- yunyuz"
+    ]
+  },
+  {
+    "french": "Rite processionnel. Nom propre ; serait le nom d’un personnage mythique supraterrestre mais uni à la terre et maître de la pluie fécondante",
+    "tamazight": [
+      "Anẓar"
+    ]
+  },
+  {
+    "french": "Période et cérémonies traditionnelles du commencement des labours",
+    "tamazight": [
+      "Aweǧǧeb"
+    ]
+  },
+  {
+    "french": "Homme masqué, déguisé ; un clown. pantomime",
+    "tamazight": [
+      "Buɛfif"
+    ]
+  },
+  {
+    "french": "Fête des première chaleurs (le premier jour ou l’on rentre le bétail au milieu de la journée à cause de la chaleur)",
+    "tamazight": [
+      "Tirirt n uzal"
+    ]
+  },
+  {
+    "french": "Base",
+    "tamazight": [
+      "Adda"
+    ]
+  },
+  {
+    "french": "Fichier",
+    "tamazight": [
+      "Afaylu"
+    ]
+  },
+  {
+    "french": "Nomenclature",
+    "tamazight": [
+      "Agerwisem"
+    ]
+  },
+  {
+    "french": "Plurilingue",
+    "tamazight": [
+      "Agtutlayan"
+    ]
+  },
+  {
+    "french": "Article",
+    "tamazight": [
+      "Amagrad"
+    ]
+  },
+  {
+    "french": "Professeur",
+    "tamazight": [
+      "Amasdawan"
+    ]
+  },
+  {
+    "french": "Spécialiste",
+    "tamazight": [
+      "Amazzag"
+    ]
+  },
+  {
+    "french": "Précision",
+    "tamazight": [
+      "Amqat"
+    ]
+  },
+  {
+    "french": "Systématique",
+    "tamazight": [
+      "Anagrawan"
+    ]
+  },
+  {
+    "french": "Encodage",
+    "tamazight": [
+      "Aneggel"
+    ]
+  },
+  {
+    "french": "Repérage",
+    "tamazight": [
+      "Armaq"
+    ]
+  },
+  {
+    "french": "Profession",
+    "tamazight": [
+      "Asadur"
+    ]
+  },
+  {
+    "french": "Critère",
+    "tamazight": [
+      "Asefren"
+    ]
+  },
+  {
+    "french": "Morphosémantique",
+    "tamazight": [
+      "Asnalɣamkan"
+    ]
+  },
+  {
+    "french": "Contexte",
+    "tamazight": [
+      "Attal"
+    ]
+  },
+  {
+    "french": "Calendrier",
+    "tamazight": [
+      "Awatay"
+    ]
+  },
+  {
+    "french": "Monolingue",
+    "tamazight": [
+      "Aynutlayan"
+    ]
+  },
+  {
+    "french": "Statut",
+    "tamazight": [
+      "Aẓayer"
+    ]
+  },
+  {
+    "french": "Réseau notionnel",
+    "tamazight": [
+      "Azeṭṭa asnirman"
+    ]
+  },
+  {
+    "french": "Signe linguistique",
+    "tamazight": [
+      "Azmul asnilsi"
+    ]
+  },
+  {
+    "french": "Concept",
+    "tamazight": [
+      "Imekti"
+    ]
+  },
+  {
+    "french": "Facteurs",
+    "tamazight": [
+      "Imgan"
+    ]
+  },
+  {
+    "french": "Etablir",
+    "tamazight": [
+      "Sker"
+    ]
+  },
+  {
+    "french": "Gestion",
+    "tamazight": [
+      "Tafrekt"
+    ]
+  },
+  {
+    "french": "Métalangage",
+    "tamazight": [
+      "Taɣefmeslayt"
+    ]
+  },
+  {
+    "french": "Polysémie",
+    "tamazight": [
+      "Tagetnamka"
+    ]
+  },
+  {
+    "french": "Onomasiologie",
+    "tamazight": [
+      "Tagmusemmi"
+    ]
+  },
+  {
+    "french": "Ensemble",
+    "tamazight": [
+      "Tagrumma"
+    ]
+  },
+  {
+    "french": "Encyclopédie",
+    "tamazight": [
+      "Takusna"
+    ]
+  },
+  {
+    "french": "Industriel",
+    "tamazight": [
+      "Amguran"
+    ]
+  },
+  {
+    "french": "Modèle",
+    "tamazight": [
+      "Tamudemt"
+    ]
+  },
+  {
+    "french": "Cognitive",
+    "tamazight": [
+      "Tamusnant"
+    ]
+  },
+  {
+    "french": "Lexicographie",
+    "tamazight": [
+      "Taseknawalt"
+    ]
+  },
+  {
+    "french": "Terminographie",
+    "tamazight": [
+      "Tasekniremt"
+    ]
+  },
+  {
+    "french": "Typologie",
+    "tamazight": [
+      "Tasensekka"
+    ]
+  },
+  {
+    "french": "Agronomie",
+    "tamazight": [
+      "Tasingert"
+    ]
+  },
+  {
+    "french": "Lexicologie",
+    "tamazight": [
+      "Tasnawalt"
+    ]
+  },
+  {
+    "french": "Biunivocité",
+    "tamazight": [
+      "Taynazmult"
+    ]
+  },
+  {
+    "french": "Homonymie",
+    "tamazight": [
+      "Taynisemt"
+    ]
+  },
+  {
+    "french": "Unité terminologique",
+    "tamazight": [
+      "Tayunt tasnirmant"
+    ]
+  },
+  {
+    "french": "Echantillon",
+    "tamazight": [
+      "Tikkest"
+    ]
+  },
+  {
+    "french": "Données",
+    "tamazight": [
+      "Tisefka"
+    ]
+  },
+  {
+    "french": "Composantes",
+    "tamazight": [
+      "Tisigar"
+    ]
+  },
+  {
+    "french": "Interjection",
+    "tamazight": [
+      "Tuhut"
+    ]
+  },
+  {
+    "french": "Sélectif",
+    "tamazight": [
+      "Ufrin"
+    ]
+  },
+  {
+    "french": "Hypothétique",
+    "tamazight": [
+      "Urdan"
+    ]
+  },
+  {
+    "french": "Index",
+    "tamazight": [
+      "Uskin"
+    ]
+  },
+  {
+    "french": "Spécifique",
+    "tamazight": [
+      "Uzzig"
+    ]
+  },
+  {
+    "french": "Fichier terminologique",
+    "tamazight": [
+      "Afaylu asnirman"
+    ]
+  },
+  {
+    "french": "Elément (d’un terme)",
+    "tamazight": [
+      "Aferdis (n yirem)"
+    ]
+  },
+  {
+    "french": "Référence",
+    "tamazight": [
+      "Aɣbalu"
+    ]
+  },
+  {
+    "french": "Equivalent",
+    "tamazight": [
+      "Agdazal"
+    ]
+  },
+  {
+    "french": "Dossier terminologique",
+    "tamazight": [
+      "Akaram asinrman"
+    ]
+  },
+  {
+    "french": "Banque de terminologie",
+    "tamazight": [
+      "Akufi n yirman ; Umuɣ n yirman"
+    ]
+  },
+  {
+    "french": "Travail terminologique",
+    "tamazight": [
+      "Amahil asnirman"
+    ]
+  },
+  {
+    "french": "Lexique",
+    "tamazight": [
+      "Amawal"
+    ]
+  },
+  {
+    "french": "Glossaire",
+    "tamazight": [
+      "Amawal n yilɣiten"
+    ]
+  },
+  {
+    "french": "Synonyme",
+    "tamazight": [
+      "Amegdawal"
+    ]
+  },
+  {
+    "french": "Quasi-synonyme",
+    "tamazight": [
+      "Amiken"
+    ]
+  },
+  {
+    "french": "Corpus",
+    "tamazight": [
+      "Ammud"
+    ]
+  },
+  {
+    "french": "Lexicographe",
+    "tamazight": [
+      "Amseknawal"
+    ]
+  },
+  {
+    "french": "Terminographe",
+    "tamazight": [
+      "Amseknirem"
+    ]
+  },
+  {
+    "french": "Terminologue",
+    "tamazight": [
+      "Amusnirem"
+    ]
+  },
+  {
+    "french": "Recherche (terminologique) thématique",
+    "tamazight": [
+      "Anadi (asnirman) asentalan"
+    ]
+  },
+  {
+    "french": "Recherche terminologique",
+    "tamazight": [
+      "Anadi asnirman"
+    ]
+  },
+  {
+    "french": "Sens (d’un terme)",
+    "tamazight": [
+      "Anamek (n yirem)"
+    ]
+  },
+  {
+    "french": "Domaine",
+    "tamazight": [
+      "Taɣult"
+    ]
+  },
+  {
+    "french": "Sous-domaine",
+    "tamazight": [
+      "Taɣult tanaddayt"
+    ]
+  },
+  {
+    "french": "Dictionnaire",
+    "tamazight": [
+      "Asegzawal"
+    ]
+  },
+  {
+    "french": "Dictionnaire terminologique",
+    "tamazight": [
+      "Asegzawal n tesniremt"
+    ]
+  },
+  {
+    "french": "Dictionnaire de langue",
+    "tamazight": [
+      "Asegzawal n tutlyat"
+    ]
+  },
+  {
+    "french": "Dictionnaire de spécialité",
+    "tamazight": [
+      "Asegzawal uzzig"
+    ]
+  },
+  {
+    "french": "Arbre terminologique",
+    "tamazight": [
+      "Aseklu asnirman"
+    ]
+  },
+  {
+    "french": "Dénomination",
+    "tamazight": [
+      "Asemmi"
+    ]
+  },
+  {
+    "french": "Marque d’usage",
+    "tamazight": [
+      "Aseqdec n yirem"
+    ]
+  },
+  {
+    "french": "Classement thématique",
+    "tamazight": [
+      "Asismel asentalan"
+    ]
+  },
+  {
+    "french": "Normalisation terminologique",
+    "tamazight": [
+      "Aslugen n yirman"
+    ]
+  },
+  {
+    "french": "Homonyme",
+    "tamazight": [
+      "Aynisem"
+    ]
+  },
+  {
+    "french": "Textes de spécialités",
+    "tamazight": [
+      "Iḍrisen uzzigen"
+    ]
+  },
+  {
+    "french": "Champ",
+    "tamazight": [
+      "Iger"
+    ]
+  },
+  {
+    "french": "Champ notionnel",
+    "tamazight": [
+      "Iger n tnamiḍranin"
+    ]
+  },
+  {
+    "french": "Terme",
+    "tamazight": [
+      "Irem"
+    ]
+  },
+  {
+    "french": "Terme-clé",
+    "tamazight": [
+      "Irem agejdan"
+    ]
+  },
+  {
+    "french": "Nom",
+    "tamazight": [
+      "Isem"
+    ]
+  },
+  {
+    "french": "Définition",
+    "tamazight": [
+      "Tabadut"
+    ]
+  },
+  {
+    "french": "Définition lexicographique",
+    "tamazight": [
+      "Tabadut taseknawalant"
+    ]
+  },
+  {
+    "french": "Définition terminographique",
+    "tamazight": [
+      "Tabadut taseknirmant"
+    ]
+  },
+  {
+    "french": "Citation",
+    "tamazight": [
+      "Tabdert"
+    ]
+  },
+  {
+    "french": "Onomasiologie",
+    "tamazight": [
+      "Tafisemt"
+    ]
+  },
+  {
+    "french": "Objet",
+    "tamazight": [
+      "Taɣawsa"
+    ]
+  },
+  {
+    "french": "Microstructure",
+    "tamazight": [
+      "Taɣessa n tbadutin"
+    ]
+  },
+  {
+    "french": "Macrostructure",
+    "tamazight": [
+      "Taɣessa n tewwura"
+    ]
+  },
+  {
+    "french": "Sémasiologie",
+    "tamazight": [
+      "Tagminamekt"
+    ]
+  },
+  {
+    "french": "Forme (d’un terme)",
+    "tamazight": [
+      "Talɣa (n yirem)"
+    ]
+  },
+  {
+    "french": "Vocabulaire",
+    "tamazight": [
+      "Tamawalt"
+    ]
+  },
+  {
+    "french": "Notion",
+    "tamazight": [
+      "Tamiḍrant"
+    ]
+  },
+  {
+    "french": "Notion-clé",
+    "tamazight": [
+      "Tamiḍrant tagejdant"
+    ]
+  },
+  {
+    "french": "Notion générique",
+    "tamazight": [
+      "Tamiḍrant tamizdit"
+    ]
+  },
+  {
+    "french": "Notion spécifique",
+    "tamazight": [
+      "Tamiḍrant tuzzigt"
+    ]
+  },
+  {
+    "french": "Analyse terminologique",
+    "tamazight": [
+      "Tasleḍt tasnirmant"
+    ]
+  },
+  {
+    "french": "Terminologie",
+    "tamazight": [
+      "Tasniremt"
+    ]
+  },
+  {
+    "french": "Entrée",
+    "tamazight": [
+      "Tawwurt"
+    ]
+  },
+  {
+    "french": "Note",
+    "tamazight": [
+      "Tazmilt"
+    ]
+  },
+  {
+    "french": "Fiche terminologique",
+    "tamazight": [
+      "Tiferret n yirem"
+    ]
+  },
+  {
+    "french": "Réalité",
+    "tamazight": [
+      "Tilawt"
+    ]
+  },
+  {
+    "french": "Données terminologique",
+    "tamazight": [
+      "Tisefka n yirem"
+    ]
+  },
+  {
+    "french": "Variante (d’un terme)",
+    "tamazight": [
+      "Tisenfelt (n yirem)"
+    ]
+  },
+  {
+    "french": "Dépouillement terminologique",
+    "tamazight": [
+      "Tukksa n yirman"
+    ]
+  },
+  {
+    "french": "Langue générale",
+    "tamazight": [
+      "Tutlayt timezdit"
+    ]
+  },
+  {
+    "french": "Langue de spécialité",
+    "tamazight": [
+      "Tutlayt tuzzigt"
+    ]
+  },
+  {
+    "french": "Terminologique",
+    "tamazight": [
+      "Tayunt n tesniremt"
+    ]
+  }
+]
